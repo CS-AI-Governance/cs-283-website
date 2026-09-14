@@ -20,8 +20,11 @@
     })();
   </script>
 
-  <!-- TODO: add a real CS283 favicon. (Stanford nav mark lives at
-       assets/img/stanford_logo.png.) -->
+  {% comment %}Favicon: white Stanford mark on a cardinal square. Routed through
+  relative_url — a project Pages site serves nothing at the root /favicon.ico a
+  browser would otherwise guess at.{% endcomment %}
+  <link rel="icon" type="image/png" href="{{ '/assets/img/favicon.png' | relative_url }}?v={{ site.time | date: '%s' }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/img/favicon.png' | relative_url }}?v={{ site.time | date: '%s' }}">
 
   <meta name="twitter:card" content="summary">
   <meta name="og:url" content="{{ page.url | absolute_url }}">
