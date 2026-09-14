@@ -6,8 +6,8 @@ law students**. Built with **Jekyll** and hosted on **GitHub Pages**.
 (`site.title` holds the full title; `site.short_title` = `CS283` for tab
 suffixes.)
 
-- Repo: `yasikhan/cs-283-website`
-- Live URL: https://yasikhan.github.io/cs-283-website/
+- Repo: `CS-AI-Governance/cs-283-website`
+- Live URL: https://cs-ai-governance.github.io/cs-283-website/
 - Local preview (requires Ruby 3.3 — see below):
   `export PATH="/opt/homebrew/opt/ruby@3.3/bin:$PATH" && bundle exec jekyll serve`
   → http://localhost:4000/cs-283-website/
@@ -111,7 +111,7 @@ to `PATH` before bundler. Newer Rubies (3.4+/4.x) drop stdlib libs and
 ## Deployment
 
 GitHub Pages builds from `main` (root). Push → auto rebuild. Poll with
-`gh api /repos/yasikhan/cs-283-website/pages/builds/latest -q .status`.
+`gh api /repos/CS-AI-Governance/cs-283-website/pages/builds/latest -q .status`.
 
 ## Content status (Fall 2026, from `assets/documents/F26 AIGov Syllabus.pdf`)
 
@@ -134,5 +134,7 @@ the site and should not be filled in by guessing:
 - [ ] All assignment due dates (`XXX` in the syllabus); teaching assistants;
       learning objectives (heading with no bullets); section topics, locations,
       and leaders; office hours for Reuel and Koyejo.
-- [ ] Real favicon / branding assets under `assets/` (head has a TODO).
+- [x] Favicon — `assets/img/favicon.png`, a 168×168 crop of the white Stanford
+      mark on cardinal, wired into `head.html` as `icon` + `apple-touch-icon`.
+      Other branding assets under `assets/` are still open.
 - [ ] Code/monospace font choice; custom Stanford domain — later.
