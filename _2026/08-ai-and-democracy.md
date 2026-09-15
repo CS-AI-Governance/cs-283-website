@@ -8,6 +8,7 @@ unit_title: "Societal Risk"
 deadlines:
   - label: "Law paper outline due"
     date: "Mon Oct 19"
+    track: law
 ready: true
 summary: >-
   Examines the new and emerging challenges and possibilities of AI and democracy.

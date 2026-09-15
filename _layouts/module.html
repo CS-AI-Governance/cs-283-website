@@ -46,12 +46,14 @@
         </td>
         <td class="cal-deadline">
           {%- comment -%}
+            An entry may set `track: law`, which adds .label-due--law so the
+            law-student deadlines read in a darker red than the shared ones.
             `deadlines` is a list so one lecture can carry more than one badge
             (L19 closes both the final project and the law paper). Each entry's
             date is a separate key so only it can be bolded inside the badge;
             the label stays regular weight.
           {%- endcomment -%}
-          {%- for d in doc.deadlines %}<span class="label label-due">{{ d.label }}{% if d.date %} <strong>{{ d.date }}</strong>{% endif %}</span>{% endfor -%}
+          {%- for d in doc.deadlines %}<span class="label label-due{% if d.track %} label-due--{{ d.track }}{% endif %}">{{ d.label }}{% if d.date %} <strong>{{ d.date }}</strong>{% endif %}</span>{% endfor -%}
         </td>
       </tr>
       {%- endif -%}

@@ -160,6 +160,15 @@
   color: var(--cardinal);
 }
 
+/* Law-track deadlines (track: law in a lecture's `deadlines:` entry) — a
+   darker red than the shared milestones, so the two audiences' dates are
+   distinguishable at a glance in the same column. Same shape and face as
+   .label-due; only the red moves. */
+.label-due--law {
+  background-color: var(--cardinal-dark-wash);
+  color: var(--cardinal-dark);
+}
+
 /* A lecture can carry two deadlines (L19 closes both the final project and the
    law paper). Inline-block badges wrap inside the 9rem cell with no leading of
    their own, so give a stacked second badge some air. */
@@ -273,6 +282,14 @@
   .label-red {
     background-color: rgba(232, 116, 111, 0.40);
     color: var(--cardinal-light);
+  }
+
+  /* The light theme's darker red would vanish against the dark page, so the
+     law badge differentiates the other way: a deep solid red carrying lighter
+     text, still reading as the heavier of the two badge kinds. */
+  .label-due--law {
+    background-color: #5E0C0C;
+    color: #F09A95;
   }
 }
 

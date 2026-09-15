@@ -10,6 +10,7 @@ deadlines:
     date: "Fri Dec 4"
   - label: "Law paper due"
     date: "Sat Jan 3"
+    track: law
 ready: true
 summary: >-
   This session explores a range of plausible futures for AI, including dystopian

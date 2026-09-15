@@ -8,6 +8,7 @@ unit_title: "The AI Economy"
 deadlines:
   - label: "Law R-credit draft due"
     date: "Mon Nov 16"
+    track: law
 ready: true
 summary: >-
   This session covers the economic dimensions of the AI transition. First, we use
