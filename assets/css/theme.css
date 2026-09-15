@@ -5,6 +5,7 @@
 :root {
   --cardinal: #8C1515;                      /* Stanford Cardinal — nav, links, accents */
   --cardinal-tint: rgba(140, 21, 21, 0.15); /* transparent cardinal — highlights */
+  --cardinal-wash: rgba(140, 21, 21, 0.28); /* stronger tint — due badges, a step up from tint */
   --cardinal-light: #E8746F;                /* lighter cardinal — dark-mode accents */
   --cream: #FEFFED;                          /* page background */
 }

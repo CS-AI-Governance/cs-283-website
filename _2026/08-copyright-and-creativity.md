@@ -6,6 +6,7 @@ date: 2026-10-19
 week: 4
 week_title: "Governance Challenges, Part 2: Privacy, Ownership, and Creative Work"
 deadline: "Law paper outline due"
+deadline_date: "Mon Oct 19"
 ready: true
 summary: >-
   This lecture examines how AI model training intersects with copyright law,

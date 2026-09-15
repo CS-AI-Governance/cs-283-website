@@ -35,7 +35,11 @@
           {%- endif -%}
         </td>
         <td class="cal-deadline">
-          {%- if doc.deadline %}<span class="label label-due">{{ doc.deadline }}</span>{% endif -%}
+          {%- comment -%}
+            The date is a separate key (`deadline_date`) so only it can be
+            bolded inside the badge; the rest of the label stays regular weight.
+          {%- endcomment -%}
+          {%- if doc.deadline %}<span class="label label-due">{{ doc.deadline }}{% if doc.deadline_date %} <strong>{{ doc.deadline_date }}</strong>{% endif %}</span>{% endif -%}
         </td>
       </tr>
       {%- endif -%}

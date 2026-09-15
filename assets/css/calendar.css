@@ -127,15 +127,24 @@
   color: var(--cardinal);
 }
 
-/* Solid (due dates, exams) — also aliased to Just the Class's .label-red.
-   Set in the utility face, not .label's Lato, so every "due" string on the site
-   matches: .milestone-due on /assignments/, the calendar dates, and [slides]. */
+/* Due dates and exams — also aliased to Just the Class's .label-red. A wash
+   one step stronger than .label-section's tint, so the two badge kinds in the
+   same column still read apart. Set in the utility face, not .label's Lato, so
+   every "due" string on the site matches: .milestone-due on /assignments/, the
+   calendar dates, and [slides]. Only the date is bold (see module.html). */
 .label-due,
 .label-exam,
 .label-red {
   font-family: "Courier Prime", monospace;
-  background-color: var(--cardinal);
-  color: var(--cream);
+  font-weight: 400;
+  background-color: var(--cardinal-wash);
+  color: var(--cardinal);
+}
+
+.label-due strong,
+.label-exam strong,
+.label-red strong {
+  font-weight: 700;
 }
 
 /* ---- Narrow screens -----------------------------------------------------
@@ -221,12 +230,19 @@
     }
   }
 
-  /* Tinted (sections, labs) badges: lift text to the light cardinal so they
-     stay legible on the dark page. Solid .label-due stays white-on-cardinal
-     (not listed here, so its base rule is untouched). */
+  /* Both badge kinds: lift text to the light cardinal so they stay legible on
+     the dark page. .label-due keeps its one-step-stronger wash, mirroring the
+     tint/wash gap in the light theme. */
   .label-section,
   .label-purple {
     background-color: rgba(232, 116, 111, 0.22);
+    color: var(--cardinal-light);
+  }
+
+  .label-due,
+  .label-exam,
+  .label-red {
+    background-color: rgba(232, 116, 111, 0.40);
     color: var(--cardinal-light);
   }
 }

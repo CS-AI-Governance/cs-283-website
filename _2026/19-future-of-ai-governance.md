@@ -5,7 +5,8 @@ nav_title: "Future of AI Governance"
 date: 2026-12-02
 week: 10
 week_title: "Outlook"
-deadline: "Law paper due Sat Jan 3"
+deadline: "Law paper due"
+deadline_date: "Sat Jan 3"
 ready: true
 summary: >-
   This session explores a range of plausible futures for AI, including dystopian

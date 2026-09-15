@@ -6,6 +6,7 @@ date: 2026-11-16
 week: 8
 week_title: "The AI Economy"
 deadline: "Law R-credit draft due"
+deadline_date: "Mon Nov 16"
 ready: true
 summary: >-
   This session covers the economic dimensions of the AI transition. First, we use

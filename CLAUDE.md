@@ -94,8 +94,12 @@ suffixes.)
   and `- note: "…"` rows. `_layouts/module.html` looks each one up in the `_2026`
   collection, so a lecture's date and title are never written twice. Per-lecture
   `slides:` (URL) and `deadline:` (badge text) feed the schedule's last two
-  columns. Labels use `.label .label-due` / `.label .label-section`
-  (styled in `calendar.css`).
+  columns; `deadline_date:` (e.g. `Fri Oct 16`) is kept separate so the layout
+  can wrap it in `<strong>` — only the date is bold inside a badge. Give both
+  keys even when the deadline falls on the lecture's own day. Labels use
+  `.label .label-due` / `.label .label-section` (styled in `calendar.css`);
+  `.label-due` uses `--cardinal-wash`, one step stronger than the
+  `--cardinal-tint` on `.label-section`.
 - CSS/JS `<link>`/`<script>` tags in `head.html` carry a `?v={{ site.time | date:
   '%s' }}` cache-buster so each Pages build serves fresh assets (Pages sets
   `max-age=600` on assets). Keep new local assets on that pattern.
