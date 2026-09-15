@@ -961,7 +961,12 @@ input[type=checkbox]:checked ~ .menu-label:after {
 }
 
 .nav-dropdown {
-  display: none;
+  /* Hidden with visibility, not display, so the close can be delayed: the
+     transition below holds the panel open for .45s after the pointer leaves,
+     which makes the diagonal trip from "lectures" down to a row forgiving. */
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.12s linear 0.45s, visibility 0s linear 0.57s;
   position: absolute;
   top: 100%;
   left: 0;
@@ -977,9 +982,23 @@ input[type=checkbox]:checked ~ .menu-label:after {
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18);
 }
 
+/* Invisible bridge across the margin-top gap, so crossing it does not count as
+   leaving the trigger and start the close timer. */
+.nav-dropdown:before {
+  content: "";
+  position: absolute;
+  top: -0.45rem;
+  left: 0;
+  right: 0;
+  height: 0.45rem;
+}
+
 .nav-link--lectures:hover .nav-dropdown,
 .nav-link--lectures:focus-within .nav-dropdown {
-  display: block;
+  visibility: visible;
+  opacity: 1;
+  /* Opening is immediate; only the close is delayed. */
+  transition: opacity 0.08s linear 0s, visibility 0s linear 0s;
 }
 
 .nav-dropdown-item {
