@@ -17,19 +17,6 @@ summary: >-
   evaluation protocols.
 readings:
   required:
-    - authors: "Longpre, S., et al."
-      year: 2024
-      title: "A Safe Harbor for AI Evaluation and Red Teaming"
-      venue: "International Conference on Machine Learning (ICML)"
-      pages: 10
-    - authors: "Reuel, A., et al."
-      year: 2024
-      title: "BetterBench: Assessing AI Benchmarks"
-      venue: "Conference on Neural Information Processing Systems (NeurIPS)"
-      pages: 11
-    - authors: "Salaudeen, O., et al."
-      year: 2025
-      title: "Measurement to Meaning: A Validity-Centered Framework for AI Evaluation"
     - authors: "Boubdir, M., et al."
       year: 2023
       title: "Elo Uncovered: Robustness and Best Practices in Language Model Evaluation"
@@ -45,4 +32,17 @@ readings:
       title: "Regulatory Markets: The Future of AI Governance"
       venue: "arXiv"
       pages: 24
+    - authors: "Longpre, S., et al."
+      year: 2024
+      title: "A Safe Harbor for AI Evaluation and Red Teaming"
+      venue: "International Conference on Machine Learning (ICML)"
+      pages: 10
+    - authors: "Reuel, A., et al."
+      year: 2024
+      title: "BetterBench: Assessing AI Benchmarks"
+      venue: "Conference on Neural Information Processing Systems (NeurIPS)"
+      pages: 11
+    - authors: "Salaudeen, O., et al."
+      year: 2025
+      title: "Measurement to Meaning: A Validity-Centered Framework for AI Evaluation"
 ---

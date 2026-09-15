@@ -16,25 +16,24 @@ summary: >-
   concerns intersect with civil rights law, public trust, and social legitimacy.
 readings:
   required:
-    - authors: "Kleinberg, J., et al."
-      year: 2016
-      title: "Inherent Trade-Offs in the Fair Determination of Risk Scores"
-      venue: "Innovations in Theoretical Computer Science (ITCS)"
-      pages: 17
-    - authors: "Kearns, M., et al."
-      year: 2017
-      title: "Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness"
-      venue: "International Conference on Machine Learning (ICML)"
-      pages: 8
     - authors: "Barocas, S., Hardt, M., & Narayanan, A."
       year: 2023
       title: "Fairness & Machine Learning (chapters 1, 4, and 8)"
       venue: "MIT Press"
       pages: 71
+    - authors: "Gillum, R., et al."
+      year: 2026
+      title: "AI, Race, and Politics"
+      venue: "Artificial Intelligence, Politics, and Political Science, pp. 152–194"
+      pages: 43
+    - authors: "Lawyers Committee for Civil Rights"
+      title: "AI Civil Rights Act (homepage plus 1-page summary)"
+      pages: 1
     - authors: "Wang, A., et al."
       year: 2025
       title: "Fairness Through Difference Awareness"
       pages: 9
+  supplementary:
     - authors: "Ho, D. E., & Xiang, A."
       year: 2020
       title: "Affirmative Algorithms: The Legal Grounds for Fairness as Awareness"
