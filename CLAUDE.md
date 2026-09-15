@@ -131,9 +131,13 @@ the site and should not be filled in by guessing:
 - [ ] Slide decks — every `/schedule/` row shows an inert `[slides]` placeholder
       until a lecture gets a `slides:` URL in its front matter.
 - [ ] Reading URLs — the syllabus links only two of ~113 citations.
-- [ ] All assignment due dates (`XXX` in the syllabus); teaching assistants;
-      learning objectives (heading with no bullets); section topics, locations,
-      and leaders; office hours for Reuel and Koyejo.
+- [ ] Two assignment due dates still `XXX`: the Milestone 3 peer review and the
+      non-law final paper. The rest are set and live on `/assignments/`, with a
+      matching `deadline:` badge on the nearest lecture in `_2026/` (Milestone 1
+      → L7, law outline → L8, Milestone 2 → L9, public comment → L10, law
+      R-credit draft → L16, law final paper → L19).
+- [ ] Teaching assistants; learning objectives (heading with no bullets);
+      section topics, locations, and leaders; office hours for Reuel and Koyejo.
 - [x] Favicon — `assets/img/favicon.png`, a 168×168 crop of the white Stanford
       mark on cardinal, wired into `head.html` as `icon` + `apple-touch-icon`.
       Other branding assets under `assets/` are still open.

@@ -5,6 +5,7 @@ nav_title: "AI Agents"
 date: 2026-10-21
 week: 5
 week_title: "Governance Challenges, Part 3: Emerging Challenges"
+deadline: "Milestone 2 due Thu Oct 22"
 guest: "Tobin South"
 ready: true
 summary: >-

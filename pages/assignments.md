@@ -13,7 +13,7 @@ Because of different rules and grading systems between the law school and the
 rest of the university, **law students have a different set of requirements from
 other students in the class.** Open your track below.
 
-<p class="course-note">Due dates are being finalized and appear here as TBD. You will receive more information about each assignment well in advance of its due date.</p>
+<p class="course-note">Two dates — the peer review and the final paper for non-law students — are still being finalized and appear here as TBD. You will receive more information about each assignment well in advance of its due date.</p>
 
 <details class="track">
 <summary>Non-law students</summary>
@@ -26,14 +26,12 @@ project.
 
 ### AI Evaluation Research Project — 60%
 
-Due TBD at 5pm PST.
-
 <dl class="milestones">
   <dt>Milestone 1 — Question, relevance, and novelty write-up</dt>
-  <dd>State the question you want to answer, why anyone would or should care about the answer, and conduct a thorough literature review establishing whether this question is novel or has already been sufficiently addressed. 4 pages. <span class="milestone-due">Due TBD</span></dd>
+  <dd>State the question you want to answer, why anyone would or should care about the answer, and conduct a thorough literature review establishing whether this question is novel or has already been sufficiently addressed. 4 pages. <span class="milestone-due">Due Fri, Oct 16 at 5pm PT</span></dd>
 
   <dt>Milestone 2 — Project plan</dt>
-  <dd>Plan the question, the core contribution you want to make, your methods, how you will know if you succeeded, what resources and access you need, the most likely ways it can fail, and your fallback strategies. 2–3 pages. <span class="milestone-due">Due TBD</span></dd>
+  <dd>Plan the question, the core contribution you want to make, your methods, how you will know if you succeeded, what resources and access you need, the most likely ways it can fail, and your fallback strategies. 2–3 pages. <span class="milestone-due">Due Thu, Oct 22 at 5pm PT</span></dd>
 
   <dt>Milestone 3 — Peer review</dt>
   <dd>A 500-word peer review of another project plan. <span class="milestone-due">Due TBD</span></dd>
@@ -44,11 +42,29 @@ Due TBD at 5pm PST.
 
 ### Public Comment Assignment — 30%
 
-Due TBD at 5pm PST.
+Due Mon, Oct 26 at 5pm PT.
 
 Respond to any open AI governance consultation — any jurisdiction, any level of
 government — where a comment could plausibly change something. A list of live
-options is posted in week 2; other choices are approved on request.
+options is posted in week 2; other choices are approved on request. The
+submission has two parts.
+
+**1-page cover analysis.** Who is asking, under what authority, and what they can
+actually do with responses — a binding rule, guidance, a non-binding report, or
+agenda-setting. What decision this feeds, and when. Your ask in one sentence,
+with a brief rationale for why.
+
+**1,200 to 2,000 word comment.** The comment should:
+
+- Identify who you are and your standing to comment in the first paragraph.
+- Respond to at least one question or identifiable provision in the call.
+- Ground your claims in evidence you can point to: data, a documented case, a
+  technical constraint, a citation. Don't write "experts agree."
+- Engage at least one position you disagree with, and say why you disagree.
+- Make a specific requested change — a proposed text, a threshold, a definition,
+  or a procedural step. "The Commission should consider" is not a request.
+- Say what your recommendation costs, and outline the potential implications for
+  different stakeholders.
 
 ### Attendance and participation — 10%
 
@@ -75,19 +91,28 @@ See [Sections]({{ '/sections/' | relative_url }}) for the attendance policy.
 
 ### AI Governance Research Paper — 100%
 
-Due TBD at 5pm.
+Your grade is determined by a final research paper on any topic within the
+subject matter of the class, and by class and section participation.
 
-A final research paper of no fewer than 25 pages on any topic covered in the
-course.
+<dl class="milestones">
+  <dt>Paper outline</dt>
+  <dd>An outline of the paper. <span class="milestone-due">Due Mon, Oct 19 at 5pm PT</span></dd>
 
-You may use AI tools in the research and production of the paper, but you must
+  <dt>Final paper</dt>
+  <dd>A research paper of no fewer than 25 pages on any topic within the subject matter of the class. <span class="milestone-due">Due Sat, Jan 3 at 5pm PT</span></dd>
+</dl>
+
+If you are taking this class for **"R" credit**, the paper shall be 30 pages in
+length and, in addition to the above requirements, you must also submit a rough
+draft by **Mon, Nov 16 at 5pm PT**.
+
+You may use AI tools in the research and production of these papers, but you must
 disclose in a separate document how you used AI, and **any hallucinations in the
-paper will result in a failing grade.**
+paper shall result in a failing grade.** You must also write your outline and
+paper in Google Docs and share the document with Professor Persily, so he can
+track your use of AI and the progress on your paper.
 
-You must also complete the group policy assignment, graded **pass/fail**. If you
-do not participate, you will not be eligible for Honors in the class.
-
-<p class="course-note">Law students are graded by Professor Persily, on the H-P system and the upper-level class curve. You must attend the lectures and may miss no more than two if you wish to be eligible for Honors. You are not expected to attend the last two classes, as they conflict with the Law School's reading period.</p>
+<p class="course-note">Law students are graded by Professor Persily, on the H-P system and the upper-level class curve. You may miss no more than two lectures if you wish to be eligible for Honors in the class. You are not expected — though you are nevertheless encouraged — to attend the last class, as it conflicts with the Law School's reading period.</p>
 
 </div>
 </details>

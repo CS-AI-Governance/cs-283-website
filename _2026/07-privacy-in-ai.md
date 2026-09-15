@@ -5,6 +5,7 @@ nav_title: "Privacy in AI"
 date: 2026-10-14
 week: 4
 week_title: "Governance Challenges, Part 2: Privacy, Ownership, and Creative Work"
+deadline: "Milestone 1 due Fri Oct 16"
 ready: true
 summary: >-
   This session will cover privacy, which can be implicated in the use of private
