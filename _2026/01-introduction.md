@@ -14,16 +14,24 @@ summary: >-
   AI as a "normal" technology and arguments for managing extreme risks.
 readings:
   required:
-    - authors: "Kokotajlo, D., Alexander, S., Larsen, T., Lifland, E., & Dean, R."
-      year: 2025
-      title: "AI 2027"
+    - authors: "Altman, S."
+      year: 2024
+      title: "The Intelligence Age"
+      pages: 3
+    - authors: "Amodei, D."
+      year: 2026
+      title: "We Must Pace the Frontier"
+      pages: 20
+    - authors: "Andreessen, M."
+      year: 2023
+      title: "The Techno-Optimist Manifesto"
+      venue: "Andreessen Horowitz"
+      pages: 18
+    - authors: "Kokotajlo, D., Greenblatt, R., Larsen, T., Lifland, E., Dean, R., & Halstead, B."
+      year: 2026
+      title: "AI 2040: Plan A"
       venue: "AI Futures Project"
-      pages: 71
-    - authors: "Narayanan, A., & Kapoor, S."
-      year: 2025
-      title: "AI as Normal Technology"
-      venue: "Knight Foundation"
-      pages: 41
+      pages: 90
     - authors: "Toner, H."
       year: 2025
       title: "Unresolved Debates about the Future of AI"
@@ -34,18 +42,18 @@ readings:
       year: 2024
       title: "Machines of Loving Grace"
       pages: 46
-    - authors: "Andreessen, M."
-      year: 2023
-      title: "The Techno-Optimist Manifesto"
-      venue: "Andreessen Horowitz"
-      pages: 18
+    - authors: "Bengio, Y."
+      year: 2026
+      title: "International AI Safety Report (Executive Summary)"
+      pages: 3
     - authors: "Bengio, Y., et al."
       year: 2024
       title: "Managing Extreme AI Risks Amid Rapid Progress"
       venue: "Science"
       pages: 6
-    - authors: "Bengio, Y."
+    - authors: "Narayanan, A., & Kapoor, S."
       year: 2025
-      title: "International AI Safety Report (Executive Summary)"
-      pages: 10
+      title: "AI as Normal Technology"
+      venue: "Knight Foundation"
+      pages: 41
 ---
