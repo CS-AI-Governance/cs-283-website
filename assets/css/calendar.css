@@ -127,10 +127,13 @@
   color: var(--cardinal);
 }
 
-/* Solid (due dates, exams) — also aliased to Just the Class's .label-red */
+/* Solid (due dates, exams) — also aliased to Just the Class's .label-red.
+   Set in the utility face, not .label's Lato, so every "due" string on the site
+   matches: .milestone-due on /assignments/, the calendar dates, and [slides]. */
 .label-due,
 .label-exam,
 .label-red {
+  font-family: "Courier Prime", monospace;
   background-color: var(--cardinal);
   color: var(--cream);
 }
