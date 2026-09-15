@@ -3,8 +3,8 @@ lecture: 1
 title: "Introduction: Methodological Approaches & Competing Visions of the AI Transition"
 nav_title: "Introduction"
 date: 2026-09-23
-week: 1
-week_title: "Foundations of AI and the Governance of Frontier Technologies"
+unit: 1
+unit_title: "Course Introduction"
 ready: true
 summary: >-
   Introductions from the instructors, with reflections on their different

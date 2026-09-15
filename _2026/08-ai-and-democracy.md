@@ -1,10 +1,13 @@
 ---
-lecture: 6
+lecture: 8
 title: "AI & Democracy"
 nav_title: "AI & Democracy"
-date: 2026-10-12
-week: 3
-week_title: "Governance Challenges, Part 1: Discrimination & Democracy"
+date: 2026-10-19
+unit: 4
+unit_title: "Societal Risk"
+deadlines:
+  - label: "Law paper outline due"
+    date: "Mon Oct 19"
 ready: true
 summary: >-
   Examines the new and emerging challenges and possibilities of AI and democracy.

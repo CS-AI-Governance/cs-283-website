@@ -160,6 +160,13 @@
   color: var(--cardinal);
 }
 
+/* A lecture can carry two deadlines (L19 closes both the final project and the
+   law paper). Inline-block badges wrap inside the 9rem cell with no leading of
+   their own, so give a stacked second badge some air. */
+.cal-deadline .label + .label {
+  margin-top: 0.3rem;
+}
+
 /* nowrap so the date never splits across lines inside a badge that wraps —
    "DRAFT DUE MON / NOV 16" stopped the bolded date reading as one unit. */
 .label-due strong,

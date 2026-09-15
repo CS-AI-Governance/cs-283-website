@@ -1,7 +1,7 @@
 ---
-title: "Week 10 — Outlook"
+title: "Outlook"
 year: 2026
-order: 10
+order: 8
 rows:
   - lecture: 19
   - section: true

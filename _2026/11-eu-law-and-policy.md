@@ -3,8 +3,11 @@ lecture: 11
 title: "EU Law and Policy"
 nav_title: "EU Law and Policy"
 date: 2026-10-28
-week: 6
-week_title: "Law and Policy in Practice, Part 1: EU and US"
+unit: 5
+unit_title: "National & International Approaches to AI Governance"
+deadlines:
+  - label: "Milestone 2 due"
+    date: "Fri Oct 30"
 ready: true
 summary: >-
   We dissect the EU AI Act and the GPAI Code of Practice, focusing on how risk

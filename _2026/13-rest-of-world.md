@@ -3,8 +3,11 @@ lecture: 13
 title: "Rest of the World Approaches to AI Governance"
 nav_title: "Rest of World AI Governance"
 date: 2026-11-04
-week: 7
-week_title: "Law and Policy in Practice, Part 2: Rest of World and International"
+unit: 5
+unit_title: "National & International Approaches to AI Governance"
+deadlines:
+  - label: "Milestone 3 due"
+    date: "Fri Nov 6"
 ready: true
 summary: >-
   This lecture examines the diverse and evolving approaches to AI governance in

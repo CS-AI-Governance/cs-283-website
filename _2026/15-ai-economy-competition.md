@@ -3,8 +3,8 @@ lecture: 15
 title: "The AI Economy: Competition, Open Models, & Antitrust"
 nav_title: "AI Economy: Competition & Anti-Trust"
 date: 2026-11-11
-week: 8
-week_title: "The AI Economy"
+unit: 6
+unit_title: "The AI Economy"
 ready: true
 summary: >-
   We will survey the state of antitrust and defamation law with respect to AI

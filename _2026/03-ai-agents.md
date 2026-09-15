@@ -1,12 +1,10 @@
 ---
-lecture: 9
-title: "The Special Problem of AI Agents & Multi-Agent Dynamics"
+lecture: 3
+title: "AI Agents & Multi-Agent Dynamics"
 nav_title: "AI Agents"
-date: 2026-10-21
-week: 5
-week_title: "Governance Challenges, Part 3: Emerging Challenges"
-deadline: "Milestone 2 due"
-deadline_date: "Thu Oct 22"
+date: 2026-09-30
+unit: 2
+unit_title: "Technical Foundations"
 guest: "Tobin South"
 ready: true
 summary: >-

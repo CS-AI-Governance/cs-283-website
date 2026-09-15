@@ -1,10 +1,13 @@
 ---
-lecture: 4
+lecture: 9
 title: "AI Infrastructure & Energy"
 nav_title: "AI Infrastructure & Energy"
-date: 2026-10-05
-week: 2
-week_title: "Technical Foundations: Measurement and Compute"
+date: 2026-10-21
+unit: 4
+unit_title: "Societal Risk"
+deadlines:
+  - label: "Public comment due"
+    date: "Fri Oct 23"
 ready: true
 summary: >-
   In this session, we investigate the physical infrastructure underpinning

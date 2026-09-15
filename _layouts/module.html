@@ -1,6 +1,6 @@
 {%- comment -%}
-  One week of the course calendar: a header row spanning the table, then one row
-  per entry. Structure adapted from Just the Class
+  One thematic unit of the course calendar: a header row spanning the table,
+  then one row per entry. Structure adapted from Just the Class
   (github.com/kevinlin1/just-the-class, MIT); re-implemented as a table.
 
   Rows are declared in the module's front matter and reference lectures by
@@ -10,6 +10,10 @@
     - lecture: N      a lecture, looked up in site['2026']
     - section: true   the weekly Thu/Fri section
     - note: "…"       a one-off (fall break)
+
+  A unit spans as many calendar weeks as its lectures need, so rows are simply
+  listed in date order and `section: true` goes wherever that week's section
+  falls.
 {%- endcomment -%}
 
 <tbody class="cal-week">
@@ -42,10 +46,12 @@
         </td>
         <td class="cal-deadline">
           {%- comment -%}
-            The date is a separate key (`deadline_date`) so only it can be
-            bolded inside the badge; the rest of the label stays regular weight.
+            `deadlines` is a list so one lecture can carry more than one badge
+            (L19 closes both the final project and the law paper). Each entry's
+            date is a separate key so only it can be bolded inside the badge;
+            the label stays regular weight.
           {%- endcomment -%}
-          {%- if doc.deadline %}<span class="label label-due">{{ doc.deadline }}{% if doc.deadline_date %} <strong>{{ doc.deadline_date }}</strong>{% endif %}</span>{% endif -%}
+          {%- for d in doc.deadlines %}<span class="label label-due">{{ d.label }}{% if d.date %} <strong>{{ d.date }}</strong>{% endif %}</span>{% endfor -%}
         </td>
       </tr>
       {%- endif -%}

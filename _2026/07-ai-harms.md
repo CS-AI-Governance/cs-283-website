@@ -1,10 +1,13 @@
 ---
-lecture: 17
-title: "AI Harms: Defamation & Well-being"
+lecture: 7
+title: "AI Harms: Defamation & Mental Health"
 nav_title: "AI Harms"
-date: 2026-11-18
-week: 9
-week_title: "Living with AI"
+date: 2026-10-14
+unit: 4
+unit_title: "Societal Risk"
+deadlines:
+  - label: "Milestone 1 due"
+    date: "Fri Oct 16"
 ready: true
 summary: >-
   We will survey the state of antitrust and defamation law with respect to AI

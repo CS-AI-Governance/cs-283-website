@@ -3,10 +3,13 @@ lecture: 19
 title: "The Future of AI Governance"
 nav_title: "Future of AI Governance"
 date: 2026-12-02
-week: 10
-week_title: "Outlook"
-deadline: "Law paper due"
-deadline_date: "Sat Jan 3"
+unit: 8
+unit_title: "Outlook"
+deadlines:
+  - label: "Milestone 4 due"
+    date: "Fri Dec 4"
+  - label: "Law paper due"
+    date: "Sat Jan 3"
 ready: true
 summary: >-
   This session explores a range of plausible futures for AI, including dystopian

@@ -1,7 +1,7 @@
 ---
-title: "Week 8 — The AI Economy"
+title: "The AI Economy"
 year: 2026
-order: 8
+order: 6
 rows:
   - lecture: 15
   - section: true

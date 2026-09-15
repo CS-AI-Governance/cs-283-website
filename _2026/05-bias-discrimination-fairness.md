@@ -3,8 +3,8 @@ lecture: 5
 title: "Bias, Discrimination, and Fairness"
 nav_title: "Bias, Discrimination, and Fairness"
 date: 2026-10-07
-week: 3
-week_title: "Governance Challenges, Part 1: Discrimination & Democracy"
+unit: 3
+unit_title: "Individual Risks"
 ready: true
 summary: >-
   We dive into technical definitions of fairness and examine algorithmic bias

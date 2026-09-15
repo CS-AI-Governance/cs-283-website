@@ -3,8 +3,8 @@ lecture: 2
 title: "Technical Foundations & Lessons from the History of Governing Frontier Technology"
 nav_title: "Technical Foundations and History"
 date: 2026-09-28
-week: 1
-week_title: "Foundations of AI and the Governance of Frontier Technologies"
+unit: 2
+unit_title: "Technical Foundations"
 ready: true
 summary: >-
   This lecture provides a technical foundation for understanding how modern AI

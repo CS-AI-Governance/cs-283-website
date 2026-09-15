@@ -1,5 +1,5 @@
 ---
-title: "Week 3 — Governance Challenges, Part 1: Discrimination & Democracy"
+title: "Individual Risks"
 year: 2026
 order: 3
 rows:

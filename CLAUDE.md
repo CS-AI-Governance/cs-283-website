@@ -68,8 +68,8 @@ suffixes.)
   slides · deadlines) from `site.modules | where: "year", site.current_year`;
   each module contributes a `<tbody>`. Pages needing more than the 35rem measure
   set `wide: true` in front matter (see `body.is-wide` in `main.css`).
-- Collections: `_modules/` (weekly calendar, `output: false`, needs `year` + `order`),
-  `_2026/` (lecture pages, `output: true`, `layout: lecture`).
+- Collections: `_modules/` (the calendar's thematic units, `output: false`, needs
+  `year` + `order`), `_2026/` (lecture pages, `output: true`, `layout: lecture`).
 
 ## Conventions
 
@@ -84,19 +84,31 @@ suffixes.)
   `_includes/readings.html` renders them and sums each group's stated `pages`
   into the header total. `readings_tbd: true` renders an explicit TBD box for a
   lecture the syllabus has not filled in yet. Page counts and citations come
-  from the syllabus verbatim — **never invent a `url:` or a page count.**
+  from the instructors verbatim — **never invent a `url:` or a page count.**
+- **Course units, not weeks**: the calendar is grouped by the *thematic units* of
+  the instructors' course map (Course Introduction, Technical Foundations,
+  Individual Risks, Societal Risk, National & International Approaches to AI
+  Governance, The AI Economy, Living with AI, Outlook) — **not** by calendar week,
+  and the units are uneven (1 to 4 lectures each). Each `_2026/*.md` carries
+  `unit:` (1–8) + `unit_title:`; `_layouts/lecture.html` prints the title alone
+  and `pages/lectures.md` groups by it. There is deliberately no week number
+  anywhere on the site. One `_modules` doc per unit, `order:` matching `unit:`.
 - **Lecture nav titles**: the hover dropdown in `_includes/nav.html` shows each
-  lecture's `nav_title:` (a short form, e.g. `AI Agents` for L9), falling back to
+  lecture's `nav_title:` (a short form, e.g. `AI Agents` for L3), falling back to
   `title` when it is absent. `/lectures/`, `/schedule/`, and the lecture pages
   themselves all keep the full syllabus `title`. New lectures should carry both.
 - **`_modules` docs hold no prose** — just `title`/`year`/`order` and a `rows:`
   list referencing lectures by number (`- lecture: 11`), plus `- section: true`
   and `- note: "…"` rows. `_layouts/module.html` looks each one up in the `_2026`
-  collection, so a lecture's date and title are never written twice. Per-lecture
-  `slides:` (URL) and `deadline:` (badge text) feed the schedule's last two
-  columns; `deadline_date:` (e.g. `Fri Oct 16`) is kept separate so the layout
-  can wrap it in `<strong>` — only the date is bold inside a badge. Give both
-  keys even when the deadline falls on the lecture's own day. Labels use
+  collection, so a lecture's date and title are never written twice. A unit may
+  span several calendar weeks, so rows are listed in date order and a
+  `- section: true` row goes wherever that week's Thu/Fri section falls.
+  Per-lecture `slides:` (URL) and `deadlines:` feed the schedule's last two
+  columns. `deadlines:` is a **list** of `{label, date}` so one lecture can carry
+  more than one badge (L19 closes both the final project and the law paper); the
+  `date` (e.g. `Fri Oct 16`) is a separate key so the layout can wrap it in
+  `<strong>` — only the date is bold inside a badge. Give both keys even when the
+  deadline falls on the lecture's own day. Labels use
   `.label .label-due` / `.label .label-section` (styled in `calendar.css`);
   `.label-due` uses `--cardinal-wash`, one step stronger than the
   `--cardinal-tint` on `.label-section`.
@@ -120,26 +132,47 @@ GitHub Pages builds from `main` (root). Push → auto rebuild. Poll with
 ## Content status (Fall 2026, from `assets/documents/F26 AIGov Syllabus.pdf`)
 
 Populated from the syllabus: home (description, logistics, four instructor bios),
-`/schedule/` (weeks 1–10), `/lectures/` + 18 lecture pages, `/assignments/`,
-`/sections/`, `/resources/`.
+`/schedule/` (8 units, 19 lectures), `/lectures/` + 19 lecture pages,
+`/assignments/`, `/sections/`, `/resources/`.
 
-Known gaps carried over from the syllabus itself — these render as **TBD/TBA** on
-the site and should not be filled in by guessing:
+**The syllabus PDF is superseded.** The instructors issued an updated course map
+that renumbered and regrouped most of the term: the old weekly grouping was
+replaced by 8 thematic units, AI Agents moved to L3, AI Evaluations to L4, the
+separate Privacy and Copyright lectures merged into L6, AI Harms to L7, AI &
+Democracy to L8, AI Infrastructure & Energy to L9, and "Human in an AI Age" to
+L17. Treat the PDF as history; the map and the instructors' direct input are the
+source of truth. Readings are being replaced lecture by lecture, with URLs, on
+the instructors' schedule.
 
-- [ ] Lecture 10 and Lecture 14 have no summary and no readings
-      (`readings_tbd: true`). **Lecture 14 — Geopolitics and Global AI
-      Governance, Mon Nov 9 — is not in the syllabus PDF**; the instructors added
-      it, and weeks 6/7 were regrouped around it (Week 6 = L11 + L12, Week 7 =
-      L13 + L14). The PDF's own grouping is now out of date. (Lecture 16 exists
-      in the PDF's body but is missing from its TOC.)
+Known gaps — these render as **TBD/TBA** on the site and should not be filled in
+by guessing:
+
+- [ ] **Lecture 18 (Mon Nov 30) has no topic at all** — the course map reserves
+      the slot and leaves it blank. The page is `ready: false` so `/lectures/`
+      lists it without a link.
+- [ ] **Lecture 6** (AI, Copyright, Creativity, and Privacy) needs a merged
+      reading list. The two superseded lists it was built from are preserved as
+      commented YAML inside `_2026/06-copyright-creativity-privacy.md`; delete
+      them once the real list lands.
+- [ ] Lecture 10 has no summary and no readings (`readings_tbd: true`).
+- [ ] Lecture 7 (AI Harms) still carries the reading list and the
+      `readings_note: "Assigned in previous weeks."` from when it sat in Week 9,
+      and two of its readings are antitrust papers that now sit oddly against
+      L15. Revisit when L7's readings are updated.
+- [ ] Lecture 14 — Geopolitics and Global AI Governance — is not in the syllabus
+      PDF; the instructors added it. (Lecture 16 exists in the PDF's body but is
+      missing from its TOC.)
 - [ ] Slide decks — every `/schedule/` row shows an inert `[slides]` placeholder
       until a lecture gets a `slides:` URL in its front matter.
 - [ ] Reading URLs — the syllabus links only two of ~113 citations.
-- [ ] Two assignment due dates still `XXX`: the Milestone 3 peer review and the
-      non-law final paper. The rest are set and live on `/assignments/`, with a
-      matching `deadline:` badge on the nearest lecture in `_2026/` (Milestone 1
-      → L7, law outline → L8, Milestone 2 → L9, public comment → L10, law
-      R-credit draft → L16, law final paper → L19).
+- [x] Assignment due dates — all set from the updated course map and live on
+      `/assignments/`, each with a `deadlines:` badge on the nearest preceding
+      lecture in `_2026/`: Milestone 1 Fri Oct 16 → L7, law paper outline Mon
+      Oct 19 → L8, public comment Fri Oct 23 → L9, Milestone 2 Fri Oct 30 → L11,
+      Milestone 3 Fri Nov 6 → L13, law R-credit draft Mon Nov 16 → L16, and both
+      Milestone 4 Fri Dec 4 and the law paper Sat Jan 3 → L19. The course map
+      calls the public comment assignment the "RFC"; the site keeps the fuller
+      name it already used.
 - [ ] Teaching assistants; learning objectives (heading with no bullets);
       section topics, locations, and leaders; office hours for Reuel and Koyejo.
 - [x] Favicon — `assets/img/favicon.png`, a 168×168 crop of the white Stanford

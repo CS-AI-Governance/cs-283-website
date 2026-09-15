@@ -1,7 +1,7 @@
 ---
-title: "Week 9 — Living with AI"
+title: "Living with AI"
 year: 2026
-order: 9
+order: 7
 rows:
   - lecture: 17
   - section: true

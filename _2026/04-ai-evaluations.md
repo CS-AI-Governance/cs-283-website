@@ -1,10 +1,10 @@
 ---
-lecture: 3
+lecture: 4
 title: "AI Evaluations"
 nav_title: "AI Evaluations"
-date: 2026-09-30
-week: 2
-week_title: "Technical Foundations: Measurement and Compute"
+date: 2026-10-05
+unit: 2
+unit_title: "Technical Foundations"
 ready: true
 summary: >-
   This lecture focuses on the role that evaluations play in AI governance. We
