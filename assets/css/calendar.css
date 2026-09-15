@@ -52,10 +52,14 @@
   background-clip: padding-box;
 }
 
+/* Middle, not baseline: a row's tallest cell is usually the wrapped lecture
+   title or a two-line due badge, and on a baseline the date, [slides] and badge
+   all hung off its first line. Centred, every cell reads against one centre
+   line per row. */
 .cal td {
   padding: 0.5rem 0.6rem;
   border-top: 1px solid rgba(0, 0, 0, 0.14);
-  vertical-align: baseline;
+  vertical-align: middle;
 }
 
 .cal-date {
@@ -64,6 +68,21 @@
   color: #555;
   white-space: nowrap;
   width: 7.5rem;
+}
+
+/* The cell's own contents also centre on that line. A <td> can't be the flex
+   container — changing its display would destroy its table-cell box — so the
+   number and title are flexed inside a wrapper span (see module.html). This is
+   what keeps the number level with a title that has wrapped to two or three
+   lines instead of stuck on the first. */
+.cal-topic-inner {
+  display: flex;
+  align-items: center;
+}
+
+.cal-topic-inner > .cal-num,
+.cal-topic-inner > .label {
+  flex: 0 0 auto;
 }
 
 /* Lecture number: the sequence is load-bearing on this page, so it gets its own
@@ -141,10 +160,13 @@
   color: var(--cardinal);
 }
 
+/* nowrap so the date never splits across lines inside a badge that wraps —
+   "DRAFT DUE MON / NOV 16" stopped the bolded date reading as one unit. */
 .label-due strong,
 .label-exam strong,
 .label-red strong {
   font-weight: 700;
+  white-space: nowrap;
 }
 
 /* ---- Narrow screens -----------------------------------------------------
