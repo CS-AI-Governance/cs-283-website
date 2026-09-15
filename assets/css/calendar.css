@@ -146,12 +146,23 @@
   color: var(--cardinal);
 }
 
-/* Due dates and exams — also aliased to Just the Class's .label-red. A wash
-   one step stronger than .label-section's tint, so the two badge kinds in the
-   same column still read apart. Set in the utility face, not .label's Lato, so
-   every "due" string on the site matches: .milestone-due on /assignments/, the
-   calendar dates, and [slides]. Only the date is bold (see module.html). */
-.label-due,
+/* Deadlines are grey, not cardinal: the column mixes dates for two audiences,
+   and two shades of red were not separable at this size. Grey also leaves
+   cardinal to .label-section alone, so a glance at the column distinguishes a
+   deadline from a section. Set in the utility face, not .label's Lato, so every
+   "due" string on the site matches: .milestone-due on /assignments/, the
+   calendar dates, and [slides]. Only the date is bold (see module.html).
+
+   Shared (non-law) deadlines are the dark grey of the pair. .label-exam and
+   .label-red keep the cardinal wash — they are unused Just the Class aliases
+   whose names promise red. */
+.label-due {
+  font-family: "Courier Prime", monospace;
+  font-weight: 400;
+  background-color: var(--grey-dark);
+  color: #fff;
+}
+
 .label-exam,
 .label-red {
   font-family: "Courier Prime", monospace;
@@ -160,13 +171,12 @@
   color: var(--cardinal);
 }
 
-/* Law-track deadlines (track: law in a lecture's `deadlines:` entry) — a
-   darker red than the shared milestones, so the two audiences' dates are
-   distinguishable at a glance in the same column. Same shape and face as
-   .label-due; only the red moves. */
+/* Law-track deadlines (track: law in a lecture's `deadlines:` entry) — the
+   light grey of the pair, inverted to dark text, so the two audiences' dates
+   are separable at a glance even stacked in the same cell (L19). */
 .label-due--law {
-  background-color: var(--cardinal-dark-wash);
-  color: var(--cardinal-dark);
+  background-color: var(--grey-light);
+  color: var(--grey-ink);
 }
 
 /* A lecture can carry two deadlines (L19 closes both the final project and the
@@ -268,28 +278,27 @@
     }
   }
 
-  /* Both badge kinds: lift text to the light cardinal so they stay legible on
-     the dark page. .label-due keeps its one-step-stronger wash, mirroring the
-     tint/wash gap in the light theme. */
+  /* Section badges: lift text to the light cardinal so they stay legible on
+     the dark page. */
   .label-section,
   .label-purple {
     background-color: rgba(232, 116, 111, 0.22);
     color: var(--cardinal-light);
   }
 
-  .label-due,
   .label-exam,
   .label-red {
     background-color: rgba(232, 116, 111, 0.40);
     color: var(--cardinal-light);
   }
 
-  /* The light theme's darker red would vanish against the dark page, so the
-     law badge differentiates the other way: a deep solid red carrying lighter
-     text, still reading as the heavier of the two badge kinds. */
-  .label-due--law {
-    background-color: #5E0C0C;
-    color: #F09A95;
+  /* The light theme's --grey-dark is too near the #303030 page to read as a
+     badge, so the shared deadline lifts to a mid grey and keeps its white
+     text. The law badge's light grey already stands off the dark page, so it
+     carries over unchanged. */
+  .label-due {
+    background-color: #5C605E;
+    color: #fff;
   }
 }
 

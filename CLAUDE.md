@@ -108,10 +108,16 @@ suffixes.)
   more than one badge (L19 closes both the final project and the law paper); the
   `date` (e.g. `Fri Oct 16`) is a separate key so the layout can wrap it in
   `<strong>` — only the date is bold inside a badge. Give both keys even when the
-  deadline falls on the lecture's own day. Labels use
-  `.label .label-due` / `.label .label-section` (styled in `calendar.css`);
-  `.label-due` uses `--cardinal-wash`, one step stronger than the
-  `--cardinal-tint` on `.label-section`.
+  deadline falls on the lecture's own day. An entry may also set `track: law`,
+  which adds `.label-due--law`.
+- **Badge colors** (styled in `calendar.css`): deadlines are **grey**, sections
+  are cardinal, so the two badge kinds in the schedule's columns never have to be
+  told apart by shade. Shared/non-law deadlines (`.label .label-due`) use
+  `--grey-dark` with white text; law-track deadlines (`+ .label-due--law`) invert
+  to `--grey-light` with `--grey-ink`. Sections (`.label .label-section`) keep
+  `--cardinal-tint`. Two reds were tried first and were not separable at 0.7rem —
+  don't reach for a third red. `.label-exam` / `.label-red` are unused Just the
+  Class aliases and stay on `--cardinal-wash`, since their names promise red.
 - CSS/JS `<link>`/`<script>` tags in `head.html` carry a `?v={{ site.time | date:
   '%s' }}` cache-buster so each Pages build serves fresh assets (Pages sets
   `max-age=600` on assets). Keep new local assets on that pattern.

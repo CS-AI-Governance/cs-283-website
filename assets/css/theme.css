@@ -7,7 +7,8 @@
   --cardinal-tint: rgba(140, 21, 21, 0.15); /* transparent cardinal — highlights */
   --cardinal-wash: rgba(140, 21, 21, 0.28); /* stronger tint — due badges, a step up from tint */
   --cardinal-light: #E8746F;                /* lighter cardinal — dark-mode accents */
-  --cardinal-dark: #6A0F0F;                 /* darker cardinal — law-track due badges */
-  --cardinal-dark-wash: rgba(106, 15, 15, 0.30); /* its wash — deeper than --cardinal-wash */
+  --grey-dark: #4A4A48;                     /* dark grey — shared deadline badges */
+  --grey-light: #DCDCD6;                    /* light grey — law-track deadline badges */
+  --grey-ink: #3A3A38;                      /* near-black grey — text on --grey-light */
   --cream: #FEFFED;                          /* page background */
 }
