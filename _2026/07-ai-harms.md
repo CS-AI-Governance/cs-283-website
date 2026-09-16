@@ -20,20 +20,26 @@ readings:
       year: 2025
       title: "Who Pays When AI Is Wrong?"
       venue: "The New York Times, November 12, 2025"
+      url: "https://www.nytimes.com/2025/11/12/business/media/ai-defamation-libel-slander.html"
     - authors: "Chatterjee, R."
       year: 2025
       title: "Their Teenage Sons Died by Suicide. Now They Are Sounding the Alarm About AI Chatbots"
-      venue: "KQED"
+      venue: "NPR KQED"
+      url: "https://www.npr.org/sections/shots-health-news/2025/09/19/nx-s1-5545749/ai-chatbots-safety-openai-meta-characterai-teens-suicide"
     - year: 2024
       title: "Complaint in Garcia v. Character Technologies (read the summary of claims)"
+      venue: "United States District Court of Florida, Orlando Division"
       pages: 126
+      url: "https://cdn.arstechnica.net/wp-content/uploads/2024/10/Garcia-v-Character-Technologies-Complaint-10-23-24.pdf"
     - year: 2025
       title: "Complaint in Raine v. OpenAI (focus on the introductory factual allegations)"
       venue: "Superior Court of California"
       pages: 53
+      url: "https://assets.alm.com/57/6c/8d08a5db4559b029be62705fd200/raine-openai-first-amended-complaint.pdf"
     - authors: "Volokh, E."
       year: 2023
       title: "Large Libel Models? Liability for AI Output"
       venue: "Journal of Free Speech Law"
       pages: 70
+      url: "https://www.journaloffreespeechlaw.org/volokh4.pdf"
 ---

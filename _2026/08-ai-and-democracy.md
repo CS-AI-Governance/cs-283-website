@@ -20,13 +20,16 @@ readings:
       year: 2026
       title: "Chapter 1: Artificial Intelligence & Democracy — Campaigns, Elections, Movements, and Deliberation"
       venue: "Artificial Intelligence, Politics, and Political Science"
+      url: "https://apsanet.org/wp-content/uploads/2026/08/Lee-TF-APSA-AI-Report-2026-Tucker-Persily.pdf"
     - authors: "Nyhan, B., et al."
       year: 2026
       title: "Chapter 2: Easy to Produce, Hard to Persuade — The Asymmetric Effects of AI on the Online Information Ecosystem"
       venue: "Artificial Intelligence, Politics, and Political Science"
+      url: "https://apsanet.org/wp-content/uploads/2026/08/Lee-TF-APSA-AI-Report-2026-Tucker-Persily.pdf"
     - authors: "Persily, N."
       year: 2024
       title: "Misunderstanding AI's Democracy Problem"
       venue: "The Digitalist Papers"
       pages: 17
+      url: "https://www.digitalistpapers.com/essays/misunderstanding-ais-democracy-problem"
 ---

@@ -15,21 +15,25 @@ summary: >-
   goals around fundamental rights, precaution, and market harmonization.
 readings:
   required:
-    - authors: "European Commission"
+    - authors: "Future of Life Institute"
       year: 2025
       title: "EU GPAI Code of Practice"
       pages: 55
+      url: "https://artificialintelligenceact.eu/code-of-practice-overview/"
     - authors: "Future of Life Institute"
       year: 2024
       title: "High-Level Summary of the EU AI Act"
       pages: 6
+      url: "https://artificialintelligenceact.eu/high-level-summary/"
     - authors: "G'sell, F."
       year: 2024
       title: "Regulating Under Uncertainty (pp. 202–246 on the AI Act)"
       pages: 43
+      url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4918704"
     - authors: "Voss, A."
       year: 2024
       title: "Getting Serious About AI Rules: Lack of Enforcement Capacity Puts EU at Risk"
       venue: "Euractiv"
       pages: 3
+      url: "https://www.euractiv.com/opinion/getting-serious-about-ai-rules-lack-of-enforcement-capacity-puts-eu-at-risk/"
 ---
