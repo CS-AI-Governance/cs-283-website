@@ -26,15 +26,15 @@ readings:
       title: "Generative Artificial Intelligence and Copyright Law"
       venue: "June 2025"
       pages: 7
-    - authors: "Cooper, A., et al."
-      year: 2024
-      title: "Machine Unlearning Doesn't Do What You Think"
-      pages: 24
     - authors: "Cooper, A., & Grimmelmann, J."
       year: 2025
       title: "On Copyright, Memorization, and Generative AI"
       venue: "Chicago-Kent Law Review, 100(1), 141–217"
       pages: 76
+    - authors: "Cooper, A., et al."
+      year: 2024
+      title: "Machine Unlearning Doesn't Do What You Think"
+      pages: 24
     - authors: "European Data Protection Board"
       year: 2024
       title: "Opinion 28/2024 on Certain Data Protection Aspects Related to the Processing of Personal Data in the Context of AI Models"
