@@ -22,27 +22,33 @@ readings:
       title: "Elo Uncovered: Robustness and Best Practices in Language Model Evaluation"
       venue: "Conference on Neural Information Processing Systems (NeurIPS)"
       pages: 13
+      url: "https://arxiv.org/abs/2311.17295"
     - authors: "Deng, C., et al."
       year: 2024
       title: "Investigating Data Contamination in Modern Benchmarks"
       venue: "Association for Computational Linguistics (ACL)"
       pages: 10
+      url: "https://arxiv.org/abs/2311.09783"
     - authors: "Hadfield, G., & Clark, J."
       year: 2023
       title: "Regulatory Markets: The Future of AI Governance"
       venue: "arXiv"
       pages: 24
+      url: "https://arxiv.org/abs/2304.04914"
     - authors: "Longpre, S., et al."
       year: 2024
       title: "A Safe Harbor for AI Evaluation and Red Teaming"
       venue: "International Conference on Machine Learning (ICML)"
       pages: 10
+      url: "https://proceedings.mlr.press/v235/longpre24a.html"
     - authors: "Reuel, A., et al."
       year: 2024
       title: "BetterBench: Assessing AI Benchmarks"
       venue: "Conference on Neural Information Processing Systems (NeurIPS)"
       pages: 11
+      url: "https://arxiv.org/abs/2411.12990"
     - authors: "Salaudeen, O., et al."
       year: 2025
       title: "Measurement to Meaning: A Validity-Centered Framework for AI Evaluation"
+      url: "https://arxiv.org/pdf/2505.10573"
 ---
