@@ -1,6 +1,6 @@
 ---
 lecture: 3
-title: "AI Agents & Multi-Agent Dynamics"
+title: "The Problem of AI Agents & Multi-Agent Dynamics"
 nav_title: "AI Agents"
 date: 2026-09-30
 unit: 2

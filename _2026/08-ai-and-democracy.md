@@ -11,7 +11,9 @@ deadlines:
     track: law
 ready: true
 summary: >-
-  Examines the new and emerging challenges and possibilities of AI and democracy.
+  This session examines the new and emerging challenges and possibilities of AI
+  and democracy. We explore the wide-ranging impacts of AI on elections,
+  political movements, and the online information ecosystem.
 readings:
   required:
     - authors: "Fung, A., et al."
@@ -26,5 +28,5 @@ readings:
       year: 2024
       title: "Misunderstanding AI's Democracy Problem"
       venue: "The Digitalist Papers"
-      pages: 5
+      pages: 17
 ---

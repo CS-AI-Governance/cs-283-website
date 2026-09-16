@@ -1,6 +1,6 @@
 ---
 lecture: 7
-title: "AI Harms: Defamation & Mental Health"
+title: "AI Harms: Defamation & Well-being"
 nav_title: "AI Harms"
 date: 2026-10-14
 unit: 4

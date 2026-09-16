@@ -22,22 +22,19 @@ summary: >-
   landscape of AI regulation.
 readings:
   required:
-    - authors: "Sheehan, M."
-      year: 2024
-      title: "Tracing the Roots of China's AI Regulations"
-    - authors: "Mohanti, A., & Sahu, S."
-      year: 2024
-      title: "India's Advance on AI Regulation"
     - authors: "Adan, S."
       year: 2024
       title: "Voice and Access in AI: Global AI Majority Participation in Artificial Intelligence Development and Governance"
-    - authors: "Personal Data Protection Commission"
+    - authors: "Mohanti, A., & Sahu, S."
       year: 2024
-      title: "Singapore's Approach to AI Governance (plus a skim of the Model AI Governance Framework for Generative AI)"
+      title: "India's Advance on AI Regulation"
     - authors: "Munga, J., & Quansah, S."
       year: 2025
       title: "Understanding Africa's AI Governance Landscape: Insights from Policy Practice and Dialogue"
-    - authors: "Committee for the Future, Parliament of Finland"
-      title: "Radical Technology Inquirer (RTI)"
-      url: "https://www.eduskunta.fi/en/members-and-parliamentary-bodies/committees/committee-for-the-future/radical-technology-inquirer-rti"
+    - authors: "Personal Data Protection Commission"
+      year: 2024
+      title: "Singapore's Approach to AI Governance (plus a skim of the Model AI Governance Framework for Generative AI)"
+    - authors: "Sheehan, M."
+      year: 2024
+      title: "Tracing the Roots of China's AI Regulations"
 ---

@@ -16,22 +16,22 @@ summary: >-
   governance and the role of federalism, industry lobbying, and public perception.
 readings:
   required:
-    - authors: "Hooker, S."
-      year: 2024
-      title: "On the Limitations of Compute Thresholds as a Governance Strategy"
-      pages: 26
+    - year: 2025
+      title: "California SB 53"
+      pages: 6
     - authors: "Heim, L."
       year: 2024
       title: "Training Compute Thresholds: Features and Functions in AI Governance"
       pages: 28
+    - authors: "Hooker, S."
+      year: 2024
+      title: "On the Limitations of Compute Thresholds as a Governance Strategy"
+      pages: 26
     - authors: "Klein, A., et al."
       year: 2024
       title: "One Year Later, How Has the White House AI Executive Order Delivered on Its Promises?"
       venue: "Brookings Institution"
       pages: 10
-    - year: 2025
-      title: "California AB 53"
-      pages: 6
     - authors: "The White House"
       year: 2025
       title: "America's AI Action Plan: Winning the Race"

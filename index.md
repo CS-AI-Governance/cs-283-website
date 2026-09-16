@@ -4,15 +4,16 @@ title: "CS283: Governing Artificial Intelligence: Law, Policy, and Institutions"
 permalink: /
 nositetitle: true
 description: >-
-  Stanford, Fall 2026. LAW4052/CS283/COMM252A/POLISCI245B.
+  Stanford, Fall 2026. LAW4052/CS283/COMM252A/POLISCI245B/445B.
 ---
 
-<p class="course-codes">LAW4052/CS283/COMM252A/POLISCI245B</p>
+<p class="course-codes">LAW4052/CS283/COMM252A/POLISCI245B/445B</p>
 
 <dl class="logistics">
   <dt>Lectures</dt><dd>Monday &amp; Wednesday, 2:15–3:45pm</dd>
   <dt>Sections</dt><dd>Thursday &amp; Friday, 2:30–3:20pm</dd>
   <dt>Location</dt><dd>Crown Building, Stanford Law School, Room 290</dd>
+  <dt>Website</dt><dd><a href="https://cs283.stanford.edu">cs283.stanford.edu</a></dd>
 </dl>
 
 <p class="course-note">Syllabus details, including reading lists, are subject to change and may be updated up until two weeks before the start of a lecture.</p>
@@ -35,7 +36,25 @@ There are no prerequisites.
 
 ## Learning objectives
 
-_TBD._
+By the end of the course, students will be able to:
+
+- Explain the technological foundations of modern AI systems, including how they
+  are trained, evaluated, and deployed, and describe their broader societal
+  implications.
+- Engage with technical governance problems, such as designing meaningful
+  evaluations, system access considerations, and privacy-preserving analysis of
+  the use and misuse of AI systems.
+- Critically evaluate the technical, organizational, and normative dimensions of
+  AI oversight.
+- Analyze the historical patterns of governance responses to frontier
+  technologies.
+- Identify and assess key legal, technical, and institutional approaches to AI
+  governance across national and global contexts.
+- Anticipate and reason through future challenges in AI governance, including the
+  role of closed vs. open models, (multi-)agents, low-resource models,
+  disinformation, and global coordination.
+- Synthesize interdisciplinary perspectives to formulate and evaluate actionable
+  governance proposals.
 
 ## Instructors
 
@@ -47,7 +66,7 @@ _TBD._
       <div class="staff-role">School of Law, Political Science, FSI, Communication</div>
       <p class="staff-contact"><a href="mailto:npersily@stanford.edu">npersily@stanford.edu</a><br>
       Office: Law School's Neukom Building, Room N230<br>
-      Office hours: MW 11:15–12:15</p>
+      Office hours: Tues 2–4pm</p>
     </div>
   </div>
 

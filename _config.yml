@@ -5,10 +5,14 @@ description: >-
   Stanford CS283 — Governing Artificial Intelligence: Law, Policy, and
   Institutions. Course website.
 
-# For a GitHub Pages *project* site (served at yasikhan.github.io/cs-283-website),
-# baseurl must be the repo name so internal links resolve correctly.
+# Public address of the course. Note this is a Stanford bl.ink *redirect*, not a
+# host: it forwards (preserving the path) to cs-ai-governance.github.io/cs-283-website.
+# GitHub Pages has no custom domain configured, so the site is still served from
+# the project path and `baseurl` must stay the repo name or every internal link
+# 404s. Moving to a real custom domain means repointing DNS off bl.ink first —
+# see CLAUDE.md.
+url: "https://cs283.stanford.edu"
 baseurl: "/cs-283-website"
-url: "https://yasikhan.github.io"
 
 # The active offering; the schedule filters modules to this year.
 current_year: 2026

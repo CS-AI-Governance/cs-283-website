@@ -1,11 +1,19 @@
 ---
 lecture: 6
-title: "AI, Copyright, Creativity, and Privacy"
+title: "AI, Copyright, Creativity & Privacy"
 nav_title: "Copyright, Creativity, Privacy"
 date: 2026-10-12
 unit: 3
 unit_title: "Individual Risks"
 ready: true
+summary: >-
+  This lecture examines how AI model training intersects with copyright law,
+  focusing on disputes like OpenAI v. The New York Times. We'll explore
+  distinctions between output similarity and the use of copyrighted training
+  data, and assess potential legal consequences for model developers. Technical
+  issues such as dataset curation, memorization, unlearning, and output
+  replication will be discussed alongside emerging attribution mechanisms like
+  output tracing.
 readings:
   required:
     - authors: "Burgess, M."

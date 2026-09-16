@@ -7,7 +7,8 @@ law students**. Built with **Jekyll** and hosted on **GitHub Pages**.
 suffixes.)
 
 - Repo: `CS-AI-Governance/cs-283-website`
-- Live URL: https://cs-ai-governance.github.io/cs-283-website/
+- Live URL: https://cs283.stanford.edu (a Stanford bl.ink redirect, path-preserving,
+  forwarding to https://cs-ai-governance.github.io/cs-283-website/ — the real origin)
 - Local preview (requires Ruby 3.3 — see below):
   `export PATH="/opt/homebrew/opt/ruby@3.3/bin:$PATH" && bundle exec jekyll serve`
   → http://localhost:4000/cs-283-website/
@@ -145,10 +146,18 @@ Populated from the syllabus: home (description, logistics, four instructor bios)
 that renumbered and regrouped most of the term: the old weekly grouping was
 replaced by 8 thematic units, AI Agents moved to L3, AI Evaluations to L4, the
 separate Privacy and Copyright lectures merged into L6, AI Harms to L7, AI &
-Democracy to L8, AI Infrastructure & Energy to L9, and "Human in an AI Age" to
-L17. Treat the PDF as history; the map and the instructors' direct input are the
-source of truth. Readings are being replaced lecture by lecture, with URLs, on
-the instructors' schedule.
+Democracy to L8, AI Infrastructure & the Environment to L9, and "Human in an AI
+Age" to L17. Treat the PDF as history; the map and the instructors' direct input
+are the source of truth.
+
+A **further revised syllabus** (Sept 2026) was then reconciled into the site: it
+refreshed the reading lists for L9, L14, L15, and L16, supplied summaries for L6
+and L10, filled in the learning objectives, corrected Persily's office hours, and
+moved two assignment deadlines. That syllabus organizes the term by **Week 1–10**
+again, but the site deliberately keeps the 8 thematic units — see "Course units,
+not weeks" above. Its bracketed editorial notes ("DOM UPDATE WITH PRIVACY",
+"CHECK FOR 2026 version", "This Lecture will need to be revised") are internal
+and are not published.
 
 Known gaps — these render as **TBD/TBA** on the site and should not be filled in
 by guessing:
@@ -156,32 +165,46 @@ by guessing:
 - [ ] **Lecture 18 (Mon Nov 30) has no topic at all** — the course map reserves
       the slot and leaves it blank. The page is `ready: false` so `/lectures/`
       lists it without a link.
-- [ ] **Lecture 6** (AI, Copyright, Creativity, and Privacy) needs a merged
-      reading list. The two superseded lists it was built from are preserved as
-      commented YAML inside `_2026/06-copyright-creativity-privacy.md`; delete
-      them once the real list lands.
-- [ ] Lecture 10 has no summary and no readings (`readings_tbd: true`).
-- [ ] Lecture 7 (AI Harms) still carries the reading list and the
-      `readings_note: "Assigned in previous weeks."` from when it sat in Week 9,
-      and two of its readings are antitrust papers that now sit oddly against
-      L15. Revisit when L7's readings are updated.
-- [ ] Lecture 14 — Geopolitics and Global AI Governance — is not in the syllabus
-      PDF; the instructors added it. (Lecture 16 exists in the PDF's body but is
-      missing from its TOC.)
+- [x] **Lecture 6** (AI, Copyright, Creativity & Privacy) — the merged
+      copyright + privacy list and its summary landed in the Sept 2026 syllabus.
+      The superseded lists that were once preserved as commented YAML are gone.
+- [ ] Lecture 10 still has no readings (`readings_tbd: true`); its summary now
+      exists.
+- [x] Lecture 7 (AI Harms: Defamation & Well-being) — its stale Week 9 antitrust
+      list was replaced with the defamation/well-being readings. The
+      `readings_note: "Assigned in previous weeks."` key it was once blamed for
+      actually sat on L15, and has been removed there too.
+- [x] Lecture 14 — Geopolitics and Global AI Governance — is not in the syllabus
+      PDF; the instructors added it, and the Sept 2026 syllabus supplied its
+      summary and readings. (Lecture 16 exists in the PDF's body but is missing
+      from its TOC.)
 - [ ] Slide decks — every `/schedule/` row shows an inert `[slides]` placeholder
       until a lecture gets a `slides:` URL in its front matter.
-- [ ] Reading URLs — the syllabus links only two of ~113 citations.
+- [ ] Reading URLs — 21 of ~110 citations are linked (all of L1, L2, and L3).
+      The rest carry no `url:`; never invent one.
 - [x] Assignment due dates — all set from the updated course map and live on
       `/assignments/`, each with a `deadlines:` badge on the nearest preceding
       lecture in `_2026/`: Milestone 1 Fri Oct 16 → L7, law paper outline Mon
-      Oct 19 → L8, public comment Fri Oct 23 → L9, Milestone 2 Fri Oct 30 → L11,
+      Oct 19 → L8, Milestone 2 Thu Oct 22 → L9, public comment Mon Oct 26 → L10,
       Milestone 3 Fri Nov 6 → L13, law R-credit draft Mon Nov 16 → L16, and both
       Milestone 4 Fri Dec 4 and the law paper Sat Jan 3 → L19. The course map
       calls the public comment assignment the "RFC"; the site keeps the fuller
-      name it already used.
-- [ ] Teaching assistants; learning objectives (heading with no bullets);
-      section topics, locations, and leaders; office hours for Reuel and Koyejo.
+      name it already used. **Caveat:** the Sept 2026 syllabus regressed
+      Milestone 3 and the final paper to "due XXX". The site keeps Nov 6 and
+      Dec 4 on the assumption the syllabus was simply not refreshed — confirm
+      with the instructors.
+- [ ] Teaching assistants; section topics, locations, and leaders; office hours
+      for Reuel and Koyejo. (Learning objectives are now filled in from the
+      Sept 2026 syllabus.)
+- [ ] Custom domain — `cs283.stanford.edu` is recorded as `site.url` and shown on
+      the home page, but it is only a **bl.ink redirect**; GitHub Pages still has
+      `cname: null` and serves from the project path, so **`baseurl` must stay
+      `/cs-283-website`**. A real custom domain needs Stanford to repoint the DNS
+      off bl.ink to `cs-ai-governance.github.io` first, then a `CNAME` file, the
+      Pages custom-domain setting, and `baseurl: ""` — in that order. Shipping
+      `baseurl: ""` before the DNS move takes the site down. Nothing reads
+      `site.url`/`site.baseurl` directly; all links go through `relative_url`.
 - [x] Favicon — `assets/img/favicon.png`, a 168×168 crop of the white Stanford
       mark on cardinal, wired into `head.html` as `icon` + `apple-touch-icon`.
       Other branding assets under `assets/` are still open.
-- [ ] Code/monospace font choice; custom Stanford domain — later.
+- [ ] Code/monospace font choice.
