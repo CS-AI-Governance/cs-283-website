@@ -1,6 +1,6 @@
 ---
 lecture: 7
-title: "AI Harms: Defamation & Well-being"
+title: "AI Harms: Defamation & Mental Health"
 nav_title: "AI Harms"
 date: 2026-10-14
 unit: 4
@@ -12,8 +12,9 @@ ready: true
 summary: >-
   We will survey the state of defamation law with respect to AI models. Students
   will explore attempts to understand the emerging power of AI models within a
-  broader legal framework. This session will also cover well-being and AI more
-  generally, focusing on human engagement for well-being with AI models.
+  broader legal framework. This session will also cover AI, well-being, and
+  mental health, investigating the potential harms from human chatbot
+  interactions.
 readings:
   required:
     - authors: "Bensinger, K."

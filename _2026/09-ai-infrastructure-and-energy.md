@@ -6,8 +6,8 @@ date: 2026-10-21
 unit: 4
 unit_title: "Societal Risk"
 deadlines:
-  - label: "Milestone 2 due"
-    date: "Thu Oct 22"
+  - label: "Public comment due"
+    date: "Fri Oct 23"
 ready: true
 summary: >-
   In this session, we investigate the physical infrastructure underpinning
@@ -28,6 +28,7 @@ readings:
       year: 2025
       title: "How AI Chips Are Made"
       venue: "Institute for AI Policy and Strategy"
+      pages: 6
       url: "https://www.iaps.ai/research/how-ai-chips-are-made"
     - authors: "Kneese, T., & Young, M."
       year: 2024
@@ -38,20 +39,25 @@ readings:
     - authors: "Gorey, J."
       year: 2025
       title: "Data Drain: The Land and Water Impacts of the AI Boom"
-      venue: "Lincoln Institute of Land Policy"
+      venue: "Land Lines, Lincoln Institute of Land Policy"
+      pages: 18
       url: "https://www.lincolninst.edu/publications/land-lines-magazine/articles/land-water-impacts-data-centers/"
-    - authors: "Luccioni, S."
+    - authors: "Luccioni, S., et al."
+      year: 2024
       title: "The Environmental Impacts of AI — Policy Primer"
+      venue: "Hugging Face"
       pages: 11
       url: "https://www.sashaluccioni.com/AI%20+%20Environment%20Primer%20%28Hugging%20Face%29.pdf"
     - authors: "Masley, A."
       year: 2025
       title: "The AI Water Issue Is Fake"
+      pages: 50
       url: "https://blog.andymasley.com/p/the-ai-water-issue-is-fake"
     - authors: "Patel, D., Nishball, D., & Eliahou Ontiveros, J."
       year: 2024
       title: "AI Datacenter Energy Dilemma — Race for AI Datacenter Space"
       venue: "SemiAnalysis"
+      pages: 37
       url: "https://newsletter.semianalysis.com/p/ai-datacenter-energy-dilemma-race"
   supplementary:
     - authors: "International Energy Agency"

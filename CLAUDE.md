@@ -159,6 +159,17 @@ not weeks" above. Its bracketed editorial notes ("DOM UPDATE WITH PRIVACY",
 "CHECK FOR 2026 version", "This Lecture will need to be revised") are internal
 and are not published.
 
+A **finalized syllabus** (Sept 2026) is now the source of truth and has been
+fully reconciled into the site. It moved two deadlines (public comment Oct 26 →
+**Fri Oct 23**, Milestone 2 Oct 22 → **Fri Oct 30**), renamed L7 to "AI Harms:
+Defamation & **Mental Health**", supplied L10's reading list and L18's
+placeholder summary, split L19's combined list back in two, added one L3 reading
+(Freedman, NYT — unlinked), dropped L6's Kibby & Sentinella entry, moved L2's
+Wolfram to supplementary, and corrected ~35 citations (page counts, years,
+venues, author names). It also confirmed Milestone 3 (Nov 6) and the final paper
+(Dec 4), resolving the earlier "due XXX" ambiguity. Like the Sept revision it
+organizes the term by **Week 1–10**; the site still keeps the 8 thematic units.
+
 Known gaps — these render as **TBD/TBA** on the site and should not be filled in
 by guessing:
 
@@ -168,8 +179,9 @@ by guessing:
 - [x] **Lecture 6** (AI, Copyright, Creativity & Privacy) — the merged
       copyright + privacy list and its summary landed in the Sept 2026 syllabus.
       The superseded lists that were once preserved as commented YAML are gone.
-- [ ] Lecture 10 still has no readings (`readings_tbd: true`); its summary now
-      exists.
+- [x] Lecture 10's readings landed with the finalized syllabus — the seven
+      existential-risk entries that L19 had been carrying under a "Combined from
+      two previous sessions" note moved back to L10, where they belong.
 - [x] Lecture 7 (AI Harms: Defamation & Well-being) — its stale Week 9 antitrust
       list was replaced with the defamation/well-being readings. The
       `readings_note: "Assigned in previous weeks."` key it was once blamed for
@@ -180,19 +192,18 @@ by guessing:
       from its TOC.)
 - [ ] Slide decks — every `/schedule/` row shows an inert `[slides]` placeholder
       until a lecture gets a `slides:` URL in its front matter.
-- [ ] Reading URLs — 21 of ~110 citations are linked (all of L1, L2, and L3).
-      The rest carry no `url:`; never invent one.
+- [ ] Reading URLs — all but one of the ~124 citations are linked. The lone
+      exceptions are L19's Reich et al. (a print book) and L3's Freedman (the
+      finalized syllabus supplies no link). Never invent one.
 - [x] Assignment due dates — all set from the updated course map and live on
       `/assignments/`, each with a `deadlines:` badge on the nearest preceding
       lecture in `_2026/`: Milestone 1 Fri Oct 16 → L7, law paper outline Mon
-      Oct 19 → L8, Milestone 2 Thu Oct 22 → L9, public comment Mon Oct 26 → L10,
+      Oct 19 → L8, public comment Fri Oct 23 → L9, Milestone 2 Fri Oct 30 → L11,
       Milestone 3 Fri Nov 6 → L13, law R-credit draft Mon Nov 16 → L16, and both
-      Milestone 4 Fri Dec 4 and the law paper Sat Jan 3 → L19. The course map
+      Milestone 4 Fri Dec 4 and the law paper Sun Jan 3 → L19. The course map
       calls the public comment assignment the "RFC"; the site keeps the fuller
-      name it already used. **Caveat:** the Sept 2026 syllabus regressed
-      Milestone 3 and the final paper to "due XXX". The site keeps Nov 6 and
-      Dec 4 on the assumption the syllabus was simply not refreshed — confirm
-      with the instructors.
+      name it already used. The finalized syllabus confirms Nov 6 and Dec 4,
+      closing the earlier "due XXX" ambiguity.
 - [ ] Teaching assistants; section topics, locations, and leaders; office hours
       for Reuel and Koyejo. (Learning objectives are now filled in from the
       Sept 2026 syllabus.)

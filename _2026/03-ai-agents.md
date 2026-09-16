@@ -18,6 +18,11 @@ readings:
       title: "Agent AI: Surveying the Horizons of Multimodal Interaction"
       pages: 54
       url: "https://arxiv.org/abs/2401.03568"
+    - authors: "Freedman, D."
+      year: 2026
+      title: "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities"
+      venue: "The New York Times"
+      pages: 9
     - authors: "Gardhouse, K., & Oueslati, A."
       year: 2026
       title: "The EU AI Act Is Not Ready for Agents"
@@ -35,15 +40,15 @@ readings:
       pages: 12
       url: "https://arxiv.org/abs/2407.01502"
     - authors: "Kolt, N."
-      year: 2024
+      year: 2026
       title: "Governing AI Agents"
       venue: "Notre Dame Law Review, vol. 101"
       pages: 48
       url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4772956"
     - authors: "Wang, D., et al."
       year: 2024
-      title: "LLM Agent — Retrieve What You Need: A Mutual Learning Framework for Open-Domain Question Answering"
-      venue: "Transactions of the Association for Computational Linguistics"
-      pages: 13
+      title: "Retrieve What You Need: A Mutual Learning Framework for Open-Domain Question Answering"
+      venue: "Transactions of the Association for Computational Linguistics, 12, 247–263"
+      pages: 17
       url: "https://aclanthology.org/2024.tacl-1.14/"
 ---

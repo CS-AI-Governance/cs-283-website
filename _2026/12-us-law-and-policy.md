@@ -17,10 +17,10 @@ summary: >-
 readings:
   required:
     - year: 2025
-      title: "California SB 53"
+      title: "California Senate Bill 53: Transparency in Frontier Artificial Intelligence Act"
       pages: 6
       url: "https://legiscan.com/CA/text/SB53/id/3147801"
-    - authors: "Heim, L."
+    - authors: "Heim, L., & Koessler, L."
       year: 2024
       title: "Training Compute Thresholds: Features and Functions in AI Governance"
       pages: 28

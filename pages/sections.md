@@ -15,7 +15,7 @@ description: Section meeting times, the attendance policy, and how to prepare fo
 
 Attendance at lectures and sections is mandatory, except in cases of an OAE
 accommodation or another valid reason brought to the course managers or your
-course assistant's attention **before** lecture. If you have a prolonged illness
+course assistant's attention **at least 24 hours before** lecture. If you have a prolonged illness
 or a personal situation that might lead to more than one absence, contact a member
 of the course staff before missing a lecture.
 

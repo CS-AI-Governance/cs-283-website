@@ -19,7 +19,7 @@ done so.
 In brief, conduct prohibited by the Honor Code includes all forms of academic
 dishonesty, among them copying from another student's work, unpermitted
 collaboration, and representing as one's own work the work of another. If you have
-any questions about these matters, see your post-doctoral fellow during office
+any questions about these matters, see your course assistant during office
 hours.
 
 ### Use of automated writing and coding tools

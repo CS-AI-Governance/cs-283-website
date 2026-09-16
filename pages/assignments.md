@@ -31,7 +31,7 @@ project.
   <dd>State the question you want to answer, why anyone would or should care about the answer, and conduct a thorough literature review establishing whether this question is novel or has already been sufficiently addressed. 4 pages. <span class="milestone-due">Due Fri, Oct 16 at 5pm PT</span></dd>
 
   <dt>Milestone 2 — Project plan</dt>
-  <dd>Plan the question, the core contribution you want to make, your methods, how you will know if you succeeded, what resources and access you need, the most likely ways it can fail, and your fallback strategies. 2–3 pages. <span class="milestone-due">Due Thu, Oct 22 at 5pm PT</span></dd>
+  <dd>Plan the question, the core contribution you want to make, your methods, how you will know if you succeeded, what resources and access you need, the most likely ways it can fail, and your fallback strategies. 2–3 pages. <span class="milestone-due">Due Fri, Oct 30 at 5pm PT</span></dd>
 
   <dt>Milestone 3 — Peer review</dt>
   <dd>A 500-word peer review of another project plan. <span class="milestone-due">Due Fri, Nov 6 at 5pm PT</span></dd>
@@ -42,7 +42,7 @@ project.
 
 ### Public Comment Assignment — 30%
 
-Due Mon, Oct 26 at 5pm PT.
+Due Fri, Oct 23 at 5pm PT.
 
 Students are asked to respond to any open AI governance consultation (any
 jurisdiction, any level of government), where a comment could plausibly change

@@ -19,7 +19,7 @@ summary: >-
 readings:
   required:
     - authors: "Karpathy, A."
-      year: 2024
+      year: 2023
       title: "Introduction to Large Language Models"
       venue: "YouTube video"
       url: "https://www.youtube.com/watch?v=zjkBMFhNj_g"
@@ -28,7 +28,7 @@ readings:
       title: "Direct Preference Optimization (DPO) — A Simplified Explanation"
       pages: 6
       url: "https://medium.com/@joaolages/direct-preference-optimization-dpo-622fc1f18707"
-    - authors: "Lee, K., et al."
+    - authors: "Lee, H., et al."
       year: 2024
       title: "RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback"
       venue: "Proceedings of the International Conference on Machine Learning (ICML)"
@@ -40,6 +40,7 @@ readings:
       venue: "Center for Security and Emerging Technology"
       pages: 3
       url: "https://cset.georgetown.edu/wp-content/uploads/What-Are-Generative-AI-Large-Language-Models-and-Foundation-Models.pdf"
+  supplementary:
     - authors: "Wolfram, S."
       year: 2023
       title: "What Is ChatGPT Doing … and Why Does It Work?"

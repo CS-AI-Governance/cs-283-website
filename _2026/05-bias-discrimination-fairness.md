@@ -25,8 +25,8 @@ readings:
     - authors: "Gillum, R., et al."
       year: 2026
       title: "AI, Race, and Politics"
-      venue: "Artificial Intelligence, Politics, and Political Science, pp. 152–194"
-      pages: 43
+      venue: "Artificial Intelligence, Politics, and Political Science, pp. 152–196"
+      pages: 45
       url: "https://apsanet.org/wp-content/uploads/2026/08/Lee-TF-APSA-AI-Report-2026-Tucker-Persily.pdf"
     - authors: "Lawyers Committee for Civil Rights"
       title: "AI Civil Rights Act (homepage plus 1-page summary)"

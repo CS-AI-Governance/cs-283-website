@@ -11,15 +11,12 @@ deadlines:
     track: law
 ready: true
 summary: >-
-  This session covers the economic dimensions of the AI transition. First, we use
+  This session covers the economic dimensions of the AI transition. We use
   empirical research to understand how automation is reshaping labor markets,
   examining how AI capabilities affect different sectors and what drives
   substitutability or complementarity with human labor. We will explore how labor
   displacement intersects with inequality, worker rights, and social safety net
-  policies. Second, we analyze competition and antitrust, focusing on how
-  AI-driven scale economies, data and network effects, compute access, and
-  foundation-model gatekeeping can entrench market power, and what remedies might
-  be needed.
+  policies.
 readings:
   required:
     - authors: "Anthropic"

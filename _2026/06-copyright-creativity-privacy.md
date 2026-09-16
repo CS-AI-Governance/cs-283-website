@@ -8,12 +8,14 @@ unit_title: "Individual Risks"
 ready: true
 summary: >-
   This lecture examines how AI model training intersects with copyright law,
-  focusing on disputes like OpenAI v. The New York Times. We'll explore
-  distinctions between output similarity and the use of copyrighted training
-  data, and assess potential legal consequences for model developers. Technical
-  issues such as dataset curation, memorization, unlearning, and output
-  replication will be discussed alongside emerging attribution mechanisms like
-  output tracing.
+  privacy, and human creativity. The lecture focuses on disputes like OpenAI v.
+  The New York Times to explore broader themes. We'll explore distinctions
+  between output similarity and the use of copyrighted training data, and assess
+  potential legal consequences for model developers. Technical issues such as
+  dataset curation, memorization, unlearning, and output replication will be
+  discussed alongside emerging attribution mechanisms like output tracing. We
+  will also discuss the challenges of maintaining the right to privacy with large
+  language models.
 readings:
   required:
     - authors: "Burgess, M."
@@ -28,13 +30,13 @@ readings:
       venue: "June 2025"
       pages: 7
       url: "https://www.congress.gov/crs-product/LSB10922"
-    - authors: "Cooper, A., & Grimmelmann, J."
+    - authors: "Cooper, A. F., & Grimmelmann, J."
       year: 2025
       title: "The Files are in the Computer: On Copyright, Memorization, and Generative AI"
       venue: "Chicago-Kent Law Review, 100(1), 141–217"
       pages: 76
       url: "https://arxiv.org/abs/2404.12590"
-    - authors: "Cooper, A., et al."
+    - authors: "Cooper, A. F., et al."
       year: 2024
       title: "Machine Unlearning Doesn't Do What You Think"
       pages: 24
@@ -47,43 +49,38 @@ readings:
       url: "https://www.edpb.europa.eu/system/files/documents/2024-12/edpb_opinion_202428_ai-models_en.pdf"
     - authors: "Ippolito, D., et al."
       year: 2023
-      title: "Preventing Verbatim Memorization in Language Models"
-      venue: "Association for Computational Linguistics (ACL)"
+      title: "Preventing Verbatim Memorization in Language Models Gives a False Sense of Privacy"
+      venue: "International Natural Language Generation Conference (INLG)"
       pages: 9
       url: "https://arxiv.org/abs/2210.17546"
-    - authors: "Kibby, C., & Sentinella, D."
-      year: 2024
-      title: "New Laws in California Look to the Future of Privacy and AI"
-      venue: "International Association of Privacy Professionals (IAPP)"
-      pages: 5
-      url: "https://iapp.org/news/a/new-laws-in-california-look-to-the-future-of-privacy-and-ai"
     - authors: "Lemley, M."
       year: 2024
       title: "How Generative AI Turns Copyright Law Upside Down"
-      venue: "Science and Technology Law Review, 25(2)"
+      venue: "Columbia Science and Technology Law Review, 25(2)"
       pages: 23
       url: "https://journals.library.columbia.edu/index.php/stlr/article/view/12761"
-    - authors: "Liu, et al."
+    - authors: "Liu, K. Z., et al."
       year: 2025
       title: "Language Models May Verbatim Complete Text They Were Not Explicitly Trained On"
       venue: "International Conference on Machine Learning (ICML)"
       pages: 9
       url: "https://arxiv.org/pdf/2503.17514"
-    - authors: "NOYB"
+    - authors: "noyb"
       year: 2024
       title: "ChatGPT Provides False Information About People, and OpenAI Can't Correct It"
       venue: "April 29, 2024"
       pages: 3
       url: "https://noyb.eu/en/chatgpt-provides-false-information-about-people-and-openai-cant-correct-it"
-    - authors: "NOYB"
+    - authors: "noyb"
       year: 2024
-      title: "NOYB Urges 11 DPAs to Immediately Stop Meta's Abuse of Personal Data for AI"
+      title: "noyb Urges 11 DPAs to Immediately Stop Meta's Abuse of Personal Data for AI"
       venue: "June 6, 2024"
       pages: 5
       url: "https://noyb.eu/en/noyb-urges-11-dpas-immediately-stop-metas-abuse-personal-data-ai"
     - authors: "Solove, D."
       year: 2025
       title: "Artificial Intelligence and Privacy"
+      venue: "Florida Law Review, 77(1), 1"
       pages: 73
       url: "https://www.floridalawreview.com/article/129976-artificial-intelligence-and-privacy"
 ---
