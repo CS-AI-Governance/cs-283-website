@@ -16,17 +16,23 @@ readings:
     - authors: "Bommasani, R., et al."
       year: 2023
       title: "Considerations for Governing Open Foundation Models"
+      venue: "Stanford HAI"
+      url: "https://hai.stanford.edu/assets/files/2023-12/Governing-Open-Foundation-Models.pdf"
     - authors: "Hagiu, A., & Wright, J."
       year: 2024
       title: "Artificial Intelligence and Competition Policy"
       venue: "International Journal of Industrial Organization"
       pages: 77
+      url: "https://drive.google.com/file/d/1QrJqhZcWbIYyeYu5NpSfsBQmSUJaiWy3/view"
+    - authors: "Lynch, S."
+      year: 2026
+      title: "Open-Weight Models Aren't Enough"
+      venue: "Stanford HAI"
+      url: "https://hai.stanford.edu/news/open-weight-models-arent-enough-we-need-truly-open-source-ai-models-for-science-and-society"
     - authors: "Narechania, T., & Sitaraman, G."
       year: 2024
       title: "An Antimonopoly Approach to Governing Artificial Intelligence"
       venue: "Yale Law and Policy Review"
       pages: 70
-    - authors: "Stanford HAI"
-      year: 2026
-      title: "Open-Weight Models Aren't Enough"
+      url: "https://drive.google.com/file/d/1EHumlOfSkjs3VNvo-TBlN4OBmHHmDNEP/view"
 ---

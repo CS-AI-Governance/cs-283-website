@@ -25,16 +25,25 @@ readings:
     - authors: "Adan, S."
       year: 2024
       title: "Voice and Access in AI: Global AI Majority Participation in Artificial Intelligence Development and Governance"
+      url: "https://aigi.ox.ac.uk/publications/voice-and-access-in-ai-global-ai-majority-participation-in-artificial-intelligence-development-and-governance/"
     - authors: "Mohanti, A., & Sahu, S."
       year: 2024
       title: "India's Advance on AI Regulation"
+      venue: "Carnegie Endowment for International Peace"
+      url: "https://carnegieendowment.org/india/research/2024/11/indias-advance-on-ai-regulation"
     - authors: "Munga, J., & Quansah, S."
       year: 2025
       title: "Understanding Africa's AI Governance Landscape: Insights from Policy Practice and Dialogue"
+      venue: "Carnegie Endowment for International Peace"
+      url: https://carnegieendowment.org/posts/2025/09/understanding-africas-ai-governance-landscape-insights-from-policy-practice-and-dialogue
     - authors: "Personal Data Protection Commission"
       year: 2024
       title: "Singapore's Approach to AI Governance (plus a skim of the Model AI Governance Framework for Generative AI)"
+      venue: "Personal Data Protection Commission Singapore"
+      url: "https://www.pdpc.gov.sg/organisations/resources/guidance-by-topic/singapores-approach-to-ai-governance"
     - authors: "Sheehan, M."
       year: 2024
       title: "Tracing the Roots of China's AI Regulations"
+      venue: "Carnegie Endowment for International Peace"
+      url: "https://carnegieendowment.org/research/2024/02/tracing-the-roots-of-chinas-ai-regulations"
 ---

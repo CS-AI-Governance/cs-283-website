@@ -25,24 +25,29 @@ readings:
     - authors: "Anthropic"
       year: 2025
       title: "The Anthropic Economic Index"
+      url: "https://www.anthropic.com/economic-index"
     - authors: "Boix, C., et al."
       year: 2026
       title: "AI's Economy and Its Political and Institutional Consequences"
       venue: "APSA Preprint"
       pages: 42
+      url: "https://preprints.apsanet.org/engage/apsa/article-details/69f60276d1922e37d504cbb7"
     - authors: "Brynjolfsson, E., Chandar, B., & Chen, R."
       year: 2026
       title: "Canaries in the Coal Mine? Six Facts About the Recent Employment Effects of Artificial Intelligence (Updated)"
       venue: "Stanford Digital Economy Lab"
       pages: 27
+      url: "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/"
     - authors: "Casselman, B."
       year: 2026
       title: "A.I. Is Reshaping the Economy. Good Luck Measuring How."
       venue: "The New York Times"
       pages: 2
+      url: "https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html"
     - authors: "Murphy, C., & Brynjolfsson, E."
       year: 2026
       title: "AI Economic Indicators: June 2026 Update"
       venue: "Stanford Digital Economy Lab"
       pages: 13
+      url: "https://digitaleconomy.stanford.edu/app/uploads/2026/06/AIEI_RN01_Jun26.pdf"
 ---

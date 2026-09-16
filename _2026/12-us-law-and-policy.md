@@ -19,21 +19,26 @@ readings:
     - year: 2025
       title: "California SB 53"
       pages: 6
+      url: "https://legiscan.com/CA/text/SB53/id/3147801"
     - authors: "Heim, L."
       year: 2024
       title: "Training Compute Thresholds: Features and Functions in AI Governance"
       pages: 28
+      url: "https://arxiv.org/abs/2405.10799"
     - authors: "Hooker, S."
       year: 2024
       title: "On the Limitations of Compute Thresholds as a Governance Strategy"
       pages: 26
+      url: "https://arxiv.org/abs/2407.05694"
     - authors: "Klein, A., et al."
       year: 2024
       title: "One Year Later, How Has the White House AI Executive Order Delivered on Its Promises?"
       venue: "Brookings Institution"
       pages: 10
+      url: "https://www.brookings.edu/articles/one-year-later-how-has-the-white-house-ai-executive-order-delivered-on-its-promises/"
     - authors: "The White House"
       year: 2025
       title: "America's AI Action Plan: Winning the Race"
       pages: 26
+      url: "https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf"
 ---

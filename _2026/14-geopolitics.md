@@ -18,28 +18,34 @@ summary: >-
 readings_note: "See Canvas if you are unable to access the Kahl and Mitre reading."
 readings:
   required:
-    - authors: "Claire, D., et al."
+    - authors: "Dennis, C., et al."
       year: 2024
       title: "What Should Be Internationalised in AI Governance?"
       pages: 60
+      url: "https://www.oxfordmartin.ox.ac.uk/publications/what-should-be-internationalised-in-ai-governance"
     - authors: "Heim, L."
       year: 2025
       title: "Understanding the Artificial Intelligence Diffusion Framework"
       venue: "RAND Corporation"
       pages: 21
+      url: "https://www.rand.org/pubs/perspectives/PEA3776-1.html"
     - authors: "Kahl, C., & Mitre, J."
       year: 2025
       title: "The Real AI Race"
       venue: "Foreign Affairs"
+      pages: 6
+      url: "https://www.foreignaffairs.com/united-states/china-real-artificial-intelligence-race-innovation"
     - authors: "Klein, E., & Patrick, S."
       year: 2024
       title: "Envisioning a Global Regime Complex to Govern Artificial Intelligence"
       venue: "Carnegie Endowment for International Peace"
       pages: 56
+      url: "https://carnegieendowment.org/research/2024/03/envisioning-a-global-regime-complex-to-govern-artificial-intelligence"
   supplementary:
     - authors: "United Nations AI Advisory Body"
       year: 2024
       title: "Governing AI for Humanity: Final Report (read at least the executive summary)"
       venue: "United Nations"
       pages: 101
+      url: "https://www.un.org/sites/un2.un.org/files/governing_ai_for_humanity_final_report_en.pdf"
 ---
