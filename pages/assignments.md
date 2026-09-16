@@ -44,26 +44,27 @@ project.
 
 Due Mon, Oct 26 at 5pm PT.
 
-Respond to any open AI governance consultation — any jurisdiction, any level of
-government — where a comment could plausibly change something. A list of live
-options is posted in week 2; other choices are approved on request. The
-submission has two parts.
+Students are asked to respond to any open AI governance consultation (any
+jurisdiction, any level of government), where a comment could plausibly change
+something. A list of live options is posted in week 2; other choices are
+approved on request.
 
-**1-page cover analysis.** Who is asking, under what authority, and what they can
-actually do with responses — a binding rule, guidance, a non-binding report, or
-agenda-setting. What decision this feeds, and when. Your ask in one sentence,
-with a brief rationale for why.
+**1-page cover analysis:** who is asking, under what authority, and what they
+can actually do with responses (binding rule, guidance, non-binding report,
+agenda-setting); what decision this feeds and when; your ask in one sentence and
+brief rationale why.
 
-**1,200 to 2,000 word comment.** The comment should:
+**1,200 to 2,000 word comment:**
 
 - Identify who you are and your standing to comment in the first paragraph.
-- Respond to at least one question or identifiable provision in the call.
+- Respond to at least one question or identifiable provision in a call.
 - Ground your claims in evidence you can point to: data, a documented case, a
-  technical constraint, a citation. Don't write "experts agree."
-- Engage at least one position you disagree with, and say why you disagree.
-- Make a specific requested change — a proposed text, a threshold, a definition,
-  or a procedural step. "The Commission should consider" is not a request.
-- Say what your recommendation costs, and outline the potential implications for
+  technical constraint, a citation. Don't write "experts agree".
+- Engage at least one position you disagree with and say why you disagree.
+- Make a specific requested change, e.g. a proposed text, a threshold, a
+  definition, or a procedural step. "The Commission should consider" is not a
+  request.
+- Say what your recommendation costs and outline potential implications for
   different stakeholders.
 
 ### Attendance and participation — 10%
