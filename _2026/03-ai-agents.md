@@ -21,8 +21,9 @@ readings:
     - authors: "Freedman, D."
       year: 2026
       title: "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities"
-      venue: "The New York Times"
+      venue: "The New York Times, August 24, 2026"
       pages: 9
+      url: "https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html"
     - authors: "Gardhouse, K., & Oueslati, A."
       year: 2026
       title: "The EU AI Act Is Not Ready for Agents"
