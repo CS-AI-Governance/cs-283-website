@@ -63,7 +63,7 @@ By the end of the course, students will be able to:
     <img class="staff-photo" src="{{ '/assets/img/nate.jpg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Nate Persily" loading="lazy">
     <div class="staff-body">
       <div class="staff-name">Nate Persily</div>
-      <div class="staff-role">School of Law, Political Science, FSI, Communication</div>
+      <div class="staff-role">School of Law, FSI, Communication, Political Science</div>
       <p class="staff-contact"><a href="mailto:npersily@stanford.edu">npersily@stanford.edu</a><br>
       Office: Law School's Neukom Building, Room N230<br>
       Office hours: Tues 2–4pm</p>
@@ -74,7 +74,7 @@ By the end of the course, students will be able to:
     <img class="staff-photo" src="{{ '/assets/img/rob.jpg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Rob Reich" loading="lazy">
     <div class="staff-body">
       <div class="staff-name">Rob Reich</div>
-      <div class="staff-role">Political Science</div>
+      <div class="staff-role">Political Science, Stanford HAI, Education, Philosophy, Law, FSI</div>
       <p class="staff-contact"><a href="mailto:reich@stanford.edu">reich@stanford.edu</a><br>
       Office: 441 Encina Hall Central<br>
       Office hours: M 4:30–6pm, book an appointment with Dominic Zappia (<a href="mailto:zappia@stanford.edu">zappia@stanford.edu</a>)</p>
