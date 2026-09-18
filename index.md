@@ -106,14 +106,16 @@ By the end of the course, students will be able to:
 
 <div class="staff-grid staff-grid--people">
   <div class="staff-card staff-card--person">
-    <img class="staff-photo" src="{{ '/assets/img/bruria.jpeg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Bruria Friedman-Feldman" loading="lazy">
+    <img class="staff-photo" src="{{ '/assets/img/dom.webp' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Dominic Zappia" loading="lazy">
     <div class="staff-body">
-      <div class="staff-name">Bruria Friedman-Feldman</div>
-      <div class="staff-role">Law School Teaching Assistant</div>
-      <p class="staff-contact"><a href="mailto:bruriaff@stanford.edu">bruriaff@stanford.edu</a></p>
+      <div class="staff-name">Dominic Zappia</div>
+      <div class="staff-role">Course Manager</div>
+      <p class="staff-contact"><a href="mailto:zappia@stanford.edu">zappia@stanford.edu</a></p>
     </div>
   </div>
+</div>
 
+<div class="staff-grid staff-grid--people">
   <div class="staff-card staff-card--person">
     <img class="staff-photo" src="{{ '/assets/img/laise.jpeg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Laise Milena Barbosa" loading="lazy">
     <div class="staff-body">
@@ -133,20 +135,20 @@ By the end of the course, students will be able to:
   </div>
 
   <div class="staff-card staff-card--person">
+    <img class="staff-photo" src="{{ '/assets/img/bruria.jpeg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Bruria Friedman-Feldman" loading="lazy">
+    <div class="staff-body">
+      <div class="staff-name">Bruria Friedman-Feldman</div>
+      <div class="staff-role">Law School Teaching Assistant</div>
+      <p class="staff-contact"><a href="mailto:bruriaff@stanford.edu">bruriaff@stanford.edu</a></p>
+    </div>
+  </div>
+
+  <div class="staff-card staff-card--person">
     <img class="staff-photo" src="{{ '/assets/img/yasi.jpg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Yasi Khan" loading="lazy">
     <div class="staff-body">
       <div class="staff-name">Yasi Khan</div>
       <div class="staff-role">Course Assistant</div>
       <p class="staff-contact"><a href="mailto:yrkhan@stanford.edu">yrkhan@stanford.edu</a></p>
-    </div>
-  </div>
-
-  <div class="staff-card staff-card--person">
-    <img class="staff-photo" src="{{ '/assets/img/dom.webp' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Dominic Zappia" loading="lazy">
-    <div class="staff-body">
-      <div class="staff-name">Dominic Zappia</div>
-      <div class="staff-role">Course Manager</div>
-      <p class="staff-contact"><a href="mailto:zappia@stanford.edu">zappia@stanford.edu</a></p>
     </div>
   </div>
 </div>

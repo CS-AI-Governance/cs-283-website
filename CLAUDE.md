@@ -213,6 +213,11 @@ by guessing:
       course manager Zappia) are on the home page under "Teaching assistants and
       course staff", sharing the instructors' card layout. That layout's modifier
       was renamed `--instructor` → `--person` so both grids use one set of rules.
+      The order is deliberate and does **not** follow the syllabus: course
+      manager Zappia comes first, alone in a one-card `.staff-grid` so he gets
+      his own row, then the other four in a second grid alphabetically by last
+      name (Barbosa, Fischli, Friedman-Feldman, Khan). The instructor grid above
+      keeps the syllabus's order.
 - [x] Section location — Room 14, in the basement of the Crown Building, per the
       finalized syllabus. `/sections/` also now carries the syllabus's
       "Distinguished Guests / Supplementary Workshops" text: the term's outside
