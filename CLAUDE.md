@@ -39,7 +39,9 @@ suffixes.)
 - `--cardinal: #8C1515` (Stanford Cardinal) — nav bar, links, accents.
 - `--cardinal-tint: rgba(140,21,21,.15)` — highlights, tinted labels.
 - `--cardinal-light: #E8746F` — dark-mode accents.
-- `--cream: #FEFFED` — page background.
+- `--cream: #FBF6E9` — page background. A *warm* cream (R > G > B); it replaced
+  `#FEFFED`, whose green channel sat above red and read as a pale yellow-green
+  against the cardinal. Keep any replacement on the warm side of the wheel.
 - Fonts (loaded in `_includes/head.html`): **Courier Prime** (nav bar), **Lato**
   (all headings/titles — bold, cardinal-colored — plus body), Source Code Pro
   (code — TBD). Playfair Display is no longer used. `main.css`/`calendar.css`
