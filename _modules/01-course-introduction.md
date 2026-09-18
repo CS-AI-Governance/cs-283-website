@@ -9,5 +9,4 @@ order: 1
 # week's Thu/Fri section actually falls in the sequence.
 rows:
   - lecture: 1
-  - section: true
 ---

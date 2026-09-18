@@ -61,7 +61,7 @@
     {%- elsif row.section -%}
       <tr class="cal-row--section">
         <td class="cal-date">Thu/Fri</td>
-        <td class="cal-topic"><span class="cal-topic-inner"><span class="label label-section">Section</span>{{ row.topic | default: 'Topic TBD' }}</span></td>
+        <td class="cal-topic"><span class="cal-topic-inner"><span class="label label-section">Section</span>{{ row.topic }}</span></td>
         <td class="cal-slides"></td>
         <td class="cal-deadline"></td>
       </tr>
