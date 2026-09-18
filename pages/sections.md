@@ -6,13 +6,13 @@ description: Section meeting times, guest speakers, the attendance policy, and h
 ---
 
 <dl class="logistics">
-  <dt>Time</dt><dd>Thursday &amp; Friday, 2:30–3:20pm (optional)</dd>
+  <dt>Time</dt><dd>Thursday or Friday, 2:30–3:20pm (optional)</dd>
   <dt>Location</dt><dd>Room 14, basement of the Crown Building, Stanford Law School</dd>
   <dt>Section leaders</dt><dd>TBA</dd>
 </dl>
 
 In addition to the lectures on Mondays and Wednesdays, we will also hold optional
-sections on Thursday and Friday.
+sections on Thursday or Friday.
 
 ## Distinguished guests and supplementary workshops
 

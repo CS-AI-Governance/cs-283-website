@@ -228,8 +228,11 @@ by guessing:
       at "lectures and sections" mandatory. **Resolved in favor of optional:**
       sections are labelled "(optional)" in the logistics lists and the
       Attendance paragraph was narrowed to "Attendance at lectures is mandatory."
-      This is the one place the site knowingly departs from the syllabus's
-      wording — don't restore "and sections".
+      Relatedly, the two Thursday/Friday slots are the *same* section offered
+      twice, so the site says sections meet Thursday **or** Friday where the
+      syllabus writes "Thursday (2:30-3:20) and Friday (2:30-3:20)". These two
+      are the places the site knowingly departs from the syllabus's wording —
+      don't restore "and sections" or "Thursday and Friday".
 - [ ] Custom domain — `cs283.stanford.edu` is recorded as `site.url` and shown on
       the home page, but it is only a **bl.ink redirect**; GitHub Pages still has
       `cname: null` and serves from the project path, so **`baseurl` must stay

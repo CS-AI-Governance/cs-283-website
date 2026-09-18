@@ -11,7 +11,7 @@ description: >-
 
 <dl class="logistics">
   <dt>Lectures</dt><dd>Monday &amp; Wednesday, 2:15–3:45pm</dd>
-  <dt>Sections</dt><dd>Thursday &amp; Friday, 2:30–3:20pm (optional)</dd>
+  <dt>Sections</dt><dd>Thursday or Friday, 2:30–3:20pm (optional)</dd>
   <dt>Location</dt><dd>Crown Building, Stanford Law School, Room 290</dd>
   <dt>Website</dt><dd><a href="https://cs283.stanford.edu">cs283.stanford.edu</a></dd>
 </dl>
