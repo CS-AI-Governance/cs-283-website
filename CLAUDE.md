@@ -210,8 +210,8 @@ by guessing:
       syllabus — see below.)
 - [x] Course staff — the five names from the finalized syllabus (law-school TAs
       Friedman-Feldman and Barbosa, course assistants Fischli and Khan, and
-      course manager Zappia) are on the home page under "Teaching assistants and
-      course staff", sharing the instructors' card layout. That layout's modifier
+      course manager Zappia) are on the home page under "Course staff", sharing
+      the instructors' card layout. That layout's modifier
       was renamed `--instructor` → `--person` so both grids use one set of rules.
       The order is deliberate and does **not** follow the syllabus: course
       manager Zappia comes first, alone in a one-card `.staff-grid` so he gets

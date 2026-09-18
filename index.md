@@ -102,7 +102,7 @@ By the end of the course, students will be able to:
   </div>
 </div>
 
-## Teaching assistants and course staff
+## Course staff
 
 <div class="staff-grid staff-grid--people">
   <div class="staff-card staff-card--person">
