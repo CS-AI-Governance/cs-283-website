@@ -92,8 +92,9 @@ See [Sections]({{ '/sections/' | relative_url }}) for the attendance policy.
 
 ### AI Governance Research Paper — 100%
 
-Your grade is determined by a final research paper on any topic within the
-subject matter of the class, and by class and section participation.
+Your grade is determined by a final research paper of 25 pages on any topic
+within the subject matter of the class, and by lecture attendance and
+participation.
 
 <dl class="milestones">
   <dt>Paper outline</dt>
