@@ -204,9 +204,27 @@ by guessing:
       calls the public comment assignment the "RFC"; the site keeps the fuller
       name it already used. The finalized syllabus confirms Nov 6 and Dec 4,
       closing the earlier "due XXX" ambiguity.
-- [ ] Teaching assistants; section topics, locations, and leaders; office hours
-      for Reuel and Koyejo. (Learning objectives are now filled in from the
-      Sept 2026 syllabus.)
+- [ ] Section topics and which staff member leads each section; office hours for
+      Reuel and Koyejo. (Learning objectives are now filled in from the Sept 2026
+      syllabus. Course staff and the section room came with the finalized
+      syllabus — see below.)
+- [x] Course staff — the five names from the finalized syllabus (law-school TAs
+      Friedman-Feldman and Barbosa, course assistants Fischli and Khan, and
+      course manager Zappia) are on the home page under "Teaching assistants and
+      course staff", sharing the instructors' card layout. That layout's modifier
+      was renamed `--instructor` → `--person` so both grids use one set of rules.
+- [x] Section location — Room 14, in the basement of the Crown Building, per the
+      finalized syllabus. `/sections/` also now carries the syllabus's
+      "Distinguished Guests / Supplementary Workshops" text: the term's outside
+      guest speakers and the Law School AI Initiative's Thursday 12:40–2:00pm
+      speaker series in 270 Crown, with its RSVP/mailing-list link.
+      The finalized syllabus calls sections **optional** twice (the header block
+      and the sections paragraph) while its attendance paragraph calls attendance
+      at "lectures and sections" mandatory. **Resolved in favor of optional:**
+      sections are labelled "(optional)" in the logistics lists and the
+      Attendance paragraph was narrowed to "Attendance at lectures is mandatory."
+      This is the one place the site knowingly departs from the syllabus's
+      wording — don't restore "and sections".
 - [ ] Custom domain — `cs283.stanford.edu` is recorded as `site.url` and shown on
       the home page, but it is only a **bl.ink redirect**; GitHub Pages still has
       `cname: null` and serves from the project path, so **`baseurl` must stay

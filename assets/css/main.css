@@ -763,10 +763,10 @@ input[type=checkbox]:checked ~ .menu-label:after {
   padding-left: 0.75rem;
 }
 
-/* Instructor cards: headshot beside name, department, and contact. Overrides
+/* Person cards (instructors, TAs): headshot beside name, role, and contact. Overrides
    the compact .staff-card used for the plain headshot grid; the compound
    selectors keep the override from depending on source order. */
-.staff-grid.staff-grid--instructors {
+.staff-grid.staff-grid--people {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   /* Row gap here, not margin-bottom on the card -- one mechanism, and it stops
@@ -774,7 +774,7 @@ input[type=checkbox]:checked ~ .menu-label:after {
   gap: 1.5rem 1.75rem;
 }
 
-.staff-card.staff-card--instructor {
+.staff-card.staff-card--person {
   display: flex;
   gap: 1rem;
   width: auto;
@@ -783,9 +783,9 @@ input[type=checkbox]:checked ~ .menu-label:after {
   padding-top: 1rem;
 }
 
-/* The headshots are mixed aspect ratios (350x350, 400x400, 250x360, 163x240),
+/* The headshots are mixed aspect ratios (square, tall portrait, and landscape),
    so cover-crop them into the circle instead of letting them squash. */
-.staff-card--instructor .staff-photo {
+.staff-card--person .staff-photo {
   flex: 0 0 auto;
   width: 4rem;
   height: 4rem;
@@ -794,11 +794,11 @@ input[type=checkbox]:checked ~ .menu-label:after {
   margin: 0.2rem 0 0;
 }
 
-.staff-card--instructor .staff-name {
+.staff-card--person .staff-name {
   font-size: 1rem;
 }
 
-.staff-card--instructor .staff-role {
+.staff-card--person .staff-role {
   margin-bottom: 0.4rem;
 }
 
@@ -810,17 +810,17 @@ input[type=checkbox]:checked ~ .menu-label:after {
 }
 
 @media (max-width: 44rem) {
-  .staff-grid.staff-grid--instructors {
+  .staff-grid.staff-grid--people {
     grid-template-columns: minmax(0, 1fr);
   }
 }
 
 @media (max-width: 26rem) {
-  .staff-card.staff-card--instructor {
+  .staff-card.staff-card--person {
     display: block;
   }
 
-  .staff-card--instructor .staff-photo {
+  .staff-card--person .staff-photo {
     margin-bottom: 0.5rem;
   }
 }
@@ -838,7 +838,7 @@ input[type=checkbox]:checked ~ .menu-label:after {
     color: #aaa;
   }
 
-  .staff-card.staff-card--instructor {
+  .staff-card.staff-card--person {
     border-top-color: rgba(255, 255, 255, 0.14);
   }
 }
