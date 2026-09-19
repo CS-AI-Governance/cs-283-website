@@ -109,7 +109,7 @@ By the end of the course, students will be able to:
     <img class="staff-photo" src="{{ '/assets/img/dom.webp' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Dominic Zappia" loading="lazy">
     <div class="staff-body">
       <div class="staff-name">Dominic Zappia</div>
-      <div class="staff-role">Course Manager</div>
+      <div class="staff-role">Head Course Assistant</div>
       <p class="staff-contact"><a href="mailto:zappia@stanford.edu">zappia@stanford.edu</a></p>
     </div>
   </div>
@@ -118,7 +118,7 @@ By the end of the course, students will be able to:
     <img class="staff-photo" src="{{ '/assets/img/laise.jpeg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Laise Milena Barbosa" loading="lazy">
     <div class="staff-body">
       <div class="staff-name">Laise Milena Barbosa</div>
-      <div class="staff-role">Teaching Assistant (SLS)</div>
+      <div class="staff-role">Course Assistant (SLS)</div>
       <p class="staff-contact"><a href="mailto:laisemb@stanford.edu">laisemb@stanford.edu</a></p>
     </div>
   </div> -->
@@ -136,7 +136,7 @@ By the end of the course, students will be able to:
     <img class="staff-photo" src="{{ '/assets/img/bruria.jpeg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Bruria Friedman-Feldman" loading="lazy">
     <div class="staff-body">
       <div class="staff-name">Bruria Friedman-Feldman</div>
-      <div class="staff-role">Teaching Assistant (SLS)</div>
+      <div class="staff-role">Course Assistant (SLS)</div>
       <p class="staff-contact"><a href="mailto:bruriaff@stanford.edu">bruriaff@stanford.edu</a></p>
     </div>
   </div> -->
@@ -145,7 +145,7 @@ By the end of the course, students will be able to:
     <img class="staff-photo" src="{{ '/assets/img/thay.jpg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Thay Graciano" loading="lazy">
     <div class="staff-body">
       <div class="staff-name">Thay Graciano</div>
-      <div class="staff-role">Teaching Assistant</div>
+      <div class="staff-role">Course Assistant</div>
       <p class="staff-contact"><a href="mailto:thayg@stanford.edu">thayg@stanford.edu</a></p>
     </div>
   </div>
