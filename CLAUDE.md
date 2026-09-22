@@ -212,14 +212,14 @@ by guessing:
       syllabus — see below.)
 - [x] Course staff — the five names from the finalized syllabus (SLS TAs
       Friedman-Feldman and Barbosa, course assistants Fischli and Khan, and
-      course manager Zappia), plus TA Graciano, who the instructors added after
-      it, are on the home page under "Course staff", sharing
+      course manager Zappia), plus TAs Graciano and Cheng, who the instructors
+      added after it, are on the home page under "Course staff", sharing
       the instructors' card layout. That layout's modifier
       was renamed `--instructor` → `--person` so both grids use one set of rules.
       The order is deliberate and does **not** follow the syllabus: Zappia
-      comes first, then the other five alphabetically by last
-      name (Barbosa, Fischli, Friedman-Feldman, Graciano, Khan). All six share
-      one `.staff-grid`, which fills the two-column layout exactly 2×3; Zappia
+      comes first, then the others alphabetically by last
+      name (Barbosa, Cheng, Fischli, Friedman-Feldman, Graciano, Khan). They all
+      share one `.staff-grid`; Zappia
       used to sit alone in a one-card grid of his own so he got his own row,
       and that was dropped once Graciano made the count even. The instructor
       grid above keeps the syllabus's order. Every staff member is labelled
@@ -227,7 +227,7 @@ by guessing:
       law-school TAs keep an "(SLS)" qualifier ("Course Assistant (SLS)"), not
       the syllabus's "Law School Teaching Assistant". Barbosa's and
       Friedman-Feldman's cards are currently commented out in `index.md`, so
-      the grid renders four cards rather than the full six.
+      the grid renders five cards rather than the full seven.
 - [x] Section location — Room 14, in the basement of the Crown Building, per the
       finalized syllabus. `/sections/` also now carries the syllabus's
       "Distinguished Guests / Supplementary Workshops" text: the term's outside
