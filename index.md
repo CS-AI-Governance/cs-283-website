@@ -34,6 +34,10 @@ governing AI.
 
 There are no prerequisites.
 
+<p>Students should direct any questions to the course staff via
+<a href="https://edstem.org/us/courses/106653/discussion">Ed</a>. You can also
+reach the Head CA at <a href="mailto:zappia@stanford.edu">zappia@stanford.edu</a>.</p>
+
 ## Learning objectives
 
 By the end of the course, students will be able to:
