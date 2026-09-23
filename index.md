@@ -145,14 +145,14 @@ By the end of the course, students will be able to:
     </div>
   </div>
 
-<!--   <div class="staff-card staff-card--person">
+  <div class="staff-card staff-card--person">
     <img class="staff-photo" src="{{ '/assets/img/bruria.jpeg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Bruria Friedman-Feldman" loading="lazy">
     <div class="staff-body">
       <div class="staff-name">Bruria Friedman-Feldman</div>
       <div class="staff-role">Course Assistant (SLS)</div>
       <p class="staff-contact"><a href="mailto:bruriaff@stanford.edu">bruriaff@stanford.edu</a></p>
     </div>
-  </div> -->
+  </div>
 
   <div class="staff-card staff-card--person">
     <img class="staff-photo" src="{{ '/assets/img/thay.jpg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Thay Graciano" loading="lazy">

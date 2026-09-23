@@ -226,9 +226,9 @@ by guessing:
       grid above keeps the syllabus's order. Every staff member is labelled
       "Course Assistant" except Zappia, who is "Head Course Assistant"; the two
       law-school TAs keep an "(SLS)" qualifier ("Course Assistant (SLS)"), not
-      the syllabus's "Law School Teaching Assistant". Barbosa's and
-      Friedman-Feldman's cards are currently commented out in `index.md`, so
-      the grid renders six cards rather than the full eight.
+      the syllabus's "Law School Teaching Assistant". Barbosa's card is currently
+      commented out in `index.md`, so the grid renders seven cards rather than
+      the full eight.
 - [x] Section location — Room 14, in the basement of the Crown Building, per the
       finalized syllabus. `/sections/` also now carries the syllabus's
       "Distinguished Guests / Supplementary Workshops" text: the term's outside
