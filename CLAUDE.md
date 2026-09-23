@@ -218,13 +218,15 @@ by guessing:
       sharing the instructors' card layout. That layout's modifier
       was renamed `--instructor` → `--person` so both grids use one set of rules.
       The order is deliberate and does **not** follow the syllabus: Zappia
-      comes first, then the others alphabetically by last
-      name (Barbosa, Cheng, Fischli, Friedman-Feldman, Graciano, Khan,
-      Vasudeva). They all share one `.staff-grid`; Zappia used to sit alone in
+      comes first and Fischli second (the two leads), then the others
+      alphabetically by last name (Barbosa, Cheng, Friedman-Feldman, Graciano,
+      Khan, Vasudeva). They all share one `.staff-grid`; Zappia used to sit alone in
       a one-card grid of his own so he got his own row,
       and that was dropped once Graciano made the count even. The instructor
       grid above keeps the syllabus's order. Every staff member is labelled
-      "Course Assistant" except Zappia, who is "Head Course Assistant"; the two
+      "Course Assistant" except Zappia, who is "Head Course Assistant", and
+      Fischli, who is "Co-Head Course Assistant" — both titles stay spelled out
+      rather than abbreviated to "CA"; the two
       law-school TAs keep an "(SLS)" qualifier ("Course Assistant (SLS)"), not
       the syllabus's "Law School Teaching Assistant". Barbosa's card is currently
       commented out in `index.md`, so the grid renders seven cards rather than

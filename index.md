@@ -128,6 +128,15 @@ coming in late shall be marked as absent.
     </div>
   </div>
 
+  <div class="staff-card staff-card--person">
+    <img class="staff-photo" src="{{ '/assets/img/roberta.jpeg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Roberta Fischli" loading="lazy">
+    <div class="staff-body">
+      <div class="staff-name">Roberta Fischli</div>
+      <div class="staff-role">Co-Head Course Assistant</div>
+      <p class="staff-contact"><a href="mailto:fischli@stanford.edu">fischli@stanford.edu</a></p>
+    </div>
+  </div>
+
 <!--   <div class="staff-card staff-card--person">
     <img class="staff-photo" src="{{ '/assets/img/laise.jpeg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Laise Milena Barbosa" loading="lazy">
     <div class="staff-body">
@@ -143,15 +152,6 @@ coming in late shall be marked as absent.
       <div class="staff-name">Yifei Cheng</div>
       <div class="staff-role">Course Assistant</div>
       <p class="staff-contact"><a href="mailto:yifechen@stanford.edu">yifechen@stanford.edu</a></p>
-    </div>
-  </div>
-
-  <div class="staff-card staff-card--person">
-    <img class="staff-photo" src="{{ '/assets/img/roberta.jpeg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Roberta Fischli" loading="lazy">
-    <div class="staff-body">
-      <div class="staff-name">Roberta Fischli</div>
-      <div class="staff-role">Course Assistant</div>
-      <p class="staff-contact"><a href="mailto:fischli@stanford.edu">fischli@stanford.edu</a></p>
     </div>
   </div>
 
