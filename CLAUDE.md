@@ -207,7 +207,8 @@ by guessing:
       name it already used. The finalized syllabus confirms Nov 6 and Dec 4,
       closing the earlier "due XXX" ambiguity.
 - [ ] Section topics and which staff member leads each section; office hours for
-      Reuel and Koyejo. (Learning objectives are now filled in from the Sept 2026
+      Koyejo (Reuel's came from the instructors: Friday 11am-noon in Durand,
+      room still TBD). (Learning objectives are now filled in from the Sept 2026
       syllabus. Course staff and the section room came with the finalized
       syllabus — see below.)
 - [x] Course staff — the five names from the finalized syllabus (SLS TAs
