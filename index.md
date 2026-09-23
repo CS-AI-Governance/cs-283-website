@@ -91,7 +91,7 @@ By the end of the course, students will be able to:
       <div class="staff-name">Anka Reuel</div>
       <div class="staff-role">Computer Science</div>
       <p class="staff-contact"><a href="mailto:anka.reuel@stanford.edu">anka.reuel@stanford.edu</a><br>
-      Office hours: Friday, 11am-noon, Durand Building (Room tbd)</p>
+      Office hours: Fri, 11am-12pm, Durand Building (room tbd)</p>
     </div>
   </div>
 
