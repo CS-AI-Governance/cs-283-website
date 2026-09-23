@@ -212,22 +212,22 @@ by guessing:
       syllabus — see below.)
 - [x] Course staff — the five names from the finalized syllabus (SLS TAs
       Friedman-Feldman and Barbosa, course assistants Fischli and Khan, and
-      course manager Zappia), plus TAs Graciano and Cheng, who the instructors
-      added after it, are on the home page under "Course staff", sharing
-      the instructors' card layout. That layout's modifier
+      course manager Zappia), plus TAs Graciano, Cheng, and Vasudeva, who the
+      instructors added after it, are on the home page under "Course staff",
+      sharing the instructors' card layout. That layout's modifier
       was renamed `--instructor` → `--person` so both grids use one set of rules.
       The order is deliberate and does **not** follow the syllabus: Zappia
       comes first, then the others alphabetically by last
-      name (Barbosa, Cheng, Fischli, Friedman-Feldman, Graciano, Khan). They all
-      share one `.staff-grid`; Zappia
-      used to sit alone in a one-card grid of his own so he got his own row,
+      name (Barbosa, Cheng, Fischli, Friedman-Feldman, Graciano, Khan,
+      Vasudeva). They all share one `.staff-grid`; Zappia used to sit alone in
+      a one-card grid of his own so he got his own row,
       and that was dropped once Graciano made the count even. The instructor
       grid above keeps the syllabus's order. Every staff member is labelled
       "Course Assistant" except Zappia, who is "Head Course Assistant"; the two
       law-school TAs keep an "(SLS)" qualifier ("Course Assistant (SLS)"), not
       the syllabus's "Law School Teaching Assistant". Barbosa's and
       Friedman-Feldman's cards are currently commented out in `index.md`, so
-      the grid renders five cards rather than the full seven.
+      the grid renders six cards rather than the full eight.
 - [x] Section location — Room 14, in the basement of the Crown Building, per the
       finalized syllabus. `/sections/` also now carries the syllabus's
       "Distinguished Guests / Supplementary Workshops" text: the term's outside

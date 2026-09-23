@@ -171,4 +171,13 @@ By the end of the course, students will be able to:
       <p class="staff-contact"><a href="mailto:yrkhan@stanford.edu">yrkhan@stanford.edu</a></p>
     </div>
   </div>
+
+  <div class="staff-card staff-card--person">
+    <img class="staff-photo" src="{{ '/assets/img/tia.jpg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Tia Vasudeva" loading="lazy">
+    <div class="staff-body">
+      <div class="staff-name">Tia Vasudeva</div>
+      <div class="staff-role">Course Assistant</div>
+      <p class="staff-contact"><a href="mailto:tvasudev@stanford.edu">tvasudev@stanford.edu</a></p>
+    </div>
+  </div>
 </div>
