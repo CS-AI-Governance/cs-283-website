@@ -60,6 +60,16 @@ By the end of the course, students will be able to:
 - Synthesize interdisciplinary perspectives to formulate and evaluate actionable
   governance proposals.
 
+## Attendance policy
+
+Except in cases of an OAE accommodation or another valid reason that is brought
+to the course managers or a student's course assistant's attention before
+lecture, attendance at lectures is mandatory. If a student has a prolonged
+illness or a personal situation that might lead to more than one lecture
+absence, the student should contact a member of the course staff before missing
+a lecture. Attendance will be taken at the beginning of each class. Any student
+coming in late shall be marked as absent.
+
 ## Instructors
 
 <div class="staff-grid staff-grid--people">

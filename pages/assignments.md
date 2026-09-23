@@ -69,7 +69,8 @@ brief rationale why.
 
 ### Attendance and participation — 10%
 
-See [Sections]({{ '/sections/' | relative_url }}) for the attendance policy.
+See the [attendance policy]({{ '/' | relative_url }}#attendance-policy) on the
+home page.
 
 ### Grading breakdown
 
