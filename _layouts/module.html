@@ -39,7 +39,7 @@
         </td>
         <td class="cal-slides">
           {%- if doc.slides -%}
-            <a href="{{ doc.slides }}">[slides]</a>
+            <a href="{{ doc.slides | relative_url }}">[slides]</a>
           {%- else -%}
             <span class="cal-slides-tbd">[slides]</span>
           {%- endif -%}

@@ -6,6 +6,7 @@ date: 2026-09-23
 unit: 1
 unit_title: "Course Introduction"
 ready: true
+slides: /assets/slides/CS283_Lecture1_Public.pdf
 summary: >-
   Introductions from the instructors, with reflections on their different
   disciplinary and methodological approaches to AI governance. This session will
