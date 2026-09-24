@@ -82,12 +82,17 @@ suffixes.)
 - New offering next fall: add a `_2027/` collection (mirror the `_2026` config +
   defaults), give new `_modules` docs `year: 2027`, and bump `current_year`.
 - **Lecture readings live in front matter**, not prose: each `_2026/*.md` carries
-  a `readings:` map with `required:` / `supplementary:` lists of
+  a `readings:` map with `required:` / `privacy:` / `supplementary:` lists of
   `{authors, year, title, venue, pages, url}` (all optional but `title`).
   `_includes/readings.html` renders them and sums each group's stated `pages`
   into the header total. `readings_tbd: true` renders an explicit TBD box for a
   lecture the syllabus has not filled in yet. Page counts and citations come
   from the instructors verbatim — **never invent a `url:` or a page count.**
+  The `privacy:` group exists only for L6, where the syllabus prints a separate
+  "Privacy Readings" block after the copyright list; it renders between
+  `required` and `supplementary`. **The required/supplementary split must match
+  the syllabus exactly** — L3 has only two required readings and L4 has none at
+  all (its whole list is supplementary), which is what the syllabus says.
 - **Course units, not weeks**: the calendar is grouped by the *thematic units* of
   the instructors' course map (Course Introduction, Technical Foundations,
   Individual Risks, Societal Risk, National & International Approaches to AI
@@ -181,6 +186,8 @@ by guessing:
 - [x] **Lecture 6** (AI, Copyright, Creativity & Privacy) — the merged
       copyright + privacy list and its summary landed in the Sept 2026 syllabus.
       The superseded lists that were once preserved as commented YAML are gone.
+      The two groups are kept apart on the page via the `privacy:` key, matching
+      the syllabus's own "Privacy Readings" heading.
 - [x] Lecture 10's readings landed with the finalized syllabus — the seven
       existential-risk entries that L19 had been carrying under a "Combined from
       two previous sessions" note moved back to L10, where they belong.
@@ -194,9 +201,11 @@ by guessing:
       from its TOC.)
 - [ ] Slide decks — every `/schedule/` row shows an inert `[slides]` placeholder
       until a lecture gets a `slides:` URL in its front matter.
-- [x] Reading URLs — 115 of the 116 citations are linked. The one exception is
-      L19's Reich et al., a print book with no canonical link. Never invent a
-      `url:`; if the syllabus omits one, ask the instructors for it.
+- [ ] Reading URLs — 115 of the 118 citations are linked. The three exceptions
+      are L19's Reich et al. (a print book with no canonical link), L3's METR
+      report, and L13's AI Verify Foundation & IMDA framework; the syllabus
+      supplies no link for the latter two, so they render unlinked. Never invent
+      a `url:`; ask the instructors for these two.
 - [x] Assignment due dates — all set from the updated course map and live on
       `/assignments/`, each with a `deadlines:` badge on the nearest preceding
       lecture in `_2026/`: Milestone 1 Fri Oct 16 → L7, law paper outline Mon

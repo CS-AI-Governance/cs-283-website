@@ -8,7 +8,7 @@ unit_title: "Individual Risks"
 ready: true
 summary: >-
   This lecture examines how AI model training intersects with copyright law,
-  privacy, and human creativity. The lecture focuses on disputes like OpenAI v.
+  privacy, and human creativity. The lecture focuses on disputes like OpenAI vs.
   The New York Times to explore broader themes. We'll explore distinctions
   between output similarity and the use of copyrighted training data, and assess
   potential legal consequences for model developers. Technical issues such as
@@ -18,35 +18,23 @@ summary: >-
   language models.
 readings:
   required:
-    - authors: "Burgess, M."
-      year: 2023
-      title: "ChatGPT Has a Big Privacy Problem"
-      venue: "Wired"
-      pages: 8
-      url: "https://www.wired.com/story/italy-ban-chatgpt-privacy-gdpr/"
     - authors: "Congressional Research Service"
       year: 2025
-      title: "Generative Artificial Intelligence and Copyright Law"
+      title: "Generative Artificial Intelligence and Copyright Law (Legal Sidebar No. LSB10922)"
       venue: "June 2025"
       pages: 7
       url: "https://www.congress.gov/crs-product/LSB10922"
+    - authors: "Cooper, A. F., et al."
+      year: 2024
+      title: "Machine Unlearning Doesn't Do What You Think: Lessons for Generative AI Policy, Research, and Practice"
+      pages: 24
+      url: "https://arxiv.org/abs/2412.06966"
     - authors: "Cooper, A. F., & Grimmelmann, J."
       year: 2025
       title: "The Files are in the Computer: On Copyright, Memorization, and Generative AI"
       venue: "Chicago-Kent Law Review, 100(1), 141–217"
       pages: 76
       url: "https://arxiv.org/abs/2404.12590"
-    - authors: "Cooper, A. F., et al."
-      year: 2024
-      title: "Machine Unlearning Doesn't Do What You Think"
-      pages: 24
-      url: "https://arxiv.org/abs/2412.06966"
-    - authors: "European Data Protection Board"
-      year: 2024
-      title: "Opinion 28/2024 on Certain Data Protection Aspects Related to the Processing of Personal Data in the Context of AI Models"
-      venue: "December 17, 2024"
-      pages: 35
-      url: "https://www.edpb.europa.eu/system/files/documents/2024-12/edpb_opinion_202428_ai-models_en.pdf"
     - authors: "Ippolito, D., et al."
       year: 2023
       title: "Preventing Verbatim Memorization in Language Models Gives a False Sense of Privacy"
@@ -65,6 +53,19 @@ readings:
       venue: "International Conference on Machine Learning (ICML)"
       pages: 9
       url: "https://arxiv.org/pdf/2503.17514"
+  privacy:
+    - authors: "Burgess, M."
+      year: 2023
+      title: "ChatGPT Has a Big Privacy Problem"
+      venue: "WIRED"
+      pages: 8
+      url: "https://www.wired.com/story/italy-ban-chatgpt-privacy-gdpr/"
+    - authors: "European Data Protection Board"
+      year: 2024
+      title: "Opinion 28/2024 on Certain Data Protection Aspects Related to the Processing of Personal Data in the Context of AI Models"
+      venue: "December 17, 2024"
+      pages: 35
+      url: "https://www.edpb.europa.eu/system/files/documents/2024-12/edpb_opinion_202428_ai-models_en.pdf"
     - authors: "noyb"
       year: 2024
       title: "ChatGPT Provides False Information About People, and OpenAI Can't Correct It"
@@ -77,7 +78,7 @@ readings:
       venue: "June 6, 2024"
       pages: 5
       url: "https://noyb.eu/en/noyb-urges-11-dpas-immediately-stop-metas-abuse-personal-data-ai"
-    - authors: "Solove, D."
+    - authors: "Solove, D. J."
       year: 2025
       title: "Artificial Intelligence and Privacy"
       venue: "Florida Law Review, 77(1), 1"

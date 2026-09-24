@@ -21,7 +21,7 @@ readings:
     - authors: "Karpathy, A."
       year: 2023
       title: "Introduction to Large Language Models"
-      venue: "YouTube video"
+      venue: "YouTube video, 1 hr"
       url: "https://www.youtube.com/watch?v=zjkBMFhNj_g"
     - authors: "Lages, J."
       year: 2023
@@ -31,7 +31,7 @@ readings:
     - authors: "Lee, H., et al."
       year: 2024
       title: "RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback"
-      venue: "Proceedings of the International Conference on Machine Learning (ICML)"
+      venue: "Proceedings of the 41st International Conference on Machine Learning (ICML), PMLR 235, 26874–26901"
       pages: 9
       url: "https://arxiv.org/abs/2309.00267"
     - authors: "Toner, H."

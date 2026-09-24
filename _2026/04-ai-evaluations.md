@@ -16,7 +16,7 @@ summary: >-
   mechanisms for auditing, and how red-teaming practices can supplement formal
   evaluation protocols.
 readings:
-  required:
+  supplementary:
     - authors: "Boubdir, M., et al."
       year: 2024
       title: "Elo Uncovered: Robustness and Best Practices in Language Model Evaluation"

@@ -4,7 +4,11 @@
 
     readings:
       required:      [ { authors, year, title, venue, pages, url }, ... ]
+      privacy:       [ ... ]
       supplementary: [ ... ]
+
+  The `privacy` group exists for Lecture 6, where the syllabus lists a separate
+  "Privacy Readings" block alongside the copyright readings.
 
   Every field is optional except `title`. Page counts come straight from the
   syllabus; where it gives none, the ledger prints an em dash rather than a
@@ -18,7 +22,7 @@
     <p class="readings-note">{{ page.readings_note }}</p>
   {% endif %}
 
-  {% assign groups = "required,supplementary" | split: "," %}
+  {% assign groups = "required,privacy,supplementary" | split: "," %}
   {% for group in groups %}
     {% assign items = page.readings[group] %}
     {% if items and items.size > 0 %}

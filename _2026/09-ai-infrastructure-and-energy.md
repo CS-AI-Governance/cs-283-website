@@ -12,7 +12,7 @@ ready: true
 summary: >-
   In this session, we investigate the physical infrastructure underpinning
   frontier AI, including the massive energy and data center demands, and the
-  environmental impact. In addition, we're covering what's known as compute
+  resultant environmental impact. In addition, we're covering what's known as compute
   governance — i.e., the institutional arrangements, regulatory instruments, and
   technical mechanisms that structure access to, and oversight of, computational
   resources in the context of AI.
@@ -24,6 +24,12 @@ readings:
       venue: "Epoch AI Gradient Updates"
       pages: 16
       url: "https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use"
+    - authors: "Gorey, J."
+      year: 2025
+      title: "Data Drain: The Land and Water Impacts of the AI Boom"
+      venue: "Land Lines, Lincoln Institute of Land Policy"
+      pages: 18
+      url: "https://www.lincolninst.edu/publications/land-lines-magazine/articles/land-water-impacts-data-centers/"
     - authors: "IAPS"
       year: 2025
       title: "How AI Chips Are Made"
@@ -36,12 +42,6 @@ readings:
       venue: "Harvard Data Science Review"
       pages: 5
       url: "https://hdsr.mitpress.mit.edu/pub/fscsqwx4/release/2?utm_source=substack&utm_medium=email"
-    - authors: "Gorey, J."
-      year: 2025
-      title: "Data Drain: The Land and Water Impacts of the AI Boom"
-      venue: "Land Lines, Lincoln Institute of Land Policy"
-      pages: 18
-      url: "https://www.lincolninst.edu/publications/land-lines-magazine/articles/land-water-impacts-data-centers/"
     - authors: "Luccioni, S., et al."
       year: 2024
       title: "The Environmental Impacts of AI — Policy Primer"

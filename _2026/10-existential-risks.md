@@ -7,8 +7,8 @@ unit: 4
 unit_title: "Societal Risk"
 ready: true
 summary: >-
-  We examine AI and potential existential impacts, from CBRN (chemical,
-  biological, radiological, and nuclear) risks to a post-scarcity future. The
+  We examine AI and potential existential impacts, from CBRN (Chemical,
+  Biological, Radiological, and Nuclear) risks to a post-scarcity future. The
   session also explores mechanisms by which AI could have an existential impact
   through autonomous research and development.
 readings:

@@ -18,34 +18,37 @@ readings:
   required:
     - authors: "Barocas, S., Hardt, M., & Narayanan, A."
       year: 2023
-      title: "Fairness & Machine Learning (chapters 1, 4, and 8)"
+      title: "Fairness and Machine Learning: Limitations and Opportunities (chapters 1, 4, and 8)"
       venue: "MIT Press"
       pages: 71
       url: "https://fairmlbook.org/pdf/fairmlbook.pdf"
-    - authors: "Gillum, R., et al."
+    - authors: "Gillum, R., Leslie, G., & Wong, C."
       year: 2026
       title: "AI, Race, and Politics"
       venue: "Artificial Intelligence, Politics, and Political Science, pp. 152–196"
       pages: 45
       url: "https://apsanet.org/wp-content/uploads/2026/08/Lee-TF-APSA-AI-Report-2026-Tucker-Persily.pdf"
-    - authors: "Lawyers Committee for Civil Rights"
+    - authors: "Lawyers' Committee for Civil Rights Under Law"
+      year: 2025
       title: "AI Civil Rights Act (homepage plus 1-page summary)"
       pages: 1
       url: "https://www.lawyerscommittee.org/wp-content/uploads/2025/11/Basic-AI-Civil-Rights-Act-1-pager.pdf"
     - authors: "Wang, A., et al."
       year: 2025
-      title: "Fairness Through Difference Awareness"
+      title: "Fairness Through Difference Awareness: Measuring Desired Group Discrimination in LLMs"
       pages: 9
       url: "https://arxiv.org/abs/2502.01926"
   supplementary:
     - authors: "Ho, D. E., & Xiang, A."
       year: 2020
       title: "Affirmative Algorithms: The Legal Grounds for Fairness as Awareness"
+      venue: "University of Chicago Law Review Online"
       pages: 21
       url: "https://arxiv.org/abs/2012.14285"
     - authors: "Huq, A. Z."
       year: 2019
       title: "Racial Equity in Algorithmic Criminal Justice"
+      venue: "Duke Law Journal, 68(6), 1043–1134"
       pages: 92
       url: "https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=3972&context=dlj"
 ---

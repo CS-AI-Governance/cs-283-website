@@ -28,7 +28,7 @@ readings:
     - authors: "Bostrom, N., & Yudkowsky, E."
       year: 2014
       title: "The Ethics of Artificial Intelligence"
-      venue: "Cambridge University Press"
+      venue: "The Cambridge Handbook of Artificial Intelligence, Cambridge University Press"
       pages: 18
       url: "https://intelligence.org/files/EthicsofAI.pdf"
     - authors: "Durmus, E., et al."
@@ -37,7 +37,7 @@ readings:
       venue: "Conference on Language Modeling (COLM)"
       pages: 10
       url: "https://arxiv.org/abs/2306.16388"
-    - authors: "Grayling, A., & Ball, B."
+    - authors: "Grayling, A. C., & Ball, B."
       year: 2024
       title: "Philosophy Has Been — and Should Be — Integral to AI"
       venue: "Social Science Space"

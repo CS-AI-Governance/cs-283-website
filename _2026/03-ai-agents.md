@@ -9,15 +9,11 @@ ready: true
 summary: >-
   We investigate agentic systems with memory, tool use, and goal-setting
   capabilities. Topics include reinforcement learning from AI feedback (RLAIF),
-  planning in multi-agent environments, and risk from open-ended exploration. We
-  will discuss the governance implications of decentralized, interacting agents.
+  planning in multi-agent environments, and challenges from open-ended
+  exploration. We will discuss the governance implications of decentralized,
+  interacting agents and some of the recent incidents that happened.
 readings:
   required:
-    - authors: "Durante, Z., et al."
-      year: 2024
-      title: "Agent AI: Surveying the Horizons of Multimodal Interaction"
-      pages: 54
-      url: "https://arxiv.org/abs/2401.03568"
     - authors: "Freedman, D."
       year: 2026
       title: "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities"
@@ -30,9 +26,16 @@ readings:
       venue: "Tech Policy Press"
       pages: 7
       url: "https://www.techpolicy.press/the-eu-ai-act-is-not-ready-for-agents/"
+  supplementary:
+    - authors: "Durante, Z., et al."
+      year: 2024
+      title: "Agent AI: Surveying the Horizons of Multimodal Interaction"
+      pages: 54
+      url: "https://arxiv.org/abs/2401.03568"
     - authors: "Hammond, L., et al."
       year: 2025
       title: "Multi-Agent Risks from Advanced AI"
+      venue: "Cooperative AI Foundation, Technical Report #1"
       pages: 52
       url: "https://arxiv.org/abs/2502.14143"
     - authors: "Kapoor, S., et al."
@@ -46,6 +49,11 @@ readings:
       venue: "Notre Dame Law Review, vol. 101"
       pages: 48
       url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4772956"
+    # The syllabus gives no link for the METR report; left unlinked rather than guessed.
+    - authors: "METR"
+      year: 2026
+      title: "Brief Independent Investigation of Agents' Behavior, Reasoning and Collaboration in the OpenAI / Hugging Face Hacking Incident"
+      pages: 91
     - authors: "Wang, D., et al."
       year: 2024
       title: "Retrieve What You Need: A Mutual Learning Framework for Open-Domain Question Answering"

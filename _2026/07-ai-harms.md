@@ -25,7 +25,7 @@ readings:
     - authors: "Chatterjee, R."
       year: 2025
       title: "Their Teenage Sons Died by Suicide. Now They Are Sounding the Alarm About AI Chatbots"
-      venue: "NPR KQED"
+      venue: "NPR"
       url: "https://www.npr.org/sections/shots-health-news/2025/09/19/nx-s1-5545749/ai-chatbots-safety-openai-meta-characterai-teens-suicide"
     - year: 2024
       title: "Complaint in Garcia v. Character Technologies (read the summary of claims)"

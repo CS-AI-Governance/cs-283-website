@@ -10,7 +10,7 @@ summary: >-
   This lecture surveys major U.S. policy actions with attention to their
   technical implications, such as model access restrictions and reporting
   requirements. We analyze the intersection between compute governance proposals
-  and institutional capacity. Case studies include California SB 1047 and SB 53
+  and institutional capacity. Case studies include California SB1047 and SB53
   thresholds for foundation model testing and the Biden Executive Order's
   directives on safety testing. We also discuss the fragmented nature of U.S.
   governance and the role of federalism, industry lobbying, and public perception.

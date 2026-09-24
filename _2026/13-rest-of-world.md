@@ -10,9 +10,10 @@ deadlines:
     date: "Fri Nov 6"
 ready: true
 summary: >-
-  This lecture examines the diverse and evolving approaches to AI governance in
-  regions such as China, Africa, Southeast Asia, and India, situating them within
-  broader debates on technology regulation and global power asymmetries. By
+  This lecture examines the diverse and evolving approaches to AI governance,
+  covering China, India, and regional approaches in Southeast Asia and Africa.
+  We situate these approaches in broader debates on technology regulation and
+  global power asymmetries. By
   analyzing the institutional, legal, and normative frameworks emerging across
   these regions, the lecture highlights how local political economies,
   developmental priorities, and sociotechnical contexts shape distinct governance
@@ -28,6 +29,11 @@ readings:
       venue: "Oxford Martin AI Governance Initiative"
       pages: 59
       url: "https://aigi.ox.ac.uk/publications/voice-and-access-in-ai-global-ai-majority-participation-in-artificial-intelligence-development-and-governance/"
+    # The syllabus gives no link for the AI Verify framework; left unlinked rather than guessed.
+    - authors: "AI Verify Foundation & IMDA"
+      year: 2024
+      title: "Model AI Governance Framework for Generative AI (skim)"
+      pages: 36
     - authors: "Mohanty, A., & Sahu, S."
       year: 2024
       title: "India's Advance on AI Regulation"
@@ -40,9 +46,9 @@ readings:
       venue: "Carnegie Endowment for International Peace"
       pages: 14
       url: "https://carnegieendowment.org/posts/2025/09/understanding-africas-ai-governance-landscape-insights-from-policy-practice-and-dialogue"
-    - authors: "Personal Data Protection Commission"
+    - authors: "Personal Data Protection Commission (PDPC)"
       year: 2020
-      title: "Singapore's Approach to AI Governance (plus a skim of the Model AI Governance Framework for Generative AI)"
+      title: "Singapore's Approach to AI Governance"
       venue: "Personal Data Protection Commission Singapore"
       pages: 9
       url: "https://www.pdpc.gov.sg/organisations/resources/guidance-by-topic/singapores-approach-to-ai-governance"

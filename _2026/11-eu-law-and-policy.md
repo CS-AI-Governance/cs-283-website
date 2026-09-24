@@ -31,6 +31,7 @@ readings:
     - authors: "G'sell, F."
       year: 2024
       title: "Regulating Under Uncertainty (pp. 202–246 on the AI Act)"
+      venue: "Stanford Cyber Policy Center"
       pages: 43
       url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4918704"
     - authors: "Voss, A."

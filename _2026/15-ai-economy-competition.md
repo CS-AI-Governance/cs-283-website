@@ -7,8 +7,7 @@ unit: 6
 unit_title: "The AI Economy"
 ready: true
 summary: >-
-  We will survey the state of antitrust law with respect to AI
-  models, focusing on questions of liability, competition, and monopoly. Students
+  We will survey the state of antitrust with respect to AI models, focusing on questions of liability, competition, and monopoly. Students
   will explore attempts to understand the emerging power of AI models within a
   broader legal framework.
 readings:

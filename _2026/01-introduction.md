@@ -31,7 +31,7 @@ readings:
       venue: "Andreessen Horowitz"
       pages: 18
       url: "https://a16z.com/the-techno-optimist-manifesto/"
-    - authors: "Kokotajlo, D., Greenblatt, R., Larsen, T., Lifland, E., Dean, R., & Halstead, B."
+    - authors: "Kokotajlo, D., Larsen, T., Lifland, E., Dean, R., Greenblatt, R., & Halstead, B."
       year: 2026
       title: "AI 2040: Plan A"
       venue: "AI Futures Project"

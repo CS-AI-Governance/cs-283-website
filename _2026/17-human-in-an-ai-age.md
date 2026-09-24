@@ -22,7 +22,7 @@ readings:
     - authors: "Dillion, D., et al."
       year: 2023
       title: "Can AI Language Models Replace Human Participants?"
-      venue: "Trends in Cognitive Sciences"
+      venue: "Trends in Cognitive Sciences, 27(7), 597–600"
       pages: 3
       url: "https://www.sciencedirect.com/science/article/pii/S1364661323000980"
     - authors: "Epstein, R."
@@ -34,7 +34,7 @@ readings:
     - authors: "Griffin, L. D., et al."
       year: 2023
       title: "Large Language Models Respond to Influence Like Humans"
-      venue: "Association for Computational Linguistics (ACL)"
+      venue: "Proceedings of the First Workshop on Social Influence in Conversations (SICon), ACL"
       pages: 9
       url: "https://aclanthology.org/2023.sicon-1.3/"
     - authors: "Harding, J., et al."
@@ -55,9 +55,10 @@ readings:
       venue: "Conference on AI, Ethics, and Society (AIES)"
       pages: 9
       url: "https://arxiv.org/abs/2403.03407"
-    - authors: "Pope Leo XIV"
+    - authors: "Leo XIV"
       year: 2026
-      title: "Magnifica Humanitas: On Safeguarding the Human Person in the Time of AI"
+      title: "Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence (encyclical letter)"
+      venue: "Vatican"
       pages: 47
       url: "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html"
     - authors: "Stray, J., Vendrov, I., Nixon, J., Adler, S., & Hadfield-Menell, D."
