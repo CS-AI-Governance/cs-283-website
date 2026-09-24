@@ -29,11 +29,11 @@ readings:
       venue: "Oxford Martin AI Governance Initiative"
       pages: 59
       url: "https://aigi.ox.ac.uk/publications/voice-and-access-in-ai-global-ai-majority-participation-in-artificial-intelligence-development-and-governance/"
-    # The syllabus gives no link for the AI Verify framework; left unlinked rather than guessed.
     - authors: "AI Verify Foundation & IMDA"
       year: 2024
       title: "Model AI Governance Framework for Generative AI (skim)"
       pages: 36
+      url: "https://aiverifyfoundation.sg/wp-content/uploads/2024/05/Model-AI-Governance-Framework-for-Generative-AI-May-2024-1-1.pdf"
     - authors: "Mohanty, A., & Sahu, S."
       year: 2024
       title: "India's Advance on AI Regulation"

@@ -201,11 +201,11 @@ by guessing:
       from its TOC.)
 - [ ] Slide decks — every `/schedule/` row shows an inert `[slides]` placeholder
       until a lecture gets a `slides:` URL in its front matter.
-- [ ] Reading URLs — 115 of the 118 citations are linked. The three exceptions
-      are L19's Reich et al. (a print book with no canonical link), L3's METR
-      report, and L13's AI Verify Foundation & IMDA framework; the syllabus
-      supplies no link for the latter two, so they render unlinked. Never invent
-      a `url:`; ask the instructors for these two.
+- [x] Reading URLs — 117 of the 118 citations are linked. The one exception is
+      L19's Reich et al., a print book with no canonical link. The links for
+      L3's METR report and L13's AI Verify Foundation & IMDA framework are
+      absent from the syllabus and came from the instructors. Never invent a
+      `url:`; if the syllabus omits one, ask the instructors for it.
 - [x] Assignment due dates — all set from the updated course map and live on
       `/assignments/`, each with a `deadlines:` badge on the nearest preceding
       lecture in `_2026/`: Milestone 1 Fri Oct 16 → L7, law paper outline Mon

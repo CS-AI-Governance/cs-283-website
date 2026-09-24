@@ -49,11 +49,11 @@ readings:
       venue: "Notre Dame Law Review, vol. 101"
       pages: 48
       url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4772956"
-    # The syllabus gives no link for the METR report; left unlinked rather than guessed.
     - authors: "METR"
       year: 2026
       title: "Brief Independent Investigation of Agents' Behavior, Reasoning and Collaboration in the OpenAI / Hugging Face Hacking Incident"
       pages: 91
+      url: "https://metr.org/hugging-face-incident-report-aug-2026.pdf"
     - authors: "Wang, D., et al."
       year: 2024
       title: "Retrieve What You Need: A Mutual Learning Framework for Open-Domain Question Answering"
