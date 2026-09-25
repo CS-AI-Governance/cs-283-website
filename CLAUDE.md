@@ -145,9 +145,15 @@ GitHub Pages builds from `main` (root). Push → auto rebuild. Poll with
 
 ## Content status (Fall 2026, from `assets/documents/F26 AIGov Syllabus.pdf`)
 
-Populated from the syllabus: home (description, logistics, four instructor bios),
-`/schedule/` (8 units, 19 lectures), `/lectures/` + 19 lecture pages,
-`/assignments/`, `/sections/`, `/resources/`.
+Populated from the syllabus: home (description, logistics, instructor and
+course-staff cards), `/schedule/` (8 units, 19 lectures), `/lectures/` + 19
+lecture pages, `/assignments/`, `/sections/`, `/resources/`.
+
+**The instructors' biographies are deliberately not published.** Every syllabus
+revision carries a full paragraph bio for each of Reich, Persily, Reuel, and
+Koyejo; the home page's cards carry only name, department, email, office, and
+office hours. A syllabus-versus-site audit will keep surfacing the bios as a
+gap — they are an intentional omission, not a gap. Do not add them.
 
 **The syllabus PDF is superseded.** The instructors issued an updated course map
 that renumbered and regrouped most of the term: the old weekly grouping was
@@ -176,6 +182,47 @@ Wolfram to supplementary, and corrected ~35 citations (page counts, years,
 venues, author names). It also confirmed Milestone 3 (Nov 6) and the final paper
 (Dec 4), resolving the earlier "due XXX" ambiguity. Like the Sept revision it
 organizes the term by **Week 1–10**; the site still keeps the 8 thematic units.
+
+A full re-audit against the **current syllabus text** (Sept 2026, supplied by
+the user as prose rather than a PDF) found every lecture already correct — all
+19 titles, dates, summaries, and all ~118 citations matched — and corrected the
+rest of the site:
+
+- **Grading weights were wrong**: the question/relevance/novelty write-up is
+  **25%** (was 15%) and the project plan is **20%** (was 30%). Peer review 10%
+  and final project 45% were already right.
+- **The Public Comment Assignment was superseded in full.** It is now the
+  Request for Comments (RfC) on the **Colorado Automated Decision-Making
+  Technology and Chatbot Safety Acts**, **1,000–1,500 words**, with no cover
+  analysis. The earlier "respond to any open AI governance consultation" brief,
+  its 1-page cover analysis, and its 1,200–2,000 word count are gone.
+- **The three research-project tracks** (Who decides what gets measured /
+  Building evaluations that deserve trust / Evaluations at the point of
+  decision/deployment) were missing entirely and are now on `/assignments/`
+  verbatim. Track 2's text ends mid-sentence ("…in court, ...") in the
+  syllabus itself; that is reproduced as written — **do not "finish" it.**
+- Added the two-person group limit, the Canvas/formatting-template sentences,
+  and the "readings are online, no textbook required" sentence.
+- The AI Initiative speaker series starts at **12:40**, not 12:45.
+- The law paper is due **Sun** Jan 3 — `/assignments/` had said Sat while
+  `/schedule/` said Sun.
+- Milestone 1 establishes **that** the question is novel and has **not**
+  already been addressed (the site had inverted this into an open question) and
+  runs **3 to 4 pages**. The syllabus contradicts itself here: its grading line
+  calls the same deliverable "4-page", so the milestone says 3 to 4 and the
+  grading table says 4.
+- Removed a proctoring sentence ("examinations in this course may be
+  proctored") that appears in no syllabus; the course has no examinations.
+- Restored paraphrases to the instructors' wording per the verbatim rule: all
+  four milestone descriptions, learning objective 2, "failing grade **for the
+  course**", "class/section participation", "no fewer than 25 pages", "the last
+  class, **on December 2nd**", "questions **or accommodations**", the Hume
+  Center's "PowerPoint", "everyone **should** register", and Volokh's `3(2)`.
+
+This syllabus also still lists **Thay Graciano** and omits **Laise Barbosa**,
+and titles the TAs "Teaching Assistant" / "Law Teaching Assistant". The site's
+roster and titles come from the instructors' later direction and stay as they
+are — see "Course staff" below.
 
 Known gaps — these render as **TBD/TBA** on the site and should not be filled in
 by guessing:
@@ -267,4 +314,13 @@ by guessing:
 - [x] Favicon — `assets/img/favicon.png`, a 168×168 crop of the white Stanford
       mark on cardinal, wired into `head.html` as `icon` + `apple-touch-icon`.
       Other branding assets under `assets/` are still open.
+- [x] FERPA — `/resources/` links Stanford's Student Record Privacy Policy at
+      `studentservices.stanford.edu/my-information/student-records-ferpa`. The
+      URL printed in the syllabus
+      (`studentaffairs.stanford.edu/registrar/students/ferpa`) 404s; this
+      replacement came from the user. Don't restore the syllabus's link.
+- [ ] Course Playlist — the syllabus header links "Course Schedule | Course
+      Playlist" beside `cs283.stanford.edu`. The schedule is `/schedule/`; the
+      playlist URL is not in the syllabus text and is not on the site. Ask the
+      instructors for it.
 - [ ] Code/monospace font choice.

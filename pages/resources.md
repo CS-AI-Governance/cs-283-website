@@ -46,8 +46,7 @@ If you have any questions or accommodations, contact your teaching assistant.
 
 ### FERPA
 
-Student Record Privacy Policy. <!-- TODO: the syllabus's URL
-(studentaffairs.stanford.edu/registrar/students/ferpa) 404s; needs the current link. -->
+[Student Record Privacy Policy](https://studentservices.stanford.edu/my-information/student-records-ferpa).
 
 ### Course materials
 
