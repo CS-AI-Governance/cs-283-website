@@ -165,7 +165,7 @@ coming in late shall be marked as absent.
   </div>
 
   <div class="staff-card staff-card--person">
-    <img class="staff-photo" src="{{ '/assets/img/yasi.jpg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Yasi Khan" loading="lazy">
+    <img class="staff-photo" src="{{ '/assets/img/yasi.jpeg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="Yasi Khan" loading="lazy">
     <div class="staff-body">
       <div class="staff-name">Yasi Khan</div>
       <div class="staff-role">Course Assistant</div>
