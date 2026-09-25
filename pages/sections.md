@@ -20,10 +20,10 @@ with the course material in greater depth.
 We will also be hosting several guest speakers outside of class throughout the
 term, and we encourage you to attend those sessions.
 
-On Thursdays from 12:45 to 2:00pm in Room 270 in SLS Crown (over the breezeway), the Law
+On Thursdays from 12:40 to 2:00pm in Room 270 in SLS Crown (over the breezeway), the Law
 School's AI Initiative holds its weekly speaker series, featuring leading figures
 in the AI ecosystem. Lunch is provided, so please RSVP every time you would like
-to attend, and everyone is welcome to register to receive emails from the Initiative.
+to attend, and everyone should register to receive emails from the Initiative.
 Sign up for emails and RSVP for events at
 [law.stanford.edu/ai-initiative/events-ai](https://law.stanford.edu/ai-initiative/events-ai/)
 (email registration is at the bottom of the page).

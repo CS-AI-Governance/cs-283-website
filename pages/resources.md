@@ -42,18 +42,21 @@ smartphones, and wearable devices like smart glasses or smart watches are not
 permitted in class, except as an accommodation for a documented disability. Please
 keep all devices silenced and stowed in your bag for the entire duration of class.
 
-If you have any questions, contact your teaching assistant.
+If you have any questions or accommodations, contact your teaching assistant.
 
 ### FERPA
 
 Student Record Privacy Policy. <!-- TODO: the syllabus's URL
 (studentaffairs.stanford.edu/registrar/students/ferpa) 404s; needs the current link. -->
 
-### Cost of course materials
+### Course materials
+
+All course readings are provided in online format, accessible by any student
+with a SUNet ID. There are no textbooks required.
 
 Stanford University and its faculty are committed to ensuring that all courses are
 financially accessible to all students. If you are an undergraduate who needs
-assistance with the cost of course readings, supplies, materials, or fees, you are
+assistance with the cost of supplies, course materials and/or fees, you are
 welcome to approach us directly.
 
 ## Access and accommodations
@@ -90,7 +93,7 @@ started on assignments; learn strategies for revising, editing, and proofreading
 and improve organization, flow, and argumentation.
 
 Digital media consultants work with students to develop strategies for visual and
-multimodal communication in media such as research posters and slide decks, and
+multimodal communication in media such as research posters and PowerPoint, and
 oral communication tutors help students prepare or refine a presentation. You can
 make an appointment with a lecturer or advanced graduate student consultant, or
 drop in to meet with an undergraduate peer tutor. For hours, locations, and

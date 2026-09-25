@@ -45,9 +45,9 @@ By the end of the course, students will be able to:
 - Explain the technological foundations of modern AI systems, including how they
   are trained, evaluated, and deployed, and describe their broader societal
   implications.
-- Engage with technical governance problems, such as designing meaningful
-  evaluations, system access considerations, and privacy-preserving analysis of
-  the use and misuse of AI systems.
+- Engage with technical governance problems, such as meaningful evaluation
+  design, system access considerations, and privacy-preserving analysis of use
+  and misuse of AI systems.
 - Critically evaluate the technical, organizational, and normative dimensions of
   AI oversight.
 - Analyze the historical patterns of governance responses to frontier

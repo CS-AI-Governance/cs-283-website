@@ -40,7 +40,7 @@ readings:
     - authors: "Volokh, E."
       year: 2023
       title: "Large Libel Models? Liability for AI Output"
-      venue: "Journal of Free Speech Law"
+      venue: "Journal of Free Speech Law, 3(2)"
       pages: 70
       url: "https://www.journaloffreespeechlaw.org/volokh4.pdf"
 ---
