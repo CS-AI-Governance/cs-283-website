@@ -6,6 +6,7 @@ date: 2026-09-28
 unit: 2
 unit_title: "Technical Foundations"
 ready: true
+slides: /assets/slides/CS283_Lecture2_Public.pdf
 summary: >-
   This lecture provides a technical foundation for understanding how modern AI
   systems work. We'll cover the core concepts that underlie today's large-scale
