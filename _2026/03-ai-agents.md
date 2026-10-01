@@ -6,6 +6,7 @@ date: 2026-09-30
 unit: 2
 unit_title: "Technical Foundations"
 ready: true
+slides: /assets/slides/CS283_Lecture3_Public.pdf
 summary: >-
   We investigate agentic systems with memory, tool use, and goal-setting
   capabilities. Topics include reinforcement learning from AI feedback (RLAIF),
