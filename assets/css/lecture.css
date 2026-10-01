@@ -35,6 +35,13 @@ body.layout-lecture h1.title {
   margin: 0 0 0.15rem;
 }
 
+/* Matches the schedule's slides column (calendar.css .cal-slides a). */
+.lecture-slides {
+  font-family: "Courier Prime", monospace;
+  font-size: 0.78rem;
+  margin: 0 0 0.15rem;
+}
+
 .lecture-guest::before {
   content: " \00b7 ";
 }

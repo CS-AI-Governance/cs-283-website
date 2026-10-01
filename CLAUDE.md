@@ -247,7 +247,9 @@ by guessing:
       summary and readings. (Lecture 16 exists in the PDF's body but is missing
       from its TOC.)
 - [ ] Slide decks — every `/schedule/` row shows an inert `[slides]` placeholder
-      until a lecture gets a `slides:` URL in its front matter.
+      until a lecture gets a `slides:` URL in its front matter. That one key
+      also puts a `[slides]` link under the date on the lecture page itself
+      (no placeholder there). Decks live in `assets/slides/`; L1–L3 are in.
 - [x] Reading URLs — 117 of the 118 citations are linked. The one exception is
       L19's Reich et al., a print book with no canonical link. The links for
       L3's METR report and L13's AI Verify Foundation & IMDA framework are

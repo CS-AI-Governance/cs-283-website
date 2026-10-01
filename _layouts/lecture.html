@@ -28,6 +28,12 @@ layout: default
       </p>
     {% endif %}
 
+    {% comment %}Same `slides:` key the schedule's slides column reads, so one
+    front-matter line links the deck in both places.{% endcomment %}
+    {% if page.slides %}
+      <p class="lecture-slides"><a href="{{ page.slides | relative_url }}">[slides]</a></p>
+    {% endif %}
+
     {% if page.unit_title %}
       <p class="lecture-unit">{{ page.unit_title }}</p>
     {% endif %}
