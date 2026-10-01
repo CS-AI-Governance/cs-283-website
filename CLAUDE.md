@@ -289,7 +289,9 @@ by guessing:
       was on the team briefly and has been removed — card and `assets/img/thay.jpg`
       both deleted.
 - [x] Section location — Room 14, in the basement of the Crown Building, per the
-      finalized syllabus. `/sections/` also now carries the syllabus's
+      finalized syllabus — on `/sections/` and in the home page's Sections
+      logistics line (the home "Location" row is the lecture room, Crown 290).
+      `/sections/` also now carries the syllabus's
       "Distinguished Guests / Supplementary Workshops" text: the term's outside
       guest speakers and the Law School AI Initiative's Thursday 12:40–2:00pm
       speaker series in 270 Crown, with its RSVP/mailing-list link.
