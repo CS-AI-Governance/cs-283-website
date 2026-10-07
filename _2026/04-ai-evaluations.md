@@ -6,6 +6,7 @@ date: 2026-10-05
 unit: 2
 unit_title: "Technical Foundations"
 ready: true
+slides: /assets/slides/CS283_Lecture4_Public.pdf
 summary: >-
   This lecture focuses on the role that evaluations play in AI governance. We
   explore how model evaluations are used to inform access policies, reporting
