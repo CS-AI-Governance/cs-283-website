@@ -6,6 +6,7 @@ date: 2026-10-07
 unit: 3
 unit_title: "Individual Risks"
 ready: true
+slides: /assets/slides/CS283_Lecture5_Public.pdf
 summary: >-
   We dive into technical definitions of fairness and examine algorithmic bias
   through a computational lens. Students will learn about fairness metrics (e.g.,
