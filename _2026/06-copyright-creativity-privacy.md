@@ -6,6 +6,7 @@ date: 2026-10-12
 unit: 3
 unit_title: "Individual Risks"
 ready: true
+slides: /assets/slides/CS283_Lecture6_Public.pdf
 summary: >-
   This lecture examines how AI model training intersects with copyright law,
   privacy, and human creativity. The lecture focuses on disputes like OpenAI vs.
