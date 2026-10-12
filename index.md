@@ -14,6 +14,7 @@ description: >-
   <dt>Sections</dt><dd>Thursday or Friday, 2:30–3:20pm (optional), Room 14, basement of Crown</dd>
   <dt>Location</dt><dd>Crown Building, Stanford Law School, Room 290</dd>
   <dt>Website</dt><dd><a href="https://cs283.stanford.edu">cs283.stanford.edu</a></dd>
+  <dt>Syllabus</dt><dd><a href="{{ '/assets/syllabus.pdf' | relative_url }}">syllabus.pdf</a></dd>
 </dl>
 
 <p class="course-note">Syllabus details, including reading lists, are subject to change and may be updated up until two weeks before the start of a lecture.</p>

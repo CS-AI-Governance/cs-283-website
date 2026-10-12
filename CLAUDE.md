@@ -60,8 +60,10 @@ suffixes.)
 - `assets/css/` — `theme` (tokens), `main` (adapted MS + home/assignment styles),
   `syntax` (Rouge), `calendar` (JtC modules), `lecture` (lecture grid, readings
   ledger, `/lectures/` index). `assets/js/sidenotes.js`. (Renamed from `static/`.)
-- `assets/documents/` — source material, currently the F26 syllabus PDF. **Not
-  linked from the site**: it still carries internal to-dos and `XXX` due dates.
+- `assets/documents/` — gitignored local source material (old internal syllabus
+  drafts with to-dos and `XXX` dates). **Not published.**
+- `assets/syllabus.pdf` — the public (instructor-issued "[EXTERNAL]") syllabus,
+  linked from the home page's logistics list as "Syllabus: syllabus.pdf".
 - Pages (`layout: page`) live in `pages/` — each declares its own `permalink`, so
   the folder is cosmetic (Jekyll renders front-matter files by permalink from any
   dir, no collection needed): `pages/assignments.md`, `sections.md`, `resources.md`,
