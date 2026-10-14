@@ -8,5 +8,4 @@ rows:
   - lecture: 12
   - lecture: 13
   - section: true
-  - lecture: 14
 ---

@@ -69,7 +69,9 @@ lecture, attendance at lectures is mandatory. If a student has a prolonged
 illness or a personal situation that might lead to more than one lecture
 absence, the student should contact a member of the course staff before missing
 a lecture. Attendance will be taken at the beginning of each class. Any student
-coming in late shall be marked as absent.
+coming in late shall be marked as absent. Students will be given two excused
+absences from lecture without penalty. These absences are designed to account
+for illness or other extenuating circumstances.
 
 ## Instructors
 
@@ -125,7 +127,8 @@ coming in late shall be marked as absent.
     <div class="staff-body">
       <div class="staff-name">Dominic Zappia</div>
       <div class="staff-role">Head Course Assistant</div>
-      <p class="staff-contact"><a href="mailto:zappia@stanford.edu">zappia@stanford.edu</a></p>
+      <p class="staff-contact"><a href="mailto:zappia@stanford.edu">zappia@stanford.edu</a><br>
+      Office hours: Weds 3:45–4:45pm (after class; then law school cafe)</p>
     </div>
   </div>
 

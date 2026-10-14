@@ -22,8 +22,10 @@ other students in the class.** Open your track below.
 The course includes two assignments. The first assignment is a substantial
 research project. We've broken down the project into milestones to provide you
 with support and feedback along the way. We encourage you to reach out early
-with any questions. All assignments are due on Canvas at 5PM PST unless
-otherwise stated. We will provide formatting templates for all assignments.
+with any questions. All students begin with two late days for the entire
+quarter. (Not per assignment.) These two late days may be used on any
+assignment throughout the quarter. All assignments are due on Canvas at 5PM PST
+unless otherwise stated. We will provide formatting templates for all assignments.
 
 ### AI Evaluation Research Project — 60%
 

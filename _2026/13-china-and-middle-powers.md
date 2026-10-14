@@ -1,7 +1,7 @@
 ---
 lecture: 13
-title: "Rest of the World Approaches to AI Governance"
-nav_title: "Rest of World AI Governance"
+title: "China and Middle Powers Approaches to AI Governance"
+nav_title: "China and Middle Powers"
 date: 2026-11-04
 unit: 5
 unit_title: "National & International Approaches to AI Governance"
@@ -34,6 +34,9 @@ readings:
       title: "Model AI Governance Framework for Generative AI (skim)"
       pages: 36
       url: "https://aiverifyfoundation.sg/wp-content/uploads/2024/05/Model-AI-Governance-Framework-for-Generative-AI-May-2024-1-1.pdf"
+    - authors: "Habuka, H."
+      year: 2026
+      title: "Japan's AI Governance - Making the Legal System AI Ready (must have a Stanford email to access)"
     - authors: "Mohanty, A., & Sahu, S."
       year: 2024
       title: "India's Advance on AI Regulation"

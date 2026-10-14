@@ -1,14 +1,10 @@
 ---
-lecture: 16
+lecture: 14
 title: "The AI Economy: The Future of Labor"
 nav_title: "AI Economy: Future of Labor"
-date: 2026-11-16
+date: 2026-11-09
 unit: 6
 unit_title: "The AI Economy"
-deadlines:
-  - label: "Law R-credit draft due"
-    date: "Mon Nov 16"
-    track: law
 ready: true
 summary: >-
   This session covers the economic dimensions of the AI transition. We use

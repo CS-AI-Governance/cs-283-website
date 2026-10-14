@@ -221,7 +221,18 @@ rest of the site:
   class, **on December 2nd**", "questions **or accommodations**", the Hume
   Center's "PowerPoint", "everyone **should** register", and Volokh's `3(2)`.
 
-This syllabus also still lists **Thay Graciano** and omits **Laise Barbosa**,
+An **Oct 13 2026 revision** (now `assets/syllabus.pdf`) was reconciled next.
+It **swapped L14 and L16**: Future of Labor is now L14 (Mon Nov 9, unit 6) and
+Geopolitics & Global AI Governance is now L16 (Mon Nov 16). Per the user, L16
+sits in unit 7 "Living with AI", matching the syllabus's Week 9 "Security &
+Human Futures"; the law R-credit badge stays on the Nov 16 date, i.e. L16. It
+also shortened L3's title to "AI Agents", renamed L13 to "China and Middle
+Powers Approaches to AI Governance", added a Habuka reading to L13 (no URL and
+no page count in the syllabus), added two late days (non-law assignments) and
+two excused absences (attendance policy), gave Zappia office hours, and
+dropped Graciano.
+
+The Sept syllabus also still lists **Thay Graciano** and omits **Laise Barbosa**,
 and titles the TAs "Teaching Assistant" / "Law Teaching Assistant". The site's
 roster and titles come from the instructors' later direction and stay as they
 are — see "Course staff" below.
