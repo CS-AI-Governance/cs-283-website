@@ -227,8 +227,8 @@ Geopolitics & Global AI Governance is now L16 (Mon Nov 16). Per the user, L16
 sits in unit 7 "Living with AI", matching the syllabus's Week 9 "Security &
 Human Futures"; the law R-credit badge stays on the Nov 16 date, i.e. L16. It
 also shortened L3's title to "AI Agents", renamed L13 to "China and Middle
-Powers Approaches to AI Governance", added a Habuka reading to L13 (no URL and
-no page count in the syllabus), added two late days (non-law assignments) and
+Powers Approaches to AI Governance", added a Habuka reading to L13 (a 15-minute
+video, so no page count; its Drive link came from the user), added two late days (non-law assignments) and
 two excused absences (attendance policy), gave Zappia office hours, and
 dropped Graciano.
 

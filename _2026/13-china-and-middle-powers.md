@@ -36,7 +36,8 @@ readings:
       url: "https://aiverifyfoundation.sg/wp-content/uploads/2024/05/Model-AI-Governance-Framework-for-Generative-AI-May-2024-1-1.pdf"
     - authors: "Habuka, H."
       year: 2026
-      title: "Japan's AI Governance - Making the Legal System AI Ready (must have a Stanford email to access)"
+      title: "Japan's AI Governance - Making the Legal System AI Ready (15-minute video; must have a Stanford email to access)"
+      url: "https://drive.google.com/file/d/1M3PxSyyXT6ZZMfMo8qn7iQmoLRfDOo0i/view"
     - authors: "Mohanty, A., & Sahu, S."
       year: 2024
       title: "India's Advance on AI Regulation"
