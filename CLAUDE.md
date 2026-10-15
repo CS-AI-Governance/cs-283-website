@@ -142,7 +142,10 @@ to `PATH` before bundler. Newer Rubies (3.4+/4.x) drop stdlib libs and
 
 ## Deployment
 
-GitHub Pages builds from `main` (root). Push → auto rebuild. Poll with
+GitHub Pages builds from `main` (root). Push → auto rebuild. **Always push
+`main` to both remotes**: `origin` (`CS-AI-Governance/cs-283-website`, which
+Pages builds from) and `stanford` (`stanford-developers/cs-283-website`, a
+mirror) — `git push origin main && git push stanford main`. Poll with
 `gh api /repos/CS-AI-Governance/cs-283-website/pages/builds/latest -q .status`.
 
 ## Content status (Fall 2026, from `assets/documents/F26 AIGov Syllabus.pdf`)
