@@ -9,6 +9,7 @@ deadlines:
   - label: "Milestone 1 due"
     date: "Fri Oct 16"
 ready: true
+slides: /assets/slides/CS283_Lecture7_Public.pdf
 summary: >-
   We will survey the state of defamation law with respect to AI models. Students
   will explore attempts to understand the emerging power of AI models within a
