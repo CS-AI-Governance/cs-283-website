@@ -17,8 +17,6 @@ with the course material in greater depth.
 
 ## Section slides
 
-Numbered by course week; sections begin in week 2.
-
 <!-- Built from the `section: true` rows of the _modules calendar, the same rows
      that feed /schedule/, so a deck added there (`slides:` on the row) shows up
      here too. Each section's Thursday is the day after the lecture before it. -->
@@ -32,7 +30,7 @@ Numbered by course week; sections begin in week 2.
   {% assign fri = thu | plus: 86400 %}
   <dd class="lecture-index-item">
     <span class="lecture-index-num">{{ row.week }}</span>
-    <span>Thu, {{ thu | date: '%b %-d' }} or Fri, {{ fri | date: '%b %-d' }}</span>
+    <span>{{ thu | date: '%b %-d' }}/{{ fri | date: '%-d' }}</span>
     <span class="cal-slides">{% if row.slides %}<a href="{{ row.slides | relative_url }}">[slides]</a>{% else %}<span class="cal-slides-tbd">[slides]</span>{% endif %}</span>
   </dd>
   {% endif %}
