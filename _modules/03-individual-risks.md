@@ -5,5 +5,6 @@ order: 3
 rows:
   - lecture: 5
   - section: true
+    slides: /assets/slides/section/CS283_Week3_Section_Public.pdf
   - lecture: 6
 ---
