@@ -1,0 +1,13 @@
+{%- comment -%}
+  A day of the month with its English ordinal suffix: 1st, 2nd, 3rd, 4th,
+  11th–13th. Pass a date (or Unix timestamp) as `date`.
+{%- endcomment -%}
+{%- assign d = include.date | date: '%-d' | plus: 0 -%}
+{%- assign mod100 = d | modulo: 100 -%}
+{%- assign mod10 = d | modulo: 10 -%}
+{%- if mod100 >= 11 and mod100 <= 13 -%}{%- assign sfx = 'th' -%}
+{%- elsif mod10 == 1 -%}{%- assign sfx = 'st' -%}
+{%- elsif mod10 == 2 -%}{%- assign sfx = 'nd' -%}
+{%- elsif mod10 == 3 -%}{%- assign sfx = 'rd' -%}
+{%- else -%}{%- assign sfx = 'th' -%}{%- endif -%}
+{{ d }}{{ sfx -}}
