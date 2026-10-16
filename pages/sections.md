@@ -22,14 +22,14 @@ with the course material in greater depth.
      here too. Each section's Thursday is the day after the lecture before it. -->
 
 {% assign units = site.modules | where: "year", site.current_year | sort: "order" %}
-<dl class="lecture-index">
+<dl class="lecture-index section-index">
 {% for unit in units %}{% for row in unit.rows %}
   {% if row.lecture %}{% assign prev = site['2026'] | where: 'lecture', row.lecture | first %}{% endif %}
   {% if row.section %}
   {% assign thu = prev.date | date: '%s' | plus: 86400 %}
   {% assign fri = thu | plus: 86400 %}
   <dd class="lecture-index-item">
-    <span class="lecture-index-num">{{ row.week }}</span>
+    <span class="lecture-index-num">Week {{ row.week }}</span>
     <span>{{ thu | date: '%b' }} {% include ordinal.html date=thu %} or {% include ordinal.html date=fri %}</span>
     <span class="cal-slides">{% if row.slides %}<a href="{{ row.slides | relative_url }}">[slides]</a>{% else %}<span class="cal-slides-tbd">[slides]</span>{% endif %}</span>
   </dd>

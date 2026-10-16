@@ -356,6 +356,16 @@ body.layout-lecture h1.title {
   text-align: right;
 }
 
+/* /sections/ reuses the index for its slides list, where the first column
+   reads "Week 10" rather than a bare number, so it needs the extra width. */
+.section-index .lecture-index-item {
+  grid-template-columns: 4rem minmax(0, 1fr) auto;
+}
+
+.section-index .lecture-index-num {
+  text-align: left;
+}
+
 .lecture-index-date {
   font-family: "Courier Prime", monospace;
   font-size: 0.75rem;
