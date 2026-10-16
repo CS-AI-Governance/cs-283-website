@@ -6,6 +6,7 @@ rows:
   - lecture: 2
   - lecture: 3
   - section: true
+    week: 2
     slides: /assets/slides/section/CS283_Week2_Section_Public.pdf
   - lecture: 4
 ---

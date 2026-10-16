@@ -5,7 +5,9 @@ order: 5
 rows:
   - lecture: 11
   - section: true
+    week: 6
   - lecture: 12
   - lecture: 13
   - section: true
+    week: 7
 ---

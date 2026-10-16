@@ -6,6 +6,7 @@ rows:
   - lecture: 16
   - lecture: 17
   - section: true
+    week: 9
   - note: "Fall break — no class"
   - lecture: 18
 ---

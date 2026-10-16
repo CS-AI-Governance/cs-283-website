@@ -5,4 +5,5 @@ order: 8
 rows:
   - lecture: 19
   - section: true
+    week: 10
 ---

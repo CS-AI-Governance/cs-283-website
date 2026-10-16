@@ -8,12 +8,36 @@ description: Section meeting times, guest speakers, the attendance policy, and h
 <dl class="logistics">
   <dt>Time</dt><dd>Thursday or Friday, 2:30–3:20pm (optional)</dd>
   <dt>Location</dt><dd>Room 14, basement of the Crown Building, Stanford Law School</dd>
-  <dt>Section leaders</dt><dd>TBA</dd>
+  <dt>Section leaders</dt><dd>Dominic Zappia, Yifei Cheng, Bruria Friedman-Feldman (law), Yasi Khan, Tia Vasudeva</dd>
 </dl>
 
 In addition to the lectures on Mondays and Wednesdays, we will also hold optional
 sections on Thursday or Friday. These sections will allow you to discuss and engage
 with the course material in greater depth.
+
+## Section slides
+
+Numbered by course week; sections begin in week 2.
+
+<!-- Built from the `section: true` rows of the _modules calendar, the same rows
+     that feed /schedule/, so a deck added there (`slides:` on the row) shows up
+     here too. Each section's Thursday is the day after the lecture before it. -->
+
+{% assign units = site.modules | where: "year", site.current_year | sort: "order" %}
+<dl class="lecture-index">
+{% for unit in units %}{% for row in unit.rows %}
+  {% if row.lecture %}{% assign prev = site['2026'] | where: 'lecture', row.lecture | first %}{% endif %}
+  {% if row.section %}
+  {% assign thu = prev.date | date: '%s' | plus: 86400 %}
+  {% assign fri = thu | plus: 86400 %}
+  <dd class="lecture-index-item">
+    <span class="lecture-index-num">{{ row.week }}</span>
+    <span>Thu, {{ thu | date: '%b %-d' }} or Fri, {{ fri | date: '%b %-d' }}</span>
+    <span class="cal-slides">{% if row.slides %}<a href="{{ row.slides | relative_url }}">[slides]</a>{% else %}<span class="cal-slides-tbd">[slides]</span>{% endif %}</span>
+  </dd>
+  {% endif %}
+{% endfor %}{% endfor %}
+</dl>
 
 ## Distinguished guests and supplementary workshops
 

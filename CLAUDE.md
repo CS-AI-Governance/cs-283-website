@@ -268,6 +268,10 @@ by guessing:
       (no placeholder there). Decks live in `assets/slides/`; L1–L7 are in. Section rows take the
       same `slides:` key on their `- section: true` row in `_modules/`; decks live in
       `assets/slides/section/` (`CS283_WeekN_Section_Public.pdf`); Weeks 2–4 are in.
+      Each section row also carries `week:` (2–10; fall break is unnumbered), and
+      `/sections/` lists those rows with their decks, dating each Thu/Fri from the
+      preceding lecture. Its section leaders are the listed CAs minus Fischli,
+      Zappia first, then by last name, with "(law)" after Friedman-Feldman.
 - [x] Reading URLs — 117 of the 118 citations are linked. The one exception is
       L19's Reich et al., a print book with no canonical link. The links for
       L3's METR report and L13's AI Verify Foundation & IMDA framework are
@@ -282,7 +286,8 @@ by guessing:
       calls the public comment assignment the "RFC"; the site keeps the fuller
       name it already used. The finalized syllabus confirms Nov 6 and Dec 4,
       closing the earlier "due XXX" ambiguity.
-- [ ] Section topics and which staff member leads each section; office hours for
+- [ ] Section topics and which staff member leads each section (the leaders
+      themselves are listed on `/sections/`); office hours for
       Koyejo (Reuel's came from the instructors: Fri 11am-12pm in Durand,
       room still tbd). (Learning objectives are now filled in from the Sept 2026
       syllabus. Course staff and the section room came with the finalized
