@@ -9,6 +9,7 @@ deadlines:
   - label: "Public comment due"
     date: "Fri Oct 23"
 ready: true
+slides: /assets/slides/CS283_Lecture9_Public.pdf
 summary: >-
   In this session, we investigate the physical infrastructure underpinning
   frontier AI, including the massive energy and data center demands, and the

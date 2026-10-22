@@ -10,6 +10,7 @@ deadlines:
     date: "Mon Oct 19"
     track: law
 ready: true
+slides: /assets/slides/CS283_Lecture8_Public.pdf
 summary: >-
   This session examines the new and emerging challenges and possibilities of AI
   and democracy. We explore the wide-ranging impacts of AI on elections,
