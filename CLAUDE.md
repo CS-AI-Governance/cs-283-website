@@ -280,8 +280,9 @@ by guessing:
 - [x] Assignment due dates — all set from the updated course map and live on
       `/assignments/`, each with a `deadlines:` badge on the nearest preceding
       lecture in `_2026/`: Milestone 1 Fri Oct 16 → L7, law paper outline Mon
-      Oct 19 → L8, public comment Fri Oct 23 → L9, Milestone 2 Fri Oct 30 → L11,
-      Milestone 3 Fri Nov 6 → L13, law R-credit draft Mon Nov 16 → L16, and both
+      Oct 19 → L8, public comment Fri Oct 23 → L9, Milestone 2 Wed Nov 4 → L13,
+      Milestone 3 Wed Nov 11 → L15 (both moved by the user on Oct 23 2026 from
+      Fri Oct 30 / Fri Nov 6, so they now fall on lecture days), law R-credit draft Mon Nov 16 → L16, and both
       Milestone 4 Fri Dec 4 and the law paper Sun Jan 3 → L19. The course map
       calls the public comment assignment the "RFC"; the site keeps the fuller
       name it already used. The finalized syllabus confirms Nov 6 and Dec 4,

@@ -5,6 +5,9 @@ nav_title: "AI Economy: Competition & Anti-Trust"
 date: 2026-11-11
 unit: 6
 unit_title: "The AI Economy"
+deadlines:
+  - label: "Milestone 3 due"
+    date: "Wed Nov 11"
 ready: true
 summary: >-
   We will survey the state of antitrust with respect to AI models, focusing on questions of liability, competition, and monopoly. Students

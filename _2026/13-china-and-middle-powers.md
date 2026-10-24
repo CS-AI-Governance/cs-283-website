@@ -6,8 +6,8 @@ date: 2026-11-04
 unit: 5
 unit_title: "National & International Approaches to AI Governance"
 deadlines:
-  - label: "Milestone 3 due"
-    date: "Fri Nov 6"
+  - label: "Milestone 2 due"
+    date: "Wed Nov 4"
 ready: true
 summary: >-
   This lecture examines the diverse and evolving approaches to AI governance,

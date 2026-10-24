@@ -38,10 +38,10 @@ final project.
   <dd>Students state the question they want to answer, why anyone would or should care about the answer, and conduct a thorough literature review establishing that this question is novel and has not already been sufficiently addressed. (3 to 4 pages) <span class="milestone-due">Due Fri, Oct 16 at 5pm PT</span></dd>
 
   <dt>Milestone 2 — Project plan</dt>
-  <dd>Students finalize the question, core contribution they want to make, methods, how they know if they succeeded, what resources and access they need, most likely ways it can fail and fallback strategies. (2-3 pages) <span class="milestone-due">Due Fri, Oct 30 at 5pm PT</span></dd>
+  <dd>Students finalize the question, core contribution they want to make, methods, how they know if they succeeded, what resources and access they need, most likely ways it can fail and fallback strategies. (2-3 pages) <span class="milestone-due">Due Wed, Nov 4 at 5pm PT</span></dd>
 
   <dt>Milestone 3 — Peer review</dt>
-  <dd>500-word peer review on another project plan. <span class="milestone-due">Due Fri, Nov 6 at 5pm PT</span></dd>
+  <dd>500-word peer review on another project plan. <span class="milestone-due">Due Wed, Nov 11 at 5pm PT</span></dd>
 
   <dt>Milestone 4 — Final project</dt>
   <dd>Final research paper plus decision memo/impact plan (jargon-free, addressed to a specific office, committee, agency, or someone in industry, not "policymakers" or "labs"). (10-12 pages) <span class="milestone-due">Due Fri, Dec 4 at 5pm PT</span></dd>
