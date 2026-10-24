@@ -185,7 +185,8 @@ placeholder summary, split L19's combined list back in two, added one L3 reading
 (Freedman, NYT — unlinked), dropped L6's Kibby & Sentinella entry, moved L2's
 Wolfram to supplementary, and corrected ~35 citations (page counts, years,
 venues, author names). It also confirmed Milestone 3 (Nov 6) and the final paper
-(Dec 4), resolving the earlier "due XXX" ambiguity. Like the Sept revision it
+(Dec 4), resolving the earlier "due XXX" ambiguity (Milestones 2 and 3 have
+since moved to Nov 4 / Nov 11 — see "Assignment due dates" below). Like the Sept revision it
 organizes the term by **Week 1–10**; the site still keeps the 8 thematic units.
 
 A full re-audit against the **current syllabus text** (Sept 2026, supplied by
@@ -279,14 +280,16 @@ by guessing:
       `url:`; if the syllabus omits one, ask the instructors for it.
 - [x] Assignment due dates — all set from the updated course map and live on
       `/assignments/`, each with a `deadlines:` badge on the nearest preceding
-      lecture in `_2026/`: Milestone 1 Fri Oct 16 → L7, law paper outline Mon
-      Oct 19 → L8, public comment Fri Oct 23 → L9, Milestone 2 Wed Nov 4 → L13,
-      Milestone 3 Wed Nov 11 → L15 (both moved by the user on Oct 23 2026 from
-      Fri Oct 30 / Fri Nov 6, so they now fall on lecture days), law R-credit draft Mon Nov 16 → L16, and both
-      Milestone 4 Fri Dec 4 and the law paper Sun Jan 3 → L19. The course map
-      calls the public comment assignment the "RFC"; the site keeps the fuller
-      name it already used. The finalized syllabus confirms Nov 6 and Dec 4,
-      closing the earlier "due XXX" ambiguity.
+      lecture in `_2026/` (or on the lecture held that day): Milestone 1 Fri
+      Oct 16 → L7, law paper outline Mon Oct 19 → L8, public comment Fri Oct
+      23 → L9, Milestone 2 Wed Nov 4 → L13, Milestone 3 Wed Nov 11 → L15, law
+      R-credit draft Mon Nov 16 → L16, and both Milestone 4 Fri Dec 4 and the
+      law paper Sun Jan 3 → L19. The course map calls the public comment
+      assignment the "RFC"; the site keeps the fuller name it already used.
+      **Milestones 2 and 3 were moved by the user on Oct 23 2026** from the
+      syllabus's Fri Oct 30 and Fri Nov 6 (badges formerly on L11 and L13);
+      the user's dates override every syllabus revision, including the
+      Oct 13 PDF. Don't restore Oct 30 / Nov 6.
 - [ ] Section topics and which staff member leads each section (the leaders
       themselves are listed on `/sections/`); office hours for
       Koyejo (Reuel's came from the instructors: Fri 11am-12pm in Durand,
