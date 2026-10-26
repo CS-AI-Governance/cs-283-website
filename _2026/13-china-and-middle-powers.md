@@ -56,6 +56,10 @@ readings:
       venue: "Personal Data Protection Commission Singapore"
       pages: 9
       url: "https://www.pdpc.gov.sg/organisations/resources/guidance-by-topic/singapores-approach-to-ai-governance"
+    - authors: "Sen Gupta, T."
+      year: 2026
+      title: "AI Policy & Regulation in India (video; must have a Stanford email to access)"
+      url: "https://drive.google.com/file/d/1lWnA1Z1bX5mCyxuYv-2OEYRqNXKgk87h/view"
     - authors: "Sheehan, M."
       year: 2024
       title: "Tracing the Roots of China's AI Regulations"

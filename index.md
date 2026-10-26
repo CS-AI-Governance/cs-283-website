@@ -127,8 +127,7 @@ for illness or other extenuating circumstances.
     <div class="staff-body">
       <div class="staff-name">Dominic Zappia</div>
       <div class="staff-role">Head Course Assistant</div>
-      <p class="staff-contact"><a href="mailto:zappia@stanford.edu">zappia@stanford.edu</a><br>
-      Office hours: Weds 3:45–4:45pm (after class; then law school cafe)</p>
+      <p class="staff-contact"><a href="mailto:zappia@stanford.edu">zappia@stanford.edu</a></p>
     </div>
   </div>
 

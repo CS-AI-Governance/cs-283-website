@@ -236,6 +236,12 @@ video, so no page count; its Drive link came from the user), added two late days
 two excused absences (attendance policy), gave Zappia office hours, and
 dropped Graciano.
 
+An **Oct 25 2026 revision** (now `assets/syllabus.pdf`) changed only three
+things: it moved Milestones 2 and 3 to Wed Nov 4 / Wed Nov 11 (already on the
+site), added a second Stanford-only Drive video to L13 (Sen Gupta, "AI Policy &
+Regulation in India", no length given), and dropped Zappia's office hours,
+so his card now carries only his email.
+
 The Sept syllabus also still lists **Thay Graciano** and omits **Laise Barbosa**,
 and titles the TAs "Teaching Assistant" / "Law Teaching Assistant". The site's
 roster and titles come from the instructors' later direction and stay as they
