@@ -6,6 +6,7 @@ date: 2026-10-26
 unit: 4
 unit_title: "Societal Risk"
 ready: true
+slides: /assets/slides/CS283_Lecture10_Public.pdf
 summary: >-
   We examine AI and potential existential impacts, from CBRN (Chemical,
   Biological, Radiological, and Nuclear) risks to a post-scarcity future. The
