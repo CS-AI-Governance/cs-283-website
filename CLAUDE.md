@@ -272,7 +272,7 @@ by guessing:
 - [ ] Slide decks — every `/schedule/` row shows an inert `[slides]` placeholder
       until a lecture gets a `slides:` URL in its front matter. That one key
       also puts a `[slides]` link under the date on the lecture page itself
-      (no placeholder there). Decks live in `assets/slides/`; L1–L9 are in. Section rows take the
+      (no placeholder there). Decks live in `assets/slides/`; L1–L10 are in. Section rows take the
       same `slides:` key on their `- section: true` row in `_modules/`; decks live in
       `assets/slides/section/` (`CS283_WeekN_Section_Public.pdf`); Weeks 2–4 are in.
       Each section row also carries `week:` (2–10; fall break is unnumbered), and
