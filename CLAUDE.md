@@ -264,8 +264,8 @@ by guessing:
 
 - [x] **Lecture 18 (Mon Nov 30)** — once a blank slot; filled by the Oct 30
       renumbering (see above), which moved "Human in an AI Age" into it.
-- [ ] **Lecture 11 (Existential Risks Continued)** has no summary or readings
-      yet — it renders "Summary: TBD" and no readings box. Don't invent them.
+- [x] **Lecture 11 (Existential Risks Continued)** carries a copy of L10's
+      summary and readings, per the user. Edit both if either changes.
 - [x] **Lecture 6** (AI, Copyright, Creativity & Privacy) — the merged
       copyright + privacy list and its summary landed in the Sept 2026 syllabus.
       The superseded lists that were once preserved as commented YAML are gone.
