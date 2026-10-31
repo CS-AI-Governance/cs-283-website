@@ -34,7 +34,10 @@
           {%- endcomment -%}
           <span class="cal-topic-inner">
             <span class="cal-num">{{ doc.lecture }}</span>
-            <a href="{{ doc.url | relative_url }}">{{ doc.title }}</a>
+            <span class="cal-title">
+              <a href="{{ doc.url | relative_url }}">{{ doc.title }}</a>
+              {%- if doc.guest %}<span class="cal-guest">Guest: {{ doc.guest }}</span>{% endif -%}
+            </span>
           </span>
         </td>
         <td class="cal-slides">

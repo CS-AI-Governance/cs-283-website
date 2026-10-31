@@ -43,7 +43,7 @@ body.layout-lecture h1.title {
 }
 
 .lecture-guest::before {
-  content: " \00b7 ";
+  content: " \00b7\00a0";
 }
 
 .lecture-unit {

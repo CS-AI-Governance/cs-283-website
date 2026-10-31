@@ -96,6 +96,15 @@
   color: #999;
 }
 
+/* Optional `guest:` from the lecture's front matter, on its own line under the
+   title; same face as the date column. */
+.cal-guest {
+  display: block;
+  font-family: "Courier Prime", monospace;
+  font-size: 0.75rem;
+  color: #555;
+}
+
 .cal-slides {
   width: 5.5rem;
   white-space: nowrap;
@@ -263,6 +272,7 @@
   }
 
   .cal-date,
+  .cal-guest,
   .cal-row--note td {
     color: #aaa;
   }
