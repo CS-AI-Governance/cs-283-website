@@ -1,12 +1,8 @@
 ---
-lecture: 16
+lecture: 17
 title: "Geopolitics and Global AI Governance"
 nav_title: "Geopolitics and AI Governance"
-date: 2026-11-16
-deadlines:
-  - label: "Law R-credit draft due"
-    date: "Mon Nov 16"
-    track: law
+date: 2026-11-18
 unit: 7
 unit_title: "Living with AI"
 ready: true

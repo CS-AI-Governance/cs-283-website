@@ -1,13 +1,10 @@
 ---
-lecture: 13
+lecture: 14
 title: "China and Middle Powers Approaches to AI Governance"
 nav_title: "China and Middle Powers"
-date: 2026-11-04
+date: 2026-11-09
 unit: 5
 unit_title: "National & International Approaches to AI Governance"
-deadlines:
-  - label: "Milestone 2 due"
-    date: "Wed Nov 4"
 ready: true
 summary: >-
   This lecture examines the diverse and evolving approaches to AI governance,

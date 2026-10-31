@@ -12,4 +12,7 @@ rows:
   - section: true
     week: 5
   - lecture: 10
+  - lecture: 11
+  - section: true
+    week: 6
 ---

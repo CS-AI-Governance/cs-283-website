@@ -1,10 +1,13 @@
 ---
-lecture: 14
+lecture: 15
 title: "The AI Economy: The Future of Labor"
 nav_title: "AI Economy: Future of Labor"
-date: 2026-11-09
+date: 2026-11-11
 unit: 6
 unit_title: "The AI Economy"
+deadlines:
+  - label: "Milestone 3 due"
+    date: "Wed Nov 11"
 ready: true
 summary: >-
   This session covers the economic dimensions of the AI transition. We use

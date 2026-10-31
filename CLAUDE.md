@@ -242,6 +242,18 @@ site), added a second Stanford-only Drive video to L13 (Sen Gupta, "AI Policy &
 Regulation in India", no length given), and dropped Zappia's office hours,
 so his card now carries only his email.
 
+On **Oct 30 2026** the user inserted a new **L11 "Existential Risks
+Continued"** (Wed Oct 28, unit 4 Societal Risk, guest Audrey Tang) and moved
+every later lecture up one number and one date slot: EU → L12 (Nov 2), US → L13
+(Nov 4), China & Middle Powers → L14 (Nov 9), Future of Labor → L15 (Nov 11),
+Competition → L16 (Nov 16), Geopolitics → L17 (Nov 18), Human in an AI Age →
+L18 (Nov 30), consuming the old blank L18. L19 is unchanged. Units travel with
+the content; deadline badges stay with their dates (Milestone 2 → L13,
+Milestone 3 → L15, law R-credit → L16). L10 gained guest Meredith Whittaker.
+Lecture numbers in the history paragraphs above predate this shift (e.g. the
+Habuka and Sen Gupta videos are now on L14). Guests use the lecture's
+`guest:` front-matter key.
+
 The Sept syllabus also still lists **Thay Graciano** and omits **Laise Barbosa**,
 and titles the TAs "Teaching Assistant" / "Law Teaching Assistant". The site's
 roster and titles come from the instructors' later direction and stay as they
@@ -250,9 +262,10 @@ are — see "Course staff" below.
 Known gaps — these render as **TBD/TBA** on the site and should not be filled in
 by guessing:
 
-- [ ] **Lecture 18 (Mon Nov 30) has no topic at all** — the course map reserves
-      the slot and leaves it blank. The page is `ready: false` so `/lectures/`
-      lists it without a link.
+- [x] **Lecture 18 (Mon Nov 30)** — once a blank slot; filled by the Oct 30
+      renumbering (see above), which moved "Human in an AI Age" into it.
+- [ ] **Lecture 11 (Existential Risks Continued)** has no summary or readings
+      yet — it renders "Summary: TBD" and no readings box. Don't invent them.
 - [x] **Lecture 6** (AI, Copyright, Creativity & Privacy) — the merged
       copyright + privacy list and its summary landed in the Sept 2026 syllabus.
       The superseded lists that were once preserved as commented YAML are gone.
@@ -272,7 +285,7 @@ by guessing:
 - [ ] Slide decks — every `/schedule/` row shows an inert `[slides]` placeholder
       until a lecture gets a `slides:` URL in its front matter. That one key
       also puts a `[slides]` link under the date on the lecture page itself
-      (no placeholder there). Decks live in `assets/slides/`; L1–L10 are in. Section rows take the
+      (no placeholder there). Decks live in `assets/slides/`; L1–L11 are in. Section rows take the
       same `slides:` key on their `- section: true` row in `_modules/`; decks live in
       `assets/slides/section/` (`CS283_WeekN_Section_Public.pdf`); Weeks 2–4 are in.
       Each section row also carries `week:` (2–10; fall break is unnumbered), and

@@ -1,8 +1,8 @@
 ---
-lecture: 17
+lecture: 18
 title: "What Does It Mean to Be Human in an AI Age?"
 nav_title: "AI and Humanity"
-date: 2026-11-18
+date: 2026-11-30
 unit: 7
 unit_title: "Living with AI"
 ready: true

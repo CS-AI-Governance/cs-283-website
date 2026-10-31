@@ -1,10 +1,13 @@
 ---
-lecture: 12
+lecture: 13
 title: "Federal & State-Level US Law and Policy"
 nav_title: "US Law and Policy"
-date: 2026-11-02
+date: 2026-11-04
 unit: 5
 unit_title: "National & International Approaches to AI Governance"
+deadlines:
+  - label: "Milestone 2 due"
+    date: "Wed Nov 4"
 ready: true
 summary: >-
   This lecture surveys major U.S. policy actions with attention to their

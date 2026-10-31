@@ -5,6 +5,7 @@ nav_title: "Existential Risks"
 date: 2026-10-26
 unit: 4
 unit_title: "Societal Risk"
+guest: "Meredith Whittaker"
 ready: true
 slides: /assets/slides/CS283_Lecture10_Public.pdf
 summary: >-

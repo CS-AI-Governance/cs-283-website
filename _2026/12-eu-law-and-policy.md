@@ -1,8 +1,8 @@
 ---
-lecture: 11
+lecture: 12
 title: "EU Law and Policy"
 nav_title: "EU Law and Policy"
-date: 2026-10-28
+date: 2026-11-02
 unit: 5
 unit_title: "National & International Approaches to AI Governance"
 ready: true
