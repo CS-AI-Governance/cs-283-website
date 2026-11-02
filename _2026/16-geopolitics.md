@@ -1,10 +1,14 @@
 ---
-lecture: 17
+lecture: 16
 title: "Geopolitics and Global AI Governance"
 nav_title: "Geopolitics and AI Governance"
-date: 2026-11-18
-unit: 7
-unit_title: "Living with AI"
+date: 2026-11-16
+unit: 6
+unit_title: "The AI Economy and Living with AI"
+deadlines:
+  - label: "Law R-credit draft due"
+    date: "Mon Nov 16"
+    track: law
 ready: true
 summary: >-
   We explore how technical issues like model proliferation, hardware chokepoints,

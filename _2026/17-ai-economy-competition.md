@@ -1,14 +1,10 @@
 ---
-lecture: 16
+lecture: 17
 title: "The AI Economy: Competition, Open Models, & Antitrust"
 nav_title: "AI Economy: Competition & Anti-Trust"
-date: 2026-11-16
+date: 2026-11-18
 unit: 6
-unit_title: "The AI Economy"
-deadlines:
-  - label: "Law R-credit draft due"
-    date: "Mon Nov 16"
-    track: law
+unit_title: "The AI Economy and Living with AI"
 ready: true
 summary: >-
   We will survey the state of antitrust with respect to AI models, focusing on questions of liability, competition, and monopoly. Students

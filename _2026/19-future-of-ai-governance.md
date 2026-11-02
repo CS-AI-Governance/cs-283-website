@@ -3,7 +3,7 @@ lecture: 19
 title: "The Future of AI Governance"
 nav_title: "Future of AI Governance"
 date: 2026-12-02
-unit: 8
+unit: 7
 unit_title: "Outlook"
 deadlines:
   - label: "Milestone 4 due"

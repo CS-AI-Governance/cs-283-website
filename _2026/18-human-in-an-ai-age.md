@@ -3,8 +3,8 @@ lecture: 18
 title: "What Does It Mean to Be Human in an AI Age?"
 nav_title: "AI and Humanity"
 date: 2026-11-30
-unit: 7
-unit_title: "Living with AI"
+unit: 6
+unit_title: "The AI Economy and Living with AI"
 ready: true
 summary: >-
   This lecture incorporates technical examples to probe questions of human

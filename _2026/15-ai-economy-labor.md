@@ -4,7 +4,7 @@ title: "The AI Economy: The Future of Labor"
 nav_title: "AI Economy: Future of Labor"
 date: 2026-11-11
 unit: 6
-unit_title: "The AI Economy"
+unit_title: "The AI Economy and Living with AI"
 deadlines:
   - label: "Milestone 3 due"
     date: "Wed Nov 11"

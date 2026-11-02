@@ -98,9 +98,9 @@ suffixes.)
 - **Course units, not weeks**: the calendar is grouped by the *thematic units* of
   the instructors' course map (Course Introduction, Technical Foundations,
   Individual Risks, Societal Risk, National & International Approaches to AI
-  Governance, The AI Economy, Living with AI, Outlook) — **not** by calendar week,
-  and the units are uneven (1 to 4 lectures each). Each `_2026/*.md` carries
-  `unit:` (1–8) + `unit_title:`; `_layouts/lecture.html` prints the title alone
+  Governance, The AI Economy and Living with AI, Outlook) — **not** by calendar
+  week, and the units are uneven (1 to 5 lectures each). Each `_2026/*.md` carries
+  `unit:` (1–7) + `unit_title:`; `_layouts/lecture.html` prints the title alone
   and `pages/lectures.md` groups by it. There is deliberately no week number
   anywhere on the site. One `_modules` doc per unit, `order:` matching `unit:`.
 - **Lecture nav titles**: the hover dropdown in `_includes/nav.html` shows each
@@ -253,6 +253,13 @@ Milestone 3 → L15, law R-credit → L16). L10 gained guest Meredith Whittaker.
 Lecture numbers in the history paragraphs above predate this shift (e.g. the
 Habuka and Sen Gupta videos are now on L14). Guests use the lecture's
 `guest:` front-matter key.
+
+On **Nov 2 2026** the user swapped **L16 and L17**: Geopolitics & Global AI
+Governance is now L16 (Mon Nov 16) and Competition, Open Models, & Antitrust is
+L17 (Wed Nov 18); the law R-credit badge stays on the Nov 16 date, i.e. L16. To
+keep units contiguous, the user merged units 6 and 7 into one unit, **"The AI
+Economy and Living with AI"** (L15–L18, unit 6), and Outlook became unit 7 —
+so the site now has **7** units, not 8.
 
 The Sept syllabus also still lists **Thay Graciano** and omits **Laise Barbosa**,
 and titles the TAs "Teaching Assistant" / "Law Teaching Assistant". The site's
