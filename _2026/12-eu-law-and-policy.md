@@ -6,6 +6,7 @@ date: 2026-11-02
 unit: 5
 unit_title: "National & International Approaches to AI Governance"
 ready: true
+slides: /assets/slides/CS283_Lecture12_Public.pdf
 summary: >-
   We dissect the EU AI Act and the GPAI Code of Practice, focusing on how risk
   classifications of AI systems map to technical characteristics like training
