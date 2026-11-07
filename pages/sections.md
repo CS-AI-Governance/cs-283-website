@@ -30,7 +30,7 @@ with the course material in greater depth.
   {% assign fri = thu | plus: 86400 %}
   <dd class="lecture-index-item">
     <span class="lecture-index-num">Week {{ row.week }}</span>
-    <span>{{ thu | date: '%b' }} {% include ordinal.html date=thu %} or {% include ordinal.html date=fri %}</span>
+    <span>{{ thu | date: '%b' }} {% include ordinal.html date=thu %} or {% include ordinal.html date=fri %}{% if row.topic %}: {{ row.topic }}{% endif %}</span>
     <span class="cal-slides">{% if row.slides %}<a href="{{ row.slides | relative_url }}">[slides]</a>{% else %}<span class="cal-slides-tbd">[slides]</span>{% endif %}</span>
   </dd>
   {% endif %}
