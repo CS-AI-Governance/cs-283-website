@@ -294,7 +294,7 @@ by guessing:
       also puts a `[slides]` link under the date on the lecture page itself
       (no placeholder there). Decks live in `assets/slides/`; L1–L13 are in. Section rows take the
       same `slides:` key on their `- section: true` row in `_modules/`; decks live in
-      `assets/slides/section/` (`CS283_WeekN_Section_Public.pdf`); Weeks 2–4 and 7 are in; Week 7's (best practices for writing with generative AI) is also linked from `/resources/`.
+      `assets/slides/section/` (`CS283_WeekN_Section_Public.pdf`); Weeks 2–4 and 7 are in; Week 7's (best practices for writing with generative AI) is also linked from `/resources/`, under the AI-tools policy.
       Each section row also carries `week:` (2–10; fall break is unnumbered), and
       `/sections/` lists those rows with their decks, dating each Thu/Fri from the
       preceding lecture. Its section leaders are the listed CAs minus Fischli,

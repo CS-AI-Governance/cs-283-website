@@ -34,6 +34,12 @@ they used AI tools for the assignment, including a complete catalogue of prompts
 In addition, **any hallucinations in submitted work will result in a failing grade
 for the course.**
 
+#### Best practices for generative AI in writing
+
+The Week 7 section covered current best practices for writing with generative AI
+tools. Its slides are available here:
+[Current best practices for Gen AI]({{ '/assets/slides/section/CS283_Week7_Section_Public.pdf' | relative_url }}).
+
 ### Device-free classroom
 
 In accordance with Stanford PACE, we are adopting a device-free classroom policy.
@@ -82,12 +88,6 @@ to coordinate accommodations.
 [Student Disability Resource Center · Office of Accessible Education](https://studentaffairs.stanford.edu/oae)
 
 ## Additional resources for learning
-
-### Best practices for generative AI in writing
-
-The Week 7 section covered current best practices for writing with generative AI
-tools. Its slides are available here:
-[Current best practices for Gen AI]({{ '/assets/slides/section/CS283_Week7_Section_Public.pdf' | relative_url }}).
 
 ### Hume Center for Writing and Speaking
 
