@@ -83,6 +83,12 @@ to coordinate accommodations.
 
 ## Additional resources for learning
 
+### Best practices for generative AI in writing
+
+The Week 7 section covered current best practices for writing with generative AI
+tools. Its slides are available here:
+[Current best practices for Gen AI]({{ '/assets/slides/section/CS283_Week7_Section_Public.pdf' | relative_url }}).
+
 ### Hume Center for Writing and Speaking
 
 The [Hume Writing Center](https://hume.stanford.edu/) works with Stanford students

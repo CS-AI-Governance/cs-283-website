@@ -8,6 +8,7 @@ unit_title: "National & International Approaches to AI Governance"
 deadlines:
   - label: "Milestone 2 due"
     date: "Wed Nov 4"
+slides: /assets/slides/CS283_Lecture13_Public.pdf
 ready: true
 summary: >-
   This lecture surveys major U.S. policy actions with attention to their

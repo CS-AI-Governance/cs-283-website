@@ -7,5 +7,6 @@ rows:
   - lecture: 13
   - section: true
     week: 7
+    slides: /assets/slides/section/CS283_Week7_Section_Public.pdf
   - lecture: 14
 ---
