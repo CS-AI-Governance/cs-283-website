@@ -8,6 +8,7 @@ unit_title: "The AI Economy and Living with AI"
 deadlines:
   - label: "Milestone 3 due"
     date: "Wed Nov 11"
+slides: /assets/slides/CS283_Lecture15_Public.pdf
 ready: true
 summary: >-
   This session covers the economic dimensions of the AI transition. We use

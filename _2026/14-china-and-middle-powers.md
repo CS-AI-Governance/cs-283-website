@@ -5,6 +5,7 @@ nav_title: "China and Middle Powers"
 date: 2026-11-09
 unit: 5
 unit_title: "National & International Approaches to AI Governance"
+slides: /assets/slides/CS283_Lecture14_Public.pdf
 ready: true
 summary: >-
   This lecture examines the diverse and evolving approaches to AI governance,
