@@ -6,6 +6,7 @@ date: 2026-11-18
 unit: 6
 unit_title: "The AI Economy and Living with AI"
 ready: true
+slides: /assets/slides/CS283_Lecture17_Public.pdf
 summary: >-
   We will survey the state of antitrust with respect to AI models, focusing on questions of liability, competition, and monopoly. Students
   will explore attempts to understand the emerging power of AI models within a
